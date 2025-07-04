@@ -1,0 +1,1886 @@
+{
+  "products": {
+    "623065": {
+      "productId": 623065,
+      "name": "Disney Lorcana: Illumineer's Quest: Palace Heist",
+      "cleanName": "Disney Lorcana Illumineers Quest Palace Heist",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/623065_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24257",
+      "url": "https://www.tcgplayer.com/product/623065/lorcana-tcg-illumineers-quest-palace-heist-disney-lorcana-illumineers-quest-palace-heist",
+      "modifiedOn": "2025-06-06T04:10:17.917",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2025-06-06T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Illumineer's Quest: Palace Heist"
+    },
+    "623058": {
+      "productId": 623058,
+      "name": "Disney Lorcana: Reign of Jafar Starter Deck (Amber & Amethyst)",
+      "cleanName": "Disney Lorcana Reign of Jafar Starter Deck Amber and Amethyst",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/623058_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24258",
+      "url": "https://www.tcgplayer.com/product/623058/lorcana-tcg-reign-of-jafar-disney-lorcana-reign-of-jafar-starter-deck-amber-and-amethyst",
+      "modifiedOn": "2025-06-06T04:10:17.917",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2025-06-06T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Reign of Jafar"
+    },
+    "623059": {
+      "productId": 623059,
+      "name": "Disney Lorcana: Reign of Jafar Starter Deck (Ruby & Steel)",
+      "cleanName": "Disney Lorcana Reign of Jafar Starter Deck Ruby and Steel",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/623059_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24258",
+      "url": "https://www.tcgplayer.com/product/623059/lorcana-tcg-reign-of-jafar-disney-lorcana-reign-of-jafar-starter-deck-ruby-and-steel",
+      "modifiedOn": "2025-06-06T04:10:17.917",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2025-06-06T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Reign of Jafar"
+    },
+    "623060": {
+      "productId": 623060,
+      "name": "Disney Lorcana: Reign of Jafar Starter Deck Display",
+      "cleanName": "Disney Lorcana Reign of Jafar Starter Deck Display",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/623060_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24258",
+      "url": "https://www.tcgplayer.com/product/623060/lorcana-tcg-reign-of-jafar-disney-lorcana-reign-of-jafar-starter-deck-display",
+      "modifiedOn": "2025-06-06T04:10:17.917",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2025-06-06T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Reign of Jafar"
+    },
+    "623061": {
+      "productId": 623061,
+      "name": "Disney Lorcana: Reign of Jafar Illumineer's Trove",
+      "cleanName": "Disney Lorcana Reign of Jafar Illumineers Trove",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/623061_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24258",
+      "url": "https://www.tcgplayer.com/product/623061/lorcana-tcg-reign-of-jafar-disney-lorcana-reign-of-jafar-illumineers-trove",
+      "modifiedOn": "2025-06-06T04:10:17.917",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2025-06-06T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Reign of Jafar"
+    },
+    "623062": {
+      "productId": 623062,
+      "name": "Disney Lorcana: Reign of Jafar Sleeved Booster Pack",
+      "cleanName": "Disney Lorcana Reign of Jafar Sleeved Booster Pack",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/623062_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24258",
+      "url": "https://www.tcgplayer.com/product/623062/lorcana-tcg-reign-of-jafar-disney-lorcana-reign-of-jafar-sleeved-booster-pack",
+      "modifiedOn": "2025-06-06T04:10:17.917",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2025-06-06T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Reign of Jafar"
+    },
+    "623063": {
+      "productId": 623063,
+      "name": "Disney Lorcana: Reign of Jafar Booster Pack",
+      "cleanName": "Disney Lorcana Reign of Jafar Booster Pack",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/623063_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24258",
+      "url": "https://www.tcgplayer.com/product/623063/lorcana-tcg-reign-of-jafar-disney-lorcana-reign-of-jafar-booster-pack",
+      "modifiedOn": "2025-06-06T04:10:17.917",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2025-06-06T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Reign of Jafar"
+    },
+    "623064": {
+      "productId": 623064,
+      "name": "Disney Lorcana: Reign of Jafar Booster Box",
+      "cleanName": "Disney Lorcana Reign of Jafar Booster Box",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/623064_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24258",
+      "url": "https://www.tcgplayer.com/product/623064/lorcana-tcg-reign-of-jafar-disney-lorcana-reign-of-jafar-booster-box",
+      "modifiedOn": "2025-06-06T04:10:17.917",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2025-06-06T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Reign of Jafar"
+    },
+    "623067": {
+      "productId": 623067,
+      "name": "Disney Lorcana: Reign of Jafar Booster Box Case",
+      "cleanName": "Disney Lorcana Reign of Jafar Booster Box Case",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/623067_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24258",
+      "url": "https://www.tcgplayer.com/product/623067/lorcana-tcg-reign-of-jafar-disney-lorcana-reign-of-jafar-booster-box-case",
+      "modifiedOn": "2025-06-06T04:10:17.917",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2025-06-06T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Reign of Jafar"
+    },
+    "630012": {
+      "productId": 630012,
+      "name": "Disney Lorcana: Reign of Jafar Starter Deck [Set of 2]",
+      "cleanName": "Disney Lorcana Reign of Jafar Starter Deck Set of 2",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/630012_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24258",
+      "url": "https://www.tcgplayer.com/product/630012/lorcana-tcg-reign-of-jafar-disney-lorcana-reign-of-jafar-starter-deck-set-of-2",
+      "modifiedOn": "2025-06-23T14:41:53.243",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Reign of Jafar"
+    },
+    "607758": {
+      "productId": 607758,
+      "name": "Disney Lorcana: Archazia's Island Booster Box",
+      "cleanName": "Disney Lorcana Archazias Island Booster Box",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/607758_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24011",
+      "url": "https://www.tcgplayer.com/product/607758/lorcana-tcg-archazias-island-disney-lorcana-archazias-island-booster-box",
+      "modifiedOn": "2025-03-28T15:20:17.163",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2025-03-21T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Archazia's Island"
+    },
+    "607759": {
+      "productId": 607759,
+      "name": "Disney Lorcana: Archazia's Island Booster Box Case",
+      "cleanName": "Disney Lorcana Archazias Island Booster Box Case",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/607759_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24011",
+      "url": "https://www.tcgplayer.com/product/607759/lorcana-tcg-archazias-island-disney-lorcana-archazias-island-booster-box-case",
+      "modifiedOn": "2025-03-21T04:10:15.197",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2025-03-21T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Archazia's Island"
+    },
+    "607760": {
+      "productId": 607760,
+      "name": "Disney Lorcana: Archazia's Island Booster Pack",
+      "cleanName": "Disney Lorcana Archazias Island Booster Pack",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/607760_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24011",
+      "url": "https://www.tcgplayer.com/product/607760/lorcana-tcg-archazias-island-disney-lorcana-archazias-island-booster-pack",
+      "modifiedOn": "2025-03-21T04:10:15.197",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2025-03-21T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Archazia's Island"
+    },
+    "607761": {
+      "productId": 607761,
+      "name": "Disney Lorcana: Archazia's Island Illumineer's Trove",
+      "cleanName": "Disney Lorcana Archazias Island Illumineers Trove",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/607761_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24011",
+      "url": "https://www.tcgplayer.com/product/607761/lorcana-tcg-archazias-island-disney-lorcana-archazias-island-illumineers-trove",
+      "modifiedOn": "2025-03-21T04:10:15.197",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2025-03-21T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Archazia's Island"
+    },
+    "607762": {
+      "productId": 607762,
+      "name": "Disney Lorcana: Archazia's Island Sleeved Booster Pack",
+      "cleanName": "Disney Lorcana Archazias Island Sleeved Booster Pack",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/607762_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24011",
+      "url": "https://www.tcgplayer.com/product/607762/lorcana-tcg-archazias-island-disney-lorcana-archazias-island-sleeved-booster-pack",
+      "modifiedOn": "2025-03-21T04:10:15.197",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2025-03-21T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Archazia's Island"
+    },
+    "607763": {
+      "productId": 607763,
+      "name": "Disney Lorcana: Archazia's Island Sleeved Booster Pack Art Bundle",
+      "cleanName": "Disney Lorcana Archazias Island Sleeved Booster Pack Art Bundle",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/607763_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24011",
+      "url": "https://www.tcgplayer.com/product/607763/lorcana-tcg-archazias-island-disney-lorcana-archazias-island-sleeved-booster-pack-art-bundle",
+      "modifiedOn": "2025-03-21T04:10:15.197",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2025-03-21T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Archazia's Island"
+    },
+    "607765": {
+      "productId": 607765,
+      "name": "Disney Lorcana: Archazia's Island Gift Box",
+      "cleanName": "Disney Lorcana Archazias Island Gift Box",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/607765_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24011",
+      "url": "https://www.tcgplayer.com/product/607765/lorcana-tcg-archazias-island-disney-lorcana-archazias-island-gift-box",
+      "modifiedOn": "2025-03-21T04:10:15.197",
+      "imageCount": 2,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2025-03-21T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Archazia's Island"
+    },
+    "607802": {
+      "productId": 607802,
+      "name": "Disney Lorcana: Archazia's Island Starter Deck (Ruby & Sapphire)",
+      "cleanName": "Disney Lorcana Archazias Island Starter Deck Ruby and Sapphire",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/607802_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24011",
+      "url": "https://www.tcgplayer.com/product/607802/lorcana-tcg-archazias-island-disney-lorcana-archazias-island-starter-deck-ruby-and-sapphire",
+      "modifiedOn": "2025-03-21T04:10:15.197",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2025-03-21T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Archazia's Island"
+    },
+    "607803": {
+      "productId": 607803,
+      "name": "Disney Lorcana: Archazia's Island Starter Deck (Amethyst & Steel)",
+      "cleanName": "Disney Lorcana Archazias Island Starter Deck Amethyst and Steel",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/607803_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24011",
+      "url": "https://www.tcgplayer.com/product/607803/lorcana-tcg-archazias-island-disney-lorcana-archazias-island-starter-deck-amethyst-and-steel",
+      "modifiedOn": "2025-03-21T04:10:15.197",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2025-03-21T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Archazia's Island"
+    },
+    "607804": {
+      "productId": 607804,
+      "name": "Disney Lorcana: Archazia's Island Starter Deck Display",
+      "cleanName": "Disney Lorcana Archazias Island Starter Deck Display",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/607804_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24011",
+      "url": "https://www.tcgplayer.com/product/607804/lorcana-tcg-archazias-island-disney-lorcana-archazias-island-starter-deck-display",
+      "modifiedOn": "2025-03-21T04:10:15.197",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2025-03-21T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Archazia's Island"
+    },
+    "614851": {
+      "productId": 614851,
+      "name": "Disney Lorcana: Archazia's Island Starter Deck [Set of 2]",
+      "cleanName": "Disney Lorcana Archazias Island Starter Deck Set of 2",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/614851_200w.jpg",
+      "categoryId": "71",
+      "groupId": "24011",
+      "url": "https://www.tcgplayer.com/product/614851/lorcana-tcg-archazias-island-disney-lorcana-archazias-island-starter-deck-set-of-2",
+      "modifiedOn": "2025-03-21T04:10:15.197",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2025-03-21T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Archazia's Island"
+    },
+    "578093": {
+      "productId": 578093,
+      "name": "Disney Lorcana: Azurite Sea Booster Box",
+      "cleanName": "Disney Lorcana Azurite Sea Booster Box",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/578093_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23746",
+      "url": "https://www.tcgplayer.com/product/578093/lorcana-tcg-azurite-sea-disney-lorcana-azurite-sea-booster-box",
+      "modifiedOn": "2024-11-25T05:08:11.98",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-11-25T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Azurite Sea"
+    },
+    "578094": {
+      "productId": 578094,
+      "name": "Disney Lorcana: Azurite Sea Booster Box Case",
+      "cleanName": "Disney Lorcana Azurite Sea Booster Box Case",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/578094_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23746",
+      "url": "https://www.tcgplayer.com/product/578094/lorcana-tcg-azurite-sea-disney-lorcana-azurite-sea-booster-box-case",
+      "modifiedOn": "2024-11-25T05:08:11.98",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-11-25T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Azurite Sea"
+    },
+    "578095": {
+      "productId": 578095,
+      "name": "Disney Lorcana: Azurite Sea Booster Pack",
+      "cleanName": "Disney Lorcana Azurite Sea Booster Pack",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/578095_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23746",
+      "url": "https://www.tcgplayer.com/product/578095/lorcana-tcg-azurite-sea-disney-lorcana-azurite-sea-booster-pack",
+      "modifiedOn": "2024-11-25T05:08:11.98",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-11-25T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Azurite Sea"
+    },
+    "578121": {
+      "productId": 578121,
+      "name": "Disney Lorcana: Azurite Sea Illumineer's Trove",
+      "cleanName": "Disney Lorcana Azurite Sea Illumineers Trove",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/578121_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23746",
+      "url": "https://www.tcgplayer.com/product/578121/lorcana-tcg-azurite-sea-disney-lorcana-azurite-sea-illumineers-trove",
+      "modifiedOn": "2024-11-25T05:08:11.98",
+      "imageCount": 2,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-11-25T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Azurite Sea"
+    },
+    "578122": {
+      "productId": 578122,
+      "name": "Disney Lorcana: Stitch Collector's Gift Set",
+      "cleanName": "Disney Lorcana Stitch Collectors Gift Set",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/578122_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23746",
+      "url": "https://www.tcgplayer.com/product/578122/lorcana-tcg-azurite-sea-disney-lorcana-stitch-collectors-gift-set",
+      "modifiedOn": "2024-11-25T05:08:11.98",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-11-25T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Azurite Sea"
+    },
+    "578123": {
+      "productId": 578123,
+      "name": "Disney Lorcana: Azurite Sea Starter Deck (Amber & Ruby)",
+      "cleanName": "Disney Lorcana Azurite Sea Starter Deck Amber and Ruby",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/578123_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23746",
+      "url": "https://www.tcgplayer.com/product/578123/lorcana-tcg-azurite-sea-disney-lorcana-azurite-sea-starter-deck-amber-and-ruby",
+      "modifiedOn": "2024-11-25T05:08:11.98",
+      "imageCount": 2,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-11-25T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Azurite Sea"
+    },
+    "578124": {
+      "productId": 578124,
+      "name": "Disney Lorcana: Azurite Sea Starter Deck (Emerald & Sapphire)",
+      "cleanName": "Disney Lorcana Azurite Sea Starter Deck Emerald and Sapphire",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/578124_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23746",
+      "url": "https://www.tcgplayer.com/product/578124/lorcana-tcg-azurite-sea-disney-lorcana-azurite-sea-starter-deck-emerald-and-sapphire",
+      "modifiedOn": "2024-11-25T05:08:11.98",
+      "imageCount": 2,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-11-25T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Azurite Sea"
+    },
+    "578125": {
+      "productId": 578125,
+      "name": "Disney Lorcana: Azurite Sea Starter Deck [Set of 2]",
+      "cleanName": "Disney Lorcana Azurite Sea Starter Deck Set of 2",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/578125_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23746",
+      "url": "https://www.tcgplayer.com/product/578125/lorcana-tcg-azurite-sea-disney-lorcana-azurite-sea-starter-deck-set-of-2",
+      "modifiedOn": "2024-11-25T05:08:11.98",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-11-25T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Azurite Sea"
+    },
+    "578128": {
+      "productId": 578128,
+      "name": "Disney Lorcana: Azurite Sea Starter Deck Display",
+      "cleanName": "Disney Lorcana Azurite Sea Starter Deck Display",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/578128_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23746",
+      "url": "https://www.tcgplayer.com/product/578128/lorcana-tcg-azurite-sea-disney-lorcana-azurite-sea-starter-deck-display",
+      "modifiedOn": "2024-11-25T05:08:11.98",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-11-25T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Azurite Sea"
+    },
+    "593831": {
+      "productId": 593831,
+      "name": "Disney Lorcana: Azurite Sea Sleeved Booster Pack",
+      "cleanName": "Disney Lorcana Azurite Sea Sleeved Booster Pack",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/593831_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23746",
+      "url": "https://www.tcgplayer.com/product/593831/lorcana-tcg-azurite-sea-disney-lorcana-azurite-sea-sleeved-booster-pack",
+      "modifiedOn": "2024-11-25T05:08:11.98",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-11-25T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Azurite Sea"
+    },
+    "593832": {
+      "productId": 593832,
+      "name": "Disney Lorcana: Azurite Sea Sleeved Booster Pack Art Bundle [Set of 3]",
+      "cleanName": "Disney Lorcana Azurite Sea Sleeved Booster Pack Art Bundle Set of 3",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/593832_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23746",
+      "url": "https://www.tcgplayer.com/product/593832/lorcana-tcg-azurite-sea-disney-lorcana-azurite-sea-sleeved-booster-pack-art-bundle-set-of-3",
+      "modifiedOn": "2024-11-25T05:08:11.98",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-11-25T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Azurite Sea"
+    },
+    "555130": {
+      "productId": 555130,
+      "name": "Disney Lorcana: Shimmering Skies Booster Box",
+      "cleanName": "Disney Lorcana Shimmering Skies Booster Box",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/555130_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23536",
+      "url": "https://www.tcgplayer.com/product/555130/lorcana-tcg-shimmering-skies-disney-lorcana-shimmering-skies-booster-box",
+      "modifiedOn": "2024-08-23T04:08:13.603",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-08-09T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Shimmering Skies"
+    },
+    "555131": {
+      "productId": 555131,
+      "name": "Disney Lorcana: Shimmering Skies Booster Box Case",
+      "cleanName": "Disney Lorcana Shimmering Skies Booster Box Case",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/555131_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23536",
+      "url": "https://www.tcgplayer.com/product/555131/lorcana-tcg-shimmering-skies-disney-lorcana-shimmering-skies-booster-box-case",
+      "modifiedOn": "2024-08-23T04:08:13.603",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-08-09T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Shimmering Skies"
+    },
+    "555142": {
+      "productId": 555142,
+      "name": "Disney Lorcana: Shimmering Skies Booster Pack",
+      "cleanName": "Disney Lorcana Shimmering Skies Booster Pack",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/555142_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23536",
+      "url": "https://www.tcgplayer.com/product/555142/lorcana-tcg-shimmering-skies-disney-lorcana-shimmering-skies-booster-pack",
+      "modifiedOn": "2024-08-23T04:08:13.603",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-08-09T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Shimmering Skies"
+    },
+    "555143": {
+      "productId": 555143,
+      "name": "Disney Lorcana: Gateway",
+      "cleanName": "Disney Lorcana Gateway",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/555143_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23536",
+      "url": "https://www.tcgplayer.com/product/555143/lorcana-tcg-shimmering-skies-disney-lorcana-gateway",
+      "modifiedOn": "2024-08-23T04:08:13.603",
+      "imageCount": 2,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-08-09T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Shimmering Skies"
+    },
+    "555144": {
+      "productId": 555144,
+      "name": "Disney Lorcana: Shimmering Skies Starter Deck (Amethyst & Ruby)",
+      "cleanName": "Disney Lorcana Shimmering Skies Starter Deck Amethyst and Ruby",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/555144_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23536",
+      "url": "https://www.tcgplayer.com/product/555144/lorcana-tcg-shimmering-skies-disney-lorcana-shimmering-skies-starter-deck-amethyst-and-ruby",
+      "modifiedOn": "2024-08-23T04:08:13.603",
+      "imageCount": 2,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-08-09T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Shimmering Skies"
+    },
+    "555145": {
+      "productId": 555145,
+      "name": "Disney Lorcana: Shimmering Skies Starter Deck (Emerald & Steel)",
+      "cleanName": "Disney Lorcana Shimmering Skies Starter Deck Emerald and Steel",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/555145_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23536",
+      "url": "https://www.tcgplayer.com/product/555145/lorcana-tcg-shimmering-skies-disney-lorcana-shimmering-skies-starter-deck-emerald-and-steel",
+      "modifiedOn": "2024-08-23T04:08:13.603",
+      "imageCount": 2,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-08-09T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Shimmering Skies"
+    },
+    "555146": {
+      "productId": 555146,
+      "name": "Disney Lorcana: Shimmering Skies Starter Deck Display",
+      "cleanName": "Disney Lorcana Shimmering Skies Starter Deck Display",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/555146_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23536",
+      "url": "https://www.tcgplayer.com/product/555146/lorcana-tcg-shimmering-skies-disney-lorcana-shimmering-skies-starter-deck-display",
+      "modifiedOn": "2024-08-23T04:08:13.603",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-08-09T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Shimmering Skies"
+    },
+    "555147": {
+      "productId": 555147,
+      "name": "Disney Lorcana: Shimmering Skies Starter Deck [Set of 2]",
+      "cleanName": "Disney Lorcana Shimmering Skies Starter Deck Set of 2",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/555147_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23536",
+      "url": "https://www.tcgplayer.com/product/555147/lorcana-tcg-shimmering-skies-disney-lorcana-shimmering-skies-starter-deck-set-of-2",
+      "modifiedOn": "2024-08-23T04:08:13.603",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-08-09T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Shimmering Skies"
+    },
+    "555148": {
+      "productId": 555148,
+      "name": "Disney Lorcana: Shimmering Skies Illumineer's Trove",
+      "cleanName": "Disney Lorcana Shimmering Skies Illumineers Trove",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/555148_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23536",
+      "url": "https://www.tcgplayer.com/product/555148/lorcana-tcg-shimmering-skies-disney-lorcana-shimmering-skies-illumineers-trove",
+      "modifiedOn": "2024-08-23T04:08:13.603",
+      "imageCount": 2,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-08-09T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Shimmering Skies"
+    },
+    "564487": {
+      "productId": 564487,
+      "name": "Disney Lorcana: Gateway Case",
+      "cleanName": "Disney Lorcana Gateway Case",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/564487_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23536",
+      "url": "https://www.tcgplayer.com/product/564487/lorcana-tcg-shimmering-skies-disney-lorcana-gateway-case",
+      "modifiedOn": "2024-08-23T04:08:13.603",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-08-09T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Shimmering Skies"
+    },
+    "565133": {
+      "productId": 565133,
+      "name": "Disney Lorcana: Shimmering Skies Sleeved Booster Pack",
+      "cleanName": "Disney Lorcana Shimmering Skies Sleeved Booster Pack",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/565133_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23536",
+      "url": "https://www.tcgplayer.com/product/565133/lorcana-tcg-shimmering-skies-disney-lorcana-shimmering-skies-sleeved-booster-pack",
+      "modifiedOn": "2024-08-23T14:31:13.22",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Shimmering Skies"
+    },
+    "565134": {
+      "productId": 565134,
+      "name": "Disney Lorcana: Shimmering Skies Sleeved Booster Pack Art Bundle [Set of 3]",
+      "cleanName": "Disney Lorcana Shimmering Skies Sleeved Booster Pack Art Bundle Set of 3",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/565134_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23536",
+      "url": "https://www.tcgplayer.com/product/565134/lorcana-tcg-shimmering-skies-disney-lorcana-shimmering-skies-sleeved-booster-pack-art-bundle-set-of-3",
+      "modifiedOn": "2024-08-23T14:43:06.357",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Shimmering Skies"
+    },
+    "543862": {
+      "productId": 543862,
+      "name": "Disney Lorcana: Illumineer's Quest: Deep Trouble",
+      "cleanName": "Disney Lorcana Illumineers Quest Deep Trouble",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/543862_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23528",
+      "url": "https://www.tcgplayer.com/product/543862/lorcana-tcg-illumineers-quest-deep-trouble-disney-lorcana-illumineers-quest-deep-trouble",
+      "modifiedOn": "2024-05-31T14:25:21.947",
+      "imageCount": 2,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-05-31T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Illumineer's Quest: Deep Trouble"
+    },
+    "543859": {
+      "productId": 543859,
+      "name": "Disney Lorcana: Ursula's Return Booster Box",
+      "cleanName": "Disney Lorcana Ursulas Return Booster Box",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/543859_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23474",
+      "url": "https://www.tcgplayer.com/product/543859/lorcana-tcg-ursulas-return-disney-lorcana-ursulas-return-booster-box",
+      "modifiedOn": "2024-05-31T14:25:21.947",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-05-31T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Ursula's Return"
+    },
+    "543860": {
+      "productId": 543860,
+      "name": "Disney Lorcana: Ursula's Return Booster Pack",
+      "cleanName": "Disney Lorcana Ursulas Return Booster Pack",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/543860_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23474",
+      "url": "https://www.tcgplayer.com/product/543860/lorcana-tcg-ursulas-return-disney-lorcana-ursulas-return-booster-pack",
+      "modifiedOn": "2024-05-31T14:25:21.947",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-05-31T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Ursula's Return"
+    },
+    "543861": {
+      "productId": 543861,
+      "name": "Disney Lorcana: Ursula's Return Illumineer's Trove",
+      "cleanName": "Disney Lorcana Ursulas Return Illumineers Trove",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/543861_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23474",
+      "url": "https://www.tcgplayer.com/product/543861/lorcana-tcg-ursulas-return-disney-lorcana-ursulas-return-illumineers-trove",
+      "modifiedOn": "2024-05-31T14:25:21.947",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-05-31T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Ursula's Return"
+    },
+    "543863": {
+      "productId": 543863,
+      "name": "Disney Lorcana: Ursula's Return Starter Deck (Amber & Amethyst)",
+      "cleanName": "Disney Lorcana Ursulas Return Starter Deck Amber and Amethyst",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/543863_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23474",
+      "url": "https://www.tcgplayer.com/product/543863/lorcana-tcg-ursulas-return-disney-lorcana-ursulas-return-starter-deck-amber-and-amethyst",
+      "modifiedOn": "2024-05-31T14:25:21.947",
+      "imageCount": 2,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-05-31T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Ursula's Return"
+    },
+    "543864": {
+      "productId": 543864,
+      "name": "Disney Lorcana: Ursula's Return Starter Deck (Sapphire & Steel)",
+      "cleanName": "Disney Lorcana Ursulas Return Starter Deck Sapphire and Steel",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/543864_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23474",
+      "url": "https://www.tcgplayer.com/product/543864/lorcana-tcg-ursulas-return-disney-lorcana-ursulas-return-starter-deck-sapphire-and-steel",
+      "modifiedOn": "2024-05-31T14:25:21.947",
+      "imageCount": 2,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-05-31T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Ursula's Return"
+    },
+    "543884": {
+      "productId": 543884,
+      "name": "Disney Lorcana: Ursula's Return Starter Deck Display",
+      "cleanName": "Disney Lorcana Ursulas Return Starter Deck Display",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/543884_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23474",
+      "url": "https://www.tcgplayer.com/product/543884/lorcana-tcg-ursulas-return-disney-lorcana-ursulas-return-starter-deck-display",
+      "modifiedOn": "2024-05-31T14:25:21.947",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-05-31T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Ursula's Return"
+    },
+    "543885": {
+      "productId": 543885,
+      "name": "Disney Lorcana: Ursula's Return Booster Box Case",
+      "cleanName": "Disney Lorcana Ursulas Return Booster Box Case",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/543885_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23474",
+      "url": "https://www.tcgplayer.com/product/543885/lorcana-tcg-ursulas-return-disney-lorcana-ursulas-return-booster-box-case",
+      "modifiedOn": "2024-05-31T14:25:21.947",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-05-31T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Ursula's Return"
+    },
+    "543886": {
+      "productId": 543886,
+      "name": "Disney Lorcana: Ursula's Return Starter Deck [Set of 2]",
+      "cleanName": "Disney Lorcana Ursulas Return Starter Deck Set of 2",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/543886_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23474",
+      "url": "https://www.tcgplayer.com/product/543886/lorcana-tcg-ursulas-return-disney-lorcana-ursulas-return-starter-deck-set-of-2",
+      "modifiedOn": "2024-05-31T14:25:21.947",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-05-31T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Ursula's Return"
+    },
+    "553902": {
+      "productId": 553902,
+      "name": "Disney Lorcana: Ursula's Return Sleeved Booster Pack",
+      "cleanName": "Disney Lorcana Ursulas Return Sleeved Booster Pack",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/553902_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23474",
+      "url": "https://www.tcgplayer.com/product/553902/lorcana-tcg-ursulas-return-disney-lorcana-ursulas-return-sleeved-booster-pack",
+      "modifiedOn": "2024-06-04T15:14:52.23",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Ursula's Return"
+    },
+    "553903": {
+      "productId": 553903,
+      "name": "Disney Lorcana: Ursula's Return Sleeved Booster Pack Art Bundle [Set of 3]",
+      "cleanName": "Disney Lorcana Ursulas Return Sleeved Booster Pack Art Bundle Set of 3",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/553903_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23474",
+      "url": "https://www.tcgplayer.com/product/553903/lorcana-tcg-ursulas-return-disney-lorcana-ursulas-return-sleeved-booster-pack-art-bundle-set-of-3",
+      "modifiedOn": "2024-06-04T15:04:55.86",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Ursula's Return"
+    },
+    "554328": {
+      "productId": 554328,
+      "name": "Disney Lorcana: Ursula's Return Booster Pack Art Bundle [Set of 3]",
+      "cleanName": "Disney Lorcana Ursulas Return Booster Pack Art Bundle Set of 3",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/554328_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23474",
+      "url": "https://www.tcgplayer.com/product/554328/lorcana-tcg-ursulas-return-disney-lorcana-ursulas-return-booster-pack-art-bundle-set-of-3",
+      "modifiedOn": "2024-06-04T15:14:21.357",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Ursula's Return"
+    },
+    "531521": {
+      "productId": 531521,
+      "name": "Disney Lorcana: Into the Inklands Booster Box",
+      "cleanName": "Disney Lorcana Into the Inklands Booster Box",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/531521_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23367",
+      "url": "https://www.tcgplayer.com/product/531521/lorcana-tcg-into-the-inklands-disney-lorcana-into-the-inklands-booster-box",
+      "modifiedOn": "2024-02-23T05:03:16.167",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-02-23T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Into the Inklands"
+    },
+    "531522": {
+      "productId": 531522,
+      "name": "Disney Lorcana: Into the Inklands Booster Box Case",
+      "cleanName": "Disney Lorcana Into the Inklands Booster Box Case",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/531522_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23367",
+      "url": "https://www.tcgplayer.com/product/531522/lorcana-tcg-into-the-inklands-disney-lorcana-into-the-inklands-booster-box-case",
+      "modifiedOn": "2024-02-23T05:03:16.167",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-02-23T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Into the Inklands"
+    },
+    "531523": {
+      "productId": 531523,
+      "name": "Disney Lorcana: Into the Inklands Booster Pack",
+      "cleanName": "Disney Lorcana Into the Inklands Booster Pack",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/531523_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23367",
+      "url": "https://www.tcgplayer.com/product/531523/lorcana-tcg-into-the-inklands-disney-lorcana-into-the-inklands-booster-pack",
+      "modifiedOn": "2024-02-23T05:03:16.167",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-02-23T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Into the Inklands"
+    },
+    "531524": {
+      "productId": 531524,
+      "name": "Disney Lorcana: Into the Inklands Illumineer's Trove",
+      "cleanName": "Disney Lorcana Into the Inklands Illumineers Trove",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/531524_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23367",
+      "url": "https://www.tcgplayer.com/product/531524/lorcana-tcg-into-the-inklands-disney-lorcana-into-the-inklands-illumineers-trove",
+      "modifiedOn": "2024-02-23T05:03:16.167",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-02-23T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Into the Inklands"
+    },
+    "531525": {
+      "productId": 531525,
+      "name": "Disney Lorcana: Into the Inklands Starter Deck Display",
+      "cleanName": "Disney Lorcana Into the Inklands Starter Deck Display",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/531525_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23367",
+      "url": "https://www.tcgplayer.com/product/531525/lorcana-tcg-into-the-inklands-disney-lorcana-into-the-inklands-starter-deck-display",
+      "modifiedOn": "2024-02-23T05:03:16.167",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-02-23T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Into the Inklands"
+    },
+    "531526": {
+      "productId": 531526,
+      "name": "Disney Lorcana: Into the Inklands Starter Deck (Amber & Emerald)",
+      "cleanName": "Disney Lorcana Into the Inklands Starter Deck Amber and Emerald",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/531526_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23367",
+      "url": "https://www.tcgplayer.com/product/531526/lorcana-tcg-into-the-inklands-disney-lorcana-into-the-inklands-starter-deck-amber-and-emerald",
+      "modifiedOn": "2024-02-23T05:03:16.167",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-02-23T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Into the Inklands"
+    },
+    "531527": {
+      "productId": 531527,
+      "name": "Disney Lorcana: Into the Inklands Starter Deck (Ruby & Sapphire)",
+      "cleanName": "Disney Lorcana Into the Inklands Starter Deck Ruby and Sapphire",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/531527_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23367",
+      "url": "https://www.tcgplayer.com/product/531527/lorcana-tcg-into-the-inklands-disney-lorcana-into-the-inklands-starter-deck-ruby-and-sapphire",
+      "modifiedOn": "2024-02-23T05:03:16.167",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-02-23T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Into the Inklands"
+    },
+    "531528": {
+      "productId": 531528,
+      "name": "Disney Lorcana: Into the Inklands Gift Set",
+      "cleanName": "Disney Lorcana Into the Inklands Gift Set",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/531528_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23367",
+      "url": "https://www.tcgplayer.com/product/531528/lorcana-tcg-into-the-inklands-disney-lorcana-into-the-inklands-gift-set",
+      "modifiedOn": "2024-02-23T05:03:16.167",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-02-23T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Into the Inklands"
+    },
+    "531529": {
+      "productId": 531529,
+      "name": "Disney Lorcana: Into the Inklands Starter Deck [Set of 2]",
+      "cleanName": "Disney Lorcana Into the Inklands Starter Deck Set of 2",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/531529_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23367",
+      "url": "https://www.tcgplayer.com/product/531529/lorcana-tcg-into-the-inklands-disney-lorcana-into-the-inklands-starter-deck-set-of-2",
+      "modifiedOn": "2024-02-23T05:03:16.167",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2024-02-23T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Into the Inklands"
+    },
+    "543931": {
+      "productId": 543931,
+      "name": "Disney Lorcana: Into the Inklands Sleeved Booster Pack Art Bundle [Set of 3]",
+      "cleanName": "Disney Lorcana Into the Inklands Sleeved Booster Pack Art Bundle Set of 3",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/543931_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23367",
+      "url": "https://www.tcgplayer.com/product/543931/lorcana-tcg-into-the-inklands-disney-lorcana-into-the-inklands-sleeved-booster-pack-art-bundle-set-of-3",
+      "modifiedOn": "2024-03-22T17:55:52.86",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Into the Inklands"
+    },
+    "543932": {
+      "productId": 543932,
+      "name": "Disney Lorcana: Into the Inklands Sleeved Booster Pack",
+      "cleanName": "Disney Lorcana Into the Inklands Sleeved Booster Pack",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/543932_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23367",
+      "url": "https://www.tcgplayer.com/product/543932/lorcana-tcg-into-the-inklands-disney-lorcana-into-the-inklands-sleeved-booster-pack",
+      "modifiedOn": "2024-03-22T18:09:20.88",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Into the Inklands"
+    },
+    "614148": {
+      "productId": 614148,
+      "name": "Disney Lorcana: Into the Inklands Bundle",
+      "cleanName": "Disney Lorcana Into the Inklands Bundle",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/614148_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23367",
+      "url": "https://www.tcgplayer.com/product/614148/lorcana-tcg-into-the-inklands-disney-lorcana-into-the-inklands-bundle",
+      "modifiedOn": "2025-01-21T16:26:16.687",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Into the Inklands"
+    },
+    "516276": {
+      "productId": 516276,
+      "name": "Disney Lorcana: Rise of the Floodborn Booster Box",
+      "cleanName": "Disney Lorcana Rise of the Floodborn Booster Box",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/516276_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23303",
+      "url": "https://www.tcgplayer.com/product/516276/lorcana-tcg-rise-of-the-floodborn-disney-lorcana-rise-of-the-floodborn-booster-box",
+      "modifiedOn": "2023-11-17T05:03:22.803",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2023-11-17T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Rise of the Floodborn"
+    },
+    "516277": {
+      "productId": 516277,
+      "name": "Disney Lorcana: Rise of the Floodborn Illumineer's Trove",
+      "cleanName": "Disney Lorcana Rise of the Floodborn Illumineers Trove",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/516277_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23303",
+      "url": "https://www.tcgplayer.com/product/516277/lorcana-tcg-rise-of-the-floodborn-disney-lorcana-rise-of-the-floodborn-illumineers-trove",
+      "modifiedOn": "2023-11-17T05:03:22.803",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2023-11-17T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Rise of the Floodborn"
+    },
+    "516281": {
+      "productId": 516281,
+      "name": "Disney Lorcana: Disney100 Collector's Edition",
+      "cleanName": "Disney Lorcana Disney100 Collectors Edition",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/516281_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23303",
+      "url": "https://www.tcgplayer.com/product/516281/lorcana-tcg-rise-of-the-floodborn-disney-lorcana-disney100-collectors-edition",
+      "modifiedOn": "2023-11-17T05:03:23.033",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2023-11-17T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Rise of the Floodborn"
+    },
+    "516290": {
+      "productId": 516290,
+      "name": "Disney Lorcana: Rise of the Floodborn Starter Deck (Amber & Sapphire)",
+      "cleanName": "Disney Lorcana Rise of the Floodborn Starter Deck Amber and Sapphire",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/516290_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23303",
+      "url": "https://www.tcgplayer.com/product/516290/lorcana-tcg-rise-of-the-floodborn-disney-lorcana-rise-of-the-floodborn-starter-deck-amber-and-sapphire",
+      "modifiedOn": "2023-11-17T05:03:22.803",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2023-11-17T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Rise of the Floodborn"
+    },
+    "516293": {
+      "productId": 516293,
+      "name": "Disney Lorcana: Rise of the Floodborn Starter Deck (Amethyst & Steel)",
+      "cleanName": "Disney Lorcana Rise of the Floodborn Starter Deck Amethyst and Steel",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/516293_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23303",
+      "url": "https://www.tcgplayer.com/product/516293/lorcana-tcg-rise-of-the-floodborn-disney-lorcana-rise-of-the-floodborn-starter-deck-amethyst-and-steel",
+      "modifiedOn": "2023-11-17T05:03:22.803",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2023-11-17T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Rise of the Floodborn"
+    },
+    "516297": {
+      "productId": 516297,
+      "name": "Disney Lorcana: Rise of the Floodborn Booster Pack",
+      "cleanName": "Disney Lorcana Rise of the Floodborn Booster Pack",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/516297_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23303",
+      "url": "https://www.tcgplayer.com/product/516297/lorcana-tcg-rise-of-the-floodborn-disney-lorcana-rise-of-the-floodborn-booster-pack",
+      "modifiedOn": "2023-11-17T05:03:22.803",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2023-11-17T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Rise of the Floodborn"
+    },
+    "518639": {
+      "productId": 518639,
+      "name": "Disney Lorcana: Rise of the Floodborn Booster Box Case",
+      "cleanName": "Disney Lorcana Rise of the Floodborn Booster Box Case",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/518639_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23303",
+      "url": "https://www.tcgplayer.com/product/518639/lorcana-tcg-rise-of-the-floodborn-disney-lorcana-rise-of-the-floodborn-booster-box-case",
+      "modifiedOn": "2023-11-17T05:03:22.803",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2023-11-17T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Rise of the Floodborn"
+    },
+    "518643": {
+      "productId": 518643,
+      "name": "Disney Lorcana: Rise of the Floodborn Starter Deck Display",
+      "cleanName": "Disney Lorcana Rise of the Floodborn Starter Deck Display",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/518643_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23303",
+      "url": "https://www.tcgplayer.com/product/518643/lorcana-tcg-rise-of-the-floodborn-disney-lorcana-rise-of-the-floodborn-starter-deck-display",
+      "modifiedOn": "2024-02-22T20:14:57.19",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Rise of the Floodborn"
+    },
+    "518862": {
+      "productId": 518862,
+      "name": "Disney Lorcana: Rise of the Floodborn Starter Deck [Set of 2]",
+      "cleanName": "Disney Lorcana Rise of the Floodborn Starter Deck Set of 2",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/518862_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23303",
+      "url": "https://www.tcgplayer.com/product/518862/lorcana-tcg-rise-of-the-floodborn-disney-lorcana-rise-of-the-floodborn-starter-deck-set-of-2",
+      "modifiedOn": "2023-11-17T05:03:22.803",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2023-11-17T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Rise of the Floodborn"
+    },
+    "529695": {
+      "productId": 529695,
+      "name": "Disney Lorcana: Rise of the Floodborn Sleeved Booster Pack",
+      "cleanName": "Disney Lorcana Rise of the Floodborn Sleeved Booster Pack",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/529695_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23303",
+      "url": "https://www.tcgplayer.com/product/529695/lorcana-tcg-rise-of-the-floodborn-disney-lorcana-rise-of-the-floodborn-sleeved-booster-pack",
+      "modifiedOn": "2023-12-04T12:53:41.593",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Rise of the Floodborn"
+    },
+    "531988": {
+      "productId": 531988,
+      "name": "Disney Lorcana: Rise of the Floodborn Sleeved Booster Pack Art Bundle [Set of 3]",
+      "cleanName": "Disney Lorcana Rise of the Floodborn Sleeved Booster Pack Art Bundle Set of 3",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/531988_200w.jpg",
+      "categoryId": "71",
+      "groupId": "23303",
+      "url": "https://www.tcgplayer.com/product/531988/lorcana-tcg-rise-of-the-floodborn-disney-lorcana-rise-of-the-floodborn-sleeved-booster-pack-art-bundle-set-of-3",
+      "modifiedOn": "2024-01-03T17:30:52.26",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "Rise of the Floodborn"
+    },
+    "482406": {
+      "productId": 482406,
+      "name": "Disney Lorcana: The First Chapter Booster Pack",
+      "cleanName": "Disney Lorcana The First Chapter Booster Pack",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/482406_200w.jpg",
+      "categoryId": "71",
+      "groupId": "22937",
+      "url": "https://www.tcgplayer.com/product/482406/lorcana-tcg-the-first-chapter-disney-lorcana-the-first-chapter-booster-pack",
+      "modifiedOn": "2023-08-18T04:03:10.143",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2023-08-18T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "The First Chapter"
+    },
+    "482407": {
+      "productId": 482407,
+      "name": "Disney Lorcana: The First Chapter Gift Set",
+      "cleanName": "Disney Lorcana The First Chapter Gift Set",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/482407_200w.jpg",
+      "categoryId": "71",
+      "groupId": "22937",
+      "url": "https://www.tcgplayer.com/product/482407/lorcana-tcg-the-first-chapter-disney-lorcana-the-first-chapter-gift-set",
+      "modifiedOn": "2023-08-18T04:03:10.143",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2023-08-18T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "The First Chapter"
+    },
+    "482411": {
+      "productId": 482411,
+      "name": "Disney Lorcana: The First Chapter Illumineer's Trove",
+      "cleanName": "Disney Lorcana The First Chapter Illumineers Trove",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/482411_200w.jpg",
+      "categoryId": "71",
+      "groupId": "22937",
+      "url": "https://www.tcgplayer.com/product/482411/lorcana-tcg-the-first-chapter-disney-lorcana-the-first-chapter-illumineers-trove",
+      "modifiedOn": "2023-08-18T04:03:10.143",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2023-08-18T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "The First Chapter"
+    },
+    "482417": {
+      "productId": 482417,
+      "name": "Disney Lorcana: The First Chapter Starter Deck (Amber & Amethyst)",
+      "cleanName": "Disney Lorcana The First Chapter Starter Deck Amber and Amethyst",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/482417_200w.jpg",
+      "categoryId": "71",
+      "groupId": "22937",
+      "url": "https://www.tcgplayer.com/product/482417/lorcana-tcg-the-first-chapter-disney-lorcana-the-first-chapter-starter-deck-amber-and-amethyst",
+      "modifiedOn": "2023-08-18T04:03:10.143",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2023-08-18T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "The First Chapter"
+    },
+    "482418": {
+      "productId": 482418,
+      "name": "Disney Lorcana: The First Chapter Starter Deck (Emerald & Ruby)",
+      "cleanName": "Disney Lorcana The First Chapter Starter Deck Emerald and Ruby",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/482418_200w.jpg",
+      "categoryId": "71",
+      "groupId": "22937",
+      "url": "https://www.tcgplayer.com/product/482418/lorcana-tcg-the-first-chapter-disney-lorcana-the-first-chapter-starter-deck-emerald-and-ruby",
+      "modifiedOn": "2023-08-18T04:03:10.143",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2023-08-18T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "The First Chapter"
+    },
+    "482419": {
+      "productId": 482419,
+      "name": "Disney Lorcana: The First Chapter Starter Deck (Sapphire & Steel)",
+      "cleanName": "Disney Lorcana The First Chapter Starter Deck Sapphire and Steel",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/482419_200w.jpg",
+      "categoryId": "71",
+      "groupId": "22937",
+      "url": "https://www.tcgplayer.com/product/482419/lorcana-tcg-the-first-chapter-disney-lorcana-the-first-chapter-starter-deck-sapphire-and-steel",
+      "modifiedOn": "2023-08-18T04:03:10.143",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2023-08-18T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "The First Chapter"
+    },
+    "485256": {
+      "productId": 485256,
+      "name": "Disney Lorcana: The First Chapter Booster Box",
+      "cleanName": "Disney Lorcana The First Chapter Booster Box",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/485256_200w.jpg",
+      "categoryId": "71",
+      "groupId": "22937",
+      "url": "https://www.tcgplayer.com/product/485256/lorcana-tcg-the-first-chapter-disney-lorcana-the-first-chapter-booster-box",
+      "modifiedOn": "2023-08-18T04:03:10.143",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2023-08-18T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "The First Chapter"
+    },
+    "485257": {
+      "productId": 485257,
+      "name": "Disney Lorcana: The First Chapter Starter Deck Display",
+      "cleanName": "Disney Lorcana The First Chapter Starter Deck Display",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/485257_200w.jpg",
+      "categoryId": "71",
+      "groupId": "22937",
+      "url": "https://www.tcgplayer.com/product/485257/lorcana-tcg-the-first-chapter-disney-lorcana-the-first-chapter-starter-deck-display",
+      "modifiedOn": "2023-08-18T04:03:10.143",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2023-08-18T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "The First Chapter"
+    },
+    "485258": {
+      "productId": 485258,
+      "name": "Disney Lorcana: The First Chapter Booster Box Case",
+      "cleanName": "Disney Lorcana The First Chapter Booster Box Case",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/485258_200w.jpg",
+      "categoryId": "71",
+      "groupId": "22937",
+      "url": "https://www.tcgplayer.com/product/485258/lorcana-tcg-the-first-chapter-disney-lorcana-the-first-chapter-booster-box-case",
+      "modifiedOn": "2023-08-18T04:03:10.143",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2023-08-18T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "The First Chapter"
+    },
+    "491182": {
+      "productId": 491182,
+      "name": "Disney Lorcana: The First Chapter Sleeved Booster Pack",
+      "cleanName": "Disney Lorcana The First Chapter Sleeved Booster Pack",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/491182_200w.jpg",
+      "categoryId": "71",
+      "groupId": "22937",
+      "url": "https://www.tcgplayer.com/product/491182/lorcana-tcg-the-first-chapter-disney-lorcana-the-first-chapter-sleeved-booster-pack",
+      "modifiedOn": "2023-08-18T04:03:10.143",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2023-08-18T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "The First Chapter"
+    },
+    "491183": {
+      "productId": 491183,
+      "name": "Disney Lorcana: The First Chapter Sleeved Booster Pack Art Bundle [Set of 3]",
+      "cleanName": "Disney Lorcana The First Chapter Sleeved Booster Pack Art Bundle Set of 3",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/491183_200w.jpg",
+      "categoryId": "71",
+      "groupId": "22937",
+      "url": "https://www.tcgplayer.com/product/491183/lorcana-tcg-the-first-chapter-disney-lorcana-the-first-chapter-sleeved-booster-pack-art-bundle-set-of-3",
+      "modifiedOn": "2023-08-18T04:03:10.143",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2023-08-18T00:00:00",
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "The First Chapter"
+    },
+    "518785": {
+      "productId": 518785,
+      "name": "Disney Lorcana: The First Chapter Starter Deck [Set of 3]",
+      "cleanName": "Disney Lorcana The First Chapter Starter Deck Set of 3",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/518785_200w.jpg",
+      "categoryId": "71",
+      "groupId": "22937",
+      "url": "https://www.tcgplayer.com/product/518785/lorcana-tcg-the-first-chapter-disney-lorcana-the-first-chapter-starter-deck-set-of-3",
+      "modifiedOn": "2023-10-02T14:28:23.403",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "The First Chapter"
+    },
+    "599719": {
+      "productId": 599719,
+      "name": "Disney Lorcana: The First Chapter Starter Blister Bundle",
+      "cleanName": "Disney Lorcana The First Chapter Starter Blister Bundle",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/599719_200w.jpg",
+      "categoryId": "71",
+      "groupId": "22937",
+      "url": "https://www.tcgplayer.com/product/599719/lorcana-tcg-the-first-chapter-disney-lorcana-the-first-chapter-starter-blister-bundle",
+      "modifiedOn": "2024-11-25T20:33:46.927",
+      "imageCount": 3,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "The First Chapter"
+    },
+    "454414": {
+      "productId": 454414,
+      "name": "D23 Expo Promo Set - 2022",
+      "cleanName": "D23 Expo Promo Set 2022",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/454414_200w.jpg",
+      "categoryId": "71",
+      "groupId": "17690",
+      "url": "https://www.tcgplayer.com/product/454414/lorcana-tcg-d23-promos-d23-expo-promo-set-2022",
+      "modifiedOn": "2023-10-13T19:47:16.187",
+      "imageCount": 2,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "D23 Promos"
+    },
+    "559531": {
+      "productId": 559531,
+      "name": "Disney Lorcana: D23 Collection - 2024",
+      "cleanName": "Disney Lorcana D23 Collection 2024",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/559531_200w.jpg",
+      "categoryId": "71",
+      "groupId": "17690",
+      "url": "https://www.tcgplayer.com/product/559531/lorcana-tcg-d23-promos-disney-lorcana-d23-collection-2024",
+      "modifiedOn": "2024-08-09T14:07:40.337",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [],
+      "categoryName": "Lorcana",
+      "groupName": "D23 Promos"
+    }
+  },
+  "prices": {
+    "623065": 38.03,
+    "623058": 17.08,
+    "623059": 17.59,
+    "623060": 108.98,
+    "623061": 41.29,
+    "623062": null,
+    "623063": 4.96,
+    "623064": 101.34,
+    "623067": 432.4,
+    "630012": 28.54,
+    "607758": 98.83,
+    "607759": 437.84,
+    "607760": 5.16,
+    "607761": 35.77,
+    "607762": 8.89,
+    "607763": 25.7,
+    "607765": 28.08,
+    "607802": 11.77,
+    "607803": 13.43,
+    "607804": 81.96,
+    "614851": 23.2,
+    "578093": 93.76,
+    "578094": 395.79,
+    "578095": 4.06,
+    "578121": 38.04,
+    "578122": 24.34,
+    "578123": 12.49,
+    "578124": 10.6,
+    "578125": 26.01,
+    "578128": 61.47,
+    "593831": 5.93,
+    "593832": 25.38,
+    "555130": 103.05,
+    "555131": 435.1,
+    "555142": 4.59,
+    "555143": 14.02,
+    "555144": 11.1,
+    "555145": 10.38,
+    "555146": 63.62,
+    "555147": 27.97,
+    "555148": 39.58,
+    "564487": null,
+    "565133": 5.16,
+    "565134": 26.45,
+    "543862": 31.44,
+    "543859": 83.45,
+    "543860": 4.49,
+    "543861": 39.64,
+    "543863": 10.45,
+    "543864": 11.15,
+    "543884": 46.68,
+    "543885": 403.57,
+    "543886": 23.43,
+    "553902": 6.26,
+    "553903": 25.94,
+    "554328": 23.66,
+    "531521": 78.54,
+    "531522": 394.25,
+    "531523": 4.35,
+    "531524": 42.63,
+    "531525": 37.39,
+    "531526": 7.7,
+    "531527": 7.2,
+    "531528": 25.09,
+    "531529": 10.82,
+    "543931": 12.61,
+    "543932": 5.4,
+    "614148": 44.53,
+    "516276": 158.21,
+    "516277": 69.45,
+    "516281": 70.43,
+    "516290": 9.0,
+    "516293": 10.25,
+    "516297": 6.05,
+    "518639": 694.74,
+    "518643": 58.47,
+    "518862": 21.76,
+    "529695": 6.73,
+    "531988": 19.93,
+    "482406": 13.31,
+    "482407": 79.91,
+    "482411": 340.94,
+    "482417": 17.42,
+    "482418": 16.24,
+    "482419": 17.82,
+    "485256": 321.66,
+    "485257": 184.07,
+    "485258": 1390.23,
+    "491182": 14.2,
+    "491183": 45.79,
+    "518785": 61.65,
+    "599719": 78.21,
+    "454414": null,
+    "559531": 173.86
+  }
+}
