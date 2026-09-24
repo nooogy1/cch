@@ -4,15 +4,15 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Black Bolt Binder Collection",
     "previous_price": 80.16,
-    "current_price": 80.16,
-    "percent_change": 0.0
+    "current_price": 80.37,
+    "percent_change": 0.26
   },
   {
     "product_id": "630431",
     "category": "Pok\u00e9mon",
     "clean_name": "Black Bolt Booster Bundle",
-    "previous_price": 101.68,
-    "current_price": 101.56,
+    "previous_price": 101.56,
+    "current_price": 101.44,
     "percent_change": -0.12
   },
   {
@@ -27,25 +27,25 @@
     "product_id": "630434",
     "category": "Pok\u00e9mon",
     "clean_name": "Black Bolt Booster Pack",
-    "previous_price": 14.9,
-    "current_price": 14.89,
-    "percent_change": -0.07
+    "previous_price": 14.89,
+    "current_price": 14.94,
+    "percent_change": 0.34
   },
   {
     "product_id": "630438",
     "category": "Pok\u00e9mon",
     "clean_name": "Unova Mini Tin Garbodor and Amoonguss",
-    "previous_price": 25.34,
+    "previous_price": 25.59,
     "current_price": 25.59,
-    "percent_change": 0.99
+    "percent_change": 0.0
   },
   {
     "product_id": "630440",
     "category": "Pok\u00e9mon",
     "clean_name": "Unova Mini Tin Krookodile and Excadrill",
-    "previous_price": 27.67,
+    "previous_price": 28.17,
     "current_price": 28.17,
-    "percent_change": 1.81
+    "percent_change": 0.0
   },
   {
     "product_id": "630441",
@@ -84,8 +84,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Unova Mini Tin Elektross and Galvantula",
     "previous_price": 24.55,
-    "current_price": 24.55,
-    "percent_change": 0.0
+    "current_price": 24.67,
+    "percent_change": 0.49
   },
   {
     "product_id": "630446",
@@ -107,9 +107,9 @@
     "product_id": "630612",
     "category": "Pok\u00e9mon",
     "clean_name": "Unova Poster Collection",
-    "previous_price": 46.79,
-    "current_price": 46.77,
-    "percent_change": -0.04
+    "previous_price": 46.77,
+    "current_price": 46.7,
+    "percent_change": -0.15
   },
   {
     "product_id": "630613",
@@ -124,32 +124,32 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Black Bolt Tech Sticker Collection",
     "previous_price": 50.8,
-    "current_price": 50.8,
-    "percent_change": 0.0
+    "current_price": 50.4,
+    "percent_change": -0.79
   },
   {
     "product_id": "630615",
     "category": "Pok\u00e9mon",
     "clean_name": "Unova Victini Illustration Collection",
-    "previous_price": 72.35,
-    "current_price": 72.14,
-    "percent_change": -0.29
+    "previous_price": 72.14,
+    "current_price": 72.0,
+    "percent_change": -0.19
   },
   {
     "product_id": "630686",
     "category": "Pok\u00e9mon",
     "clean_name": "Black Bolt Elite Trainer Box",
-    "previous_price": 165.57,
-    "current_price": 165.27,
-    "percent_change": -0.18
+    "previous_price": 165.27,
+    "current_price": 163.74,
+    "percent_change": -0.93
   },
   {
     "product_id": "630687",
     "category": "Pok\u00e9mon",
     "clean_name": "Black Bolt Pokemon Center Elite Trainer Box Exclusive",
     "previous_price": 274.32,
-    "current_price": 274.32,
-    "percent_change": 0.0
+    "current_price": 274.52,
+    "percent_change": 0.07
   },
   {
     "product_id": "630690",
@@ -163,17 +163,17 @@
     "product_id": "630688",
     "category": "Pok\u00e9mon",
     "clean_name": "White Flare Pokemon Center Elite Trainer Box Exclusive",
-    "previous_price": 238.98,
+    "previous_price": 239.21,
     "current_price": 239.21,
-    "percent_change": 0.1
+    "percent_change": 0.0
   },
   {
     "product_id": "630689",
     "category": "Pok\u00e9mon",
     "clean_name": "White Flare Elite Trainer Box",
-    "previous_price": 148.47,
-    "current_price": 148.25,
-    "percent_change": -0.15
+    "previous_price": 148.25,
+    "current_price": 148.14,
+    "percent_change": -0.07
   },
   {
     "product_id": "630693",
@@ -195,65 +195,65 @@
     "product_id": "630695",
     "category": "Pok\u00e9mon",
     "clean_name": "White Flare Binder Collection",
-    "previous_price": 73.2,
+    "previous_price": 73.58,
     "current_price": 73.58,
-    "percent_change": 0.52
+    "percent_change": 0.0
   },
   {
     "product_id": "630696",
     "category": "Pok\u00e9mon",
     "clean_name": "White Flare Booster Bundle",
-    "previous_price": 93.04,
-    "current_price": 93.2,
-    "percent_change": 0.17
+    "previous_price": 93.2,
+    "current_price": 94.5,
+    "percent_change": 1.39
   },
   {
     "product_id": "630699",
     "category": "Pok\u00e9mon",
     "clean_name": "White Flare Booster Pack",
-    "previous_price": 13.97,
+    "previous_price": 13.94,
     "current_price": 13.94,
-    "percent_change": -0.21
+    "percent_change": 0.0
   },
   {
     "product_id": "630700",
     "category": "Pok\u00e9mon",
     "clean_name": "White Flare Tech Sticker Collection",
-    "previous_price": 48.24,
-    "current_price": 48.44,
-    "percent_change": 0.41
+    "previous_price": 48.44,
+    "current_price": 48.73,
+    "percent_change": 0.6
   },
   {
     "product_id": "624675",
     "category": "Pok\u00e9mon",
     "clean_name": "Destined Rivals Pokemon Center Elite Trainer Box Exclusive",
-    "previous_price": 433.2,
+    "previous_price": 431.6,
     "current_price": 431.6,
-    "percent_change": -0.37
+    "percent_change": 0.0
   },
   {
     "product_id": "624676",
     "category": "Pok\u00e9mon",
     "clean_name": "Destined Rivals Elite Trainer Box",
-    "previous_price": 117.2,
-    "current_price": 117.62,
-    "percent_change": 0.36
+    "previous_price": 117.62,
+    "current_price": 117.47,
+    "percent_change": -0.13
   },
   {
     "product_id": "624678",
     "category": "Pok\u00e9mon",
     "clean_name": "Destined Rivals Booster Box Case",
-    "previous_price": 2591.2,
-    "current_price": 2579.2,
-    "percent_change": -0.46
+    "previous_price": 2579.2,
+    "current_price": 2579.19,
+    "percent_change": -0.0
   },
   {
     "product_id": "624679",
     "category": "Pok\u00e9mon",
     "clean_name": "Destined Rivals Booster Box",
-    "previous_price": 415.86,
-    "current_price": 418.23,
-    "percent_change": 0.57
+    "previous_price": 418.23,
+    "current_price": 415.97,
+    "percent_change": -0.54
   },
   {
     "product_id": "624681",
@@ -268,24 +268,24 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Destined Rivals Booster Pack",
     "previous_price": 9.19,
-    "current_price": 9.19,
-    "percent_change": 0.0
+    "current_price": 9.12,
+    "percent_change": -0.76
   },
   {
     "product_id": "624684",
     "category": "Pok\u00e9mon",
     "clean_name": "Destined Rivals Sleeved Booster Pack",
-    "previous_price": 10.99,
-    "current_price": 10.79,
-    "percent_change": -1.82
+    "previous_price": 10.79,
+    "current_price": 10.66,
+    "percent_change": -1.2
   },
   {
     "product_id": "625670",
     "category": "Pok\u00e9mon",
     "clean_name": "Destined Rivals Booster Bundle",
-    "previous_price": 65.34,
-    "current_price": 64.7,
-    "percent_change": -0.98
+    "previous_price": 64.7,
+    "current_price": 64.12,
+    "percent_change": -0.9
   },
   {
     "product_id": "625677",
@@ -299,9 +299,9 @@
     "product_id": "625683",
     "category": "Pok\u00e9mon",
     "clean_name": "Destined Rivals 3 Pack Blister Kangaskhan",
-    "previous_price": 50.69,
+    "previous_price": 50.49,
     "current_price": 50.49,
-    "percent_change": -0.39
+    "percent_change": 0.0
   },
   {
     "product_id": "625684",
@@ -331,9 +331,9 @@
     "product_id": "628395",
     "category": "Pok\u00e9mon",
     "clean_name": "Destined Rivals Premium Checklane Blister Gastrodon",
-    "previous_price": 18.67,
+    "previous_price": 18.64,
     "current_price": 18.64,
-    "percent_change": -0.16
+    "percent_change": 0.0
   },
   {
     "product_id": "628396",
@@ -347,8 +347,8 @@
     "product_id": "628398",
     "category": "Pok\u00e9mon",
     "clean_name": "Destined Rivals Elite Trainer Box Case",
-    "previous_price": 1216.11,
-    "current_price": 1213.38,
+    "previous_price": 1213.38,
+    "current_price": 1210.71,
     "percent_change": -0.22
   },
   {
@@ -371,33 +371,33 @@
     "product_id": "633105",
     "category": "Pok\u00e9mon",
     "clean_name": "Destined Rivals Single Pack Blister Eevee",
-    "previous_price": 18.99,
+    "previous_price": 19.06,
     "current_price": 19.06,
-    "percent_change": 0.37
+    "percent_change": 0.0
   },
   {
     "product_id": "633106",
     "category": "Pok\u00e9mon",
     "clean_name": "Destined Rivals Single Pack Blister Zarude",
     "previous_price": 13.45,
-    "current_price": 13.45,
-    "percent_change": 0.0
+    "current_price": 13.66,
+    "percent_change": 1.56
   },
   {
     "product_id": "634383",
     "category": "Pok\u00e9mon",
     "clean_name": "Destined Rivals Build and Battle Box Display",
     "previous_price": 540.25,
-    "current_price": 540.25,
-    "percent_change": 0.0
+    "current_price": 547.99,
+    "percent_change": 1.43
   },
   {
     "product_id": "635053",
     "category": "Pok\u00e9mon",
     "clean_name": "Destined Rivals Sleeved Booster Pack Art Bundle Set of 4",
-    "previous_price": 41.59,
+    "previous_price": 40.91,
     "current_price": 40.91,
-    "percent_change": -1.64
+    "percent_change": 0.0
   },
   {
     "product_id": "635328",
@@ -419,33 +419,33 @@
     "product_id": "610930",
     "category": "Pok\u00e9mon",
     "clean_name": "Journey Together Elite Trainer Box",
-    "previous_price": 138.02,
-    "current_price": 138.37,
-    "percent_change": 0.25
+    "previous_price": 138.37,
+    "current_price": 137.48,
+    "percent_change": -0.64
   },
   {
     "product_id": "610931",
     "category": "Pok\u00e9mon",
     "clean_name": "Journey Together Booster Box",
-    "previous_price": 234.33,
-    "current_price": 229.53,
-    "percent_change": -2.05
+    "previous_price": 229.53,
+    "current_price": 227.53,
+    "percent_change": -0.87
   },
   {
     "product_id": "610934",
     "category": "Pok\u00e9mon",
     "clean_name": "Journey Together Sleeved Booster Pack",
-    "previous_price": 9.14,
+    "previous_price": 9.12,
     "current_price": 9.12,
-    "percent_change": -0.22
+    "percent_change": 0.0
   },
   {
     "product_id": "610935",
     "category": "Pok\u00e9mon",
     "clean_name": "Journey Together Booster Pack",
-    "previous_price": 6.57,
+    "previous_price": 6.6,
     "current_price": 6.6,
-    "percent_change": 0.46
+    "percent_change": 0.0
   },
   {
     "product_id": "610940",
@@ -483,9 +483,9 @@
     "product_id": "610953",
     "category": "Pok\u00e9mon",
     "clean_name": "Journey Together Booster Bundle",
-    "previous_price": 45.28,
-    "current_price": 45.5,
-    "percent_change": 0.49
+    "previous_price": 45.5,
+    "current_price": 44.49,
+    "percent_change": -2.22
   },
   {
     "product_id": "610954",
@@ -588,48 +588,48 @@
     "category": "Pok\u00e9mon",
     "clean_name": "McDonalds 2024 Match and Battle Pack",
     "previous_price": 9.07,
-    "current_price": 9.07,
-    "percent_change": 0.0
+    "current_price": 9.06,
+    "percent_change": -0.11
   },
   {
     "product_id": "593294",
     "category": "Pok\u00e9mon",
     "clean_name": "Prismatic Evolutions Booster Pack",
-    "previous_price": 13.89,
-    "current_price": 14.16,
-    "percent_change": 1.94
+    "previous_price": 14.16,
+    "current_price": 14.31,
+    "percent_change": 1.06
   },
   {
     "product_id": "593324",
     "category": "Pok\u00e9mon",
     "clean_name": "Prismatic Evolutions Pokemon Center Elite Trainer Box Exclusive",
     "previous_price": 411.96,
-    "current_price": 411.96,
-    "percent_change": 0.0
+    "current_price": 412.37,
+    "percent_change": 0.1
   },
   {
     "product_id": "593355",
     "category": "Pok\u00e9mon",
     "clean_name": "Prismatic Evolutions Elite Trainer Box",
-    "previous_price": 138.12,
-    "current_price": 139.43,
-    "percent_change": 0.95
+    "previous_price": 139.43,
+    "current_price": 136.63,
+    "percent_change": -2.01
   },
   {
     "product_id": "593356",
     "category": "Pok\u00e9mon",
     "clean_name": "Prismatic Evolutions Binder Collection",
     "previous_price": 111.72,
-    "current_price": 111.72,
-    "percent_change": 0.0
+    "current_price": 111.89,
+    "percent_change": 0.15
   },
   {
     "product_id": "593359",
     "category": "Pok\u00e9mon",
     "clean_name": "Prismatic Evolutions Poster Collection",
-    "previous_price": 41.46,
-    "current_price": 41.26,
-    "percent_change": -0.48
+    "previous_price": 41.26,
+    "current_price": 41.03,
+    "percent_change": -0.56
   },
   {
     "product_id": "593450",
@@ -652,8 +652,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Prismatic Evolutions Tech Sticker Collection Leafeon",
     "previous_price": 41.16,
-    "current_price": 41.16,
-    "percent_change": 0.0
+    "current_price": 41.5,
+    "percent_change": 0.83
   },
   {
     "product_id": "593455",
@@ -675,9 +675,9 @@
     "product_id": "593457",
     "category": "Pok\u00e9mon",
     "clean_name": "Prismatic Evolutions Mini Tin Flareon",
-    "previous_price": 32.68,
+    "previous_price": 32.92,
     "current_price": 32.92,
-    "percent_change": 0.73
+    "percent_change": 0.0
   },
   {
     "product_id": "593458",
@@ -691,9 +691,9 @@
     "product_id": "593459",
     "category": "Pok\u00e9mon",
     "clean_name": "Prismatic Evolutions Mini Tin Umbreon",
-    "previous_price": 41.32,
+    "previous_price": 41.31,
     "current_price": 41.31,
-    "percent_change": -0.02
+    "percent_change": 0.0
   },
   {
     "product_id": "593460",
@@ -715,25 +715,25 @@
     "product_id": "593462",
     "category": "Pok\u00e9mon",
     "clean_name": "Prismatic Evolutions Mini Tin Sylveon",
-    "previous_price": 42.19,
-    "current_price": 42.35,
-    "percent_change": 0.38
+    "previous_price": 42.35,
+    "current_price": 42.67,
+    "percent_change": 0.76
   },
   {
     "product_id": "593463",
     "category": "Pok\u00e9mon",
     "clean_name": "Prismatic Evolutions Mini Tin Display",
-    "previous_price": 241.92,
-    "current_price": 240.81,
-    "percent_change": -0.46
+    "previous_price": 240.81,
+    "current_price": 238.69,
+    "percent_change": -0.88
   },
   {
     "product_id": "593466",
     "category": "Pok\u00e9mon",
     "clean_name": "Prismatic Evolutions Surprise Box",
-    "previous_price": 67.07,
+    "previous_price": 67.35,
     "current_price": 67.35,
-    "percent_change": 0.42
+    "percent_change": 0.0
   },
   {
     "product_id": "598470",
@@ -755,9 +755,9 @@
     "product_id": "598487",
     "category": "Pok\u00e9mon",
     "clean_name": "Prismatic Evolutions Elite Trainer Box Case",
-    "previous_price": 1803.06,
-    "current_price": 1790.94,
-    "percent_change": -0.67
+    "previous_price": 1790.94,
+    "current_price": 1746.66,
+    "percent_change": -2.47
   },
   {
     "product_id": "598489",
@@ -779,25 +779,25 @@
     "product_id": "600518",
     "category": "Pok\u00e9mon",
     "clean_name": "Prismatic Evolutions Booster Bundle",
-    "previous_price": 85.79,
-    "current_price": 84.63,
-    "percent_change": -1.35
+    "previous_price": 84.63,
+    "current_price": 84.04,
+    "percent_change": -0.7
   },
   {
     "product_id": "600697",
     "category": "Pok\u00e9mon",
     "clean_name": "Prismatic Evolutions Pokemon Center Elite Trainer Box Exclusive Case",
     "previous_price": 2798.75,
-    "current_price": 2798.75,
-    "percent_change": 0.0
+    "current_price": 2748.62,
+    "percent_change": -1.79
   },
   {
     "product_id": "606881",
     "category": "Pok\u00e9mon",
     "clean_name": "Prismatic Evolutions Accessory Pouch Special Collection",
     "previous_price": 79.31,
-    "current_price": 79.31,
-    "percent_change": 0.0
+    "current_price": 79.48,
+    "percent_change": 0.21
   },
   {
     "product_id": "609716",
@@ -812,8 +812,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Prismatic Evolutions Booster Bundle Display",
     "previous_price": 1924.81,
-    "current_price": 1924.81,
-    "percent_change": 0.0
+    "current_price": 1917.98,
+    "percent_change": -0.35
   },
   {
     "product_id": "614356",
@@ -851,17 +851,17 @@
     "product_id": "622770",
     "category": "Pok\u00e9mon",
     "clean_name": "Prismatic Evolutions Super Premium Collection",
-    "previous_price": 248.93,
-    "current_price": 249.94,
-    "percent_change": 0.41
+    "previous_price": 249.94,
+    "current_price": 248.56,
+    "percent_change": -0.55
   },
   {
     "product_id": "638058",
     "category": "Pok\u00e9mon",
     "clean_name": "Prismatic Evolutions Super Premium Collection Case",
-    "previous_price": 1135.88,
-    "current_price": 1126.28,
-    "percent_change": -0.85
+    "previous_price": 1126.28,
+    "current_price": 1118.41,
+    "percent_change": -0.7
   },
   {
     "product_id": "565599",
@@ -883,73 +883,73 @@
     "product_id": "565602",
     "category": "Pok\u00e9mon",
     "clean_name": "Surging Sparks Sleeved Booster Pack",
-    "previous_price": 11.93,
-    "current_price": 11.92,
-    "percent_change": -0.08
+    "previous_price": 11.92,
+    "current_price": 11.72,
+    "percent_change": -1.68
   },
   {
     "product_id": "565603",
     "category": "Pok\u00e9mon",
     "clean_name": "Surging Sparks Sleeved Booster Pack Bundle Set of 4",
     "previous_price": 43.69,
-    "current_price": 43.69,
-    "percent_change": 0.0
+    "current_price": 43.52,
+    "percent_change": -0.39
   },
   {
     "product_id": "565604",
     "category": "Pok\u00e9mon",
     "clean_name": "Surging Sparks Booster Pack",
-    "previous_price": 8.4,
-    "current_price": 8.42,
-    "percent_change": 0.24
+    "previous_price": 8.42,
+    "current_price": 8.47,
+    "percent_change": 0.59
   },
   {
     "product_id": "565605",
     "category": "Pok\u00e9mon",
     "clean_name": "Surging Sparks Booster Pack Art Bundle Set of 4",
     "previous_price": 34.38,
-    "current_price": 34.38,
-    "percent_change": 0.0
+    "current_price": 34.44,
+    "percent_change": 0.17
   },
   {
     "product_id": "565606",
     "category": "Pok\u00e9mon",
     "clean_name": "Surging Sparks Booster Box",
-    "previous_price": 303.7,
-    "current_price": 302.9,
-    "percent_change": -0.26
+    "previous_price": 302.9,
+    "current_price": 301.98,
+    "percent_change": -0.3
   },
   {
     "product_id": "565629",
     "category": "Pok\u00e9mon",
     "clean_name": "Surging Sparks Booster Bundle LGS",
-    "previous_price": 62.74,
-    "current_price": 63.76,
-    "percent_change": 1.63
+    "previous_price": 63.76,
+    "current_price": 62.91,
+    "percent_change": -1.33
   },
   {
     "product_id": "565630",
     "category": "Pok\u00e9mon",
     "clean_name": "Surging Sparks Elite Trainer Box",
-    "previous_price": 125.06,
-    "current_price": 125.68,
-    "percent_change": 0.5
+    "previous_price": 125.68,
+    "current_price": 123.72,
+    "percent_change": -1.56
   },
   {
     "product_id": "565631",
     "category": "Pok\u00e9mon",
     "clean_name": "Surging Sparks Elite Trainer Box Case",
     "previous_price": 1289.72,
-    "current_price": 1289.72,
-    "percent_change": 0.0
+    "current_price": 1298.68,
+    "percent_change": 0.69
   },
   {
     "product_id": "565632",
     "category": "Pok\u00e9mon",
     "clean_name": "Surging Sparks Pokemon Center Elite Trainer Box Exclusive",
-    "previous_price": 270.76,
+    "previous_price": 270.68,
     "current_price": 270.68,
-    "percent_change": -0.03
+    "percent_change": 0.0
   },
   {
     "product_id": "565633",
@@ -1051,9 +1051,9 @@
     "product_id": "557331",
     "category": "Pok\u00e9mon",
     "clean_name": "Stellar Crown Booster Pack",
-    "previous_price": 10.65,
+    "previous_price": 10.63,
     "current_price": 10.63,
-    "percent_change": -0.19
+    "percent_change": 0.0
   },
   {
     "product_id": "557334",
@@ -1083,9 +1083,9 @@
     "product_id": "557340",
     "category": "Pok\u00e9mon",
     "clean_name": "Stellar Crown Pokemon Center Elite Trainer Box Exclusive",
-    "previous_price": 170.73,
-    "current_price": 169.95,
-    "percent_change": -0.46
+    "previous_price": 169.95,
+    "current_price": 169.27,
+    "percent_change": -0.4
   },
   {
     "product_id": "557345",
@@ -1100,24 +1100,24 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Stellar Crown Elite Trainer Box",
     "previous_price": 155.95,
-    "current_price": 155.95,
-    "percent_change": 0.0
+    "current_price": 156.63,
+    "percent_change": 0.44
   },
   {
     "product_id": "557352",
     "category": "Pok\u00e9mon",
     "clean_name": "Stellar Crown Sleeved Booster Pack",
-    "previous_price": 11.5,
+    "previous_price": 11.6,
     "current_price": 11.6,
-    "percent_change": 0.87
+    "percent_change": 0.0
   },
   {
     "product_id": "557354",
     "category": "Pok\u00e9mon",
     "clean_name": "Stellar Crown Booster Box",
-    "previous_price": 309.04,
+    "previous_price": 309.25,
     "current_price": 309.25,
-    "percent_change": 0.07
+    "percent_change": 0.0
   },
   {
     "product_id": "557357",
@@ -1195,41 +1195,41 @@
     "product_id": "558713",
     "category": "Pok\u00e9mon",
     "clean_name": "Trick or Trade BOOster Bundle 2024 35 mini packs",
-    "previous_price": 65.23,
+    "previous_price": 66.11,
     "current_price": 66.11,
-    "percent_change": 1.35
+    "percent_change": 0.0
   },
   {
     "product_id": "579930",
     "category": "Pok\u00e9mon",
     "clean_name": "Trick or Trade BOOster Bundle 2024 Mini Booster Pack",
-    "previous_price": 2.11,
-    "current_price": 2.16,
-    "percent_change": 2.37
+    "previous_price": 2.16,
+    "current_price": 2.18,
+    "percent_change": 0.93
   },
   {
     "product_id": "552997",
     "category": "Pok\u00e9mon",
     "clean_name": "Shrouded Fable Booster Pack",
-    "previous_price": 14.6,
+    "previous_price": 14.56,
     "current_price": 14.56,
-    "percent_change": -0.27
+    "percent_change": 0.0
   },
   {
     "product_id": "552998",
     "category": "Pok\u00e9mon",
     "clean_name": "Shrouded Fable Pokemon Center Elite Trainer Box Exclusive",
-    "previous_price": 165.63,
+    "previous_price": 165.79,
     "current_price": 165.79,
-    "percent_change": 0.1
+    "percent_change": 0.0
   },
   {
     "product_id": "552999",
     "category": "Pok\u00e9mon",
     "clean_name": "Shrouded Fable Elite Trainer Box",
-    "previous_price": 113.73,
-    "current_price": 114.17,
-    "percent_change": 0.39
+    "previous_price": 114.17,
+    "current_price": 112.11,
+    "percent_change": -1.8
   },
   {
     "product_id": "553000",
@@ -1267,9 +1267,9 @@
     "product_id": "553008",
     "category": "Pok\u00e9mon",
     "clean_name": "Shrouded Fable Mini Tin Display",
-    "previous_price": 201.89,
+    "previous_price": 202.1,
     "current_price": 202.1,
-    "percent_change": 0.1
+    "percent_change": 0.0
   },
   {
     "product_id": "553009",
@@ -1291,9 +1291,9 @@
     "product_id": "553031",
     "category": "Pok\u00e9mon",
     "clean_name": "Shrouded Fable Booster Bundle",
-    "previous_price": 58.72,
-    "current_price": 59.36,
-    "percent_change": 1.09
+    "previous_price": 59.36,
+    "current_price": 58.87,
+    "percent_change": -0.83
   },
   {
     "product_id": "553075",
@@ -1339,33 +1339,33 @@
     "product_id": "543845",
     "category": "Pok\u00e9mon",
     "clean_name": "Twilight Masquerade Elite Trainer Box",
-    "previous_price": 101.47,
-    "current_price": 102.76,
-    "percent_change": 1.27
+    "previous_price": 102.76,
+    "current_price": 102.91,
+    "percent_change": 0.15
   },
   {
     "product_id": "543846",
     "category": "Pok\u00e9mon",
     "clean_name": "Twilight Masquerade Booster Box",
-    "previous_price": 352.94,
+    "previous_price": 352.26,
     "current_price": 352.26,
-    "percent_change": -0.19
+    "percent_change": 0.0
   },
   {
     "product_id": "543852",
     "category": "Pok\u00e9mon",
     "clean_name": "Twilight Masquerade Booster Bundle",
-    "previous_price": 73.74,
-    "current_price": 73.85,
-    "percent_change": 0.15
+    "previous_price": 73.85,
+    "current_price": 73.97,
+    "percent_change": 0.16
   },
   {
     "product_id": "544170",
     "category": "Pok\u00e9mon",
     "clean_name": "Twilight Masquerade Sleeved Booster Pack",
-    "previous_price": 10.51,
+    "previous_price": 10.52,
     "current_price": 10.52,
-    "percent_change": 0.1
+    "percent_change": 0.0
   },
   {
     "product_id": "544171",
@@ -1427,9 +1427,9 @@
     "product_id": "544385",
     "category": "Pok\u00e9mon",
     "clean_name": "Twilight Masquerade Elite Trainer Box Case",
-    "previous_price": 1200.96,
+    "previous_price": 1222.07,
     "current_price": 1222.07,
-    "percent_change": 1.76
+    "percent_change": 0.0
   },
   {
     "product_id": "544386",
@@ -1443,9 +1443,9 @@
     "product_id": "549487",
     "category": "Pok\u00e9mon",
     "clean_name": "Twilight Masquerade Booster Pack Art Bundle Set of 4",
-    "previous_price": 37.1,
+    "previous_price": 37.25,
     "current_price": 37.25,
-    "percent_change": 0.4
+    "percent_change": 0.0
   },
   {
     "product_id": "549489",
@@ -1499,17 +1499,17 @@
     "product_id": "532841",
     "category": "Pok\u00e9mon",
     "clean_name": "Temporal Forces Booster Pack",
-    "previous_price": 9.68,
+    "previous_price": 9.45,
     "current_price": 9.45,
-    "percent_change": -2.38
+    "percent_change": 0.0
   },
   {
     "product_id": "532845",
     "category": "Pok\u00e9mon",
     "clean_name": "Temporal Forces Elite Trainer Box Walking Wake",
     "previous_price": 139.8,
-    "current_price": 139.8,
-    "percent_change": 0.0
+    "current_price": 140.0,
+    "percent_change": 0.14
   },
   {
     "product_id": "532848",
@@ -1523,9 +1523,9 @@
     "product_id": "532849",
     "category": "Pok\u00e9mon",
     "clean_name": "Temporal Forces Elite Trainer Box Set of 2",
-    "previous_price": 227.61,
+    "previous_price": 233.87,
     "current_price": 233.87,
-    "percent_change": 2.75
+    "percent_change": 0.0
   },
   {
     "product_id": "532853",
@@ -1539,9 +1539,9 @@
     "product_id": "536225",
     "category": "Pok\u00e9mon",
     "clean_name": "Temporal Forces Booster Box",
-    "previous_price": 315.21,
+    "previous_price": 314.69,
     "current_price": 314.69,
-    "percent_change": -0.16
+    "percent_change": 0.0
   },
   {
     "product_id": "536227",
@@ -1604,8 +1604,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Temporal Forces Pokemon Center Elite Trainer Box Exclusive Walking Wake",
     "previous_price": 199.98,
-    "current_price": 199.98,
-    "percent_change": 0.0
+    "current_price": 200.78,
+    "percent_change": 0.4
   },
   {
     "product_id": "538786",
@@ -1619,9 +1619,9 @@
     "product_id": "538787",
     "category": "Pok\u00e9mon",
     "clean_name": "Temporal Forces Sleeved Booster Pack",
-    "previous_price": 11.42,
+    "previous_price": 11.39,
     "current_price": 11.39,
-    "percent_change": -0.26
+    "percent_change": 0.0
   },
   {
     "product_id": "538789",
@@ -1636,8 +1636,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Temporal Forces Booster Bundle",
     "previous_price": 89.73,
-    "current_price": 89.73,
-    "percent_change": 0.0
+    "current_price": 89.15,
+    "percent_change": -0.65
   },
   {
     "product_id": "544679",
@@ -1675,17 +1675,17 @@
     "product_id": "528038",
     "category": "Pok\u00e9mon",
     "clean_name": "Paldean Fates Booster Pack",
-    "previous_price": 24.88,
+    "previous_price": 25.01,
     "current_price": 25.01,
-    "percent_change": 0.52
+    "percent_change": 0.0
   },
   {
     "product_id": "528039",
     "category": "Pok\u00e9mon",
     "clean_name": "Paldean Fates Pokemon Center Elite Trainer Box Exclusive",
-    "previous_price": 582.23,
+    "previous_price": 579.23,
     "current_price": 579.23,
-    "percent_change": -0.52
+    "percent_change": 0.0
   },
   {
     "product_id": "528040",
@@ -1699,25 +1699,25 @@
     "product_id": "528043",
     "category": "Pok\u00e9mon",
     "clean_name": "Paldean Fates Tech Sticker Collection Fidough",
-    "previous_price": 71.53,
+    "previous_price": 71.54,
     "current_price": 71.54,
-    "percent_change": 0.01
+    "percent_change": 0.0
   },
   {
     "product_id": "528044",
     "category": "Pok\u00e9mon",
     "clean_name": "Paldean Fates Tech Sticker Collection Maschiff",
-    "previous_price": 72.43,
-    "current_price": 71.78,
-    "percent_change": -0.9
+    "previous_price": 71.78,
+    "current_price": 72.07,
+    "percent_change": 0.4
   },
   {
     "product_id": "528045",
     "category": "Pok\u00e9mon",
     "clean_name": "Paldean Fates Tech Sticker Collection Greavard",
-    "previous_price": 71.39,
+    "previous_price": 70.87,
     "current_price": 70.87,
-    "percent_change": -0.73
+    "percent_change": 0.0
   },
   {
     "product_id": "528047",
@@ -1747,9 +1747,9 @@
     "product_id": "528051",
     "category": "Pok\u00e9mon",
     "clean_name": "Paldean Fates Mini Tin Maushold",
-    "previous_price": 85.64,
+    "previous_price": 86.48,
     "current_price": 86.48,
-    "percent_change": 0.98
+    "percent_change": 0.0
   },
   {
     "product_id": "528052",
@@ -1771,9 +1771,9 @@
     "product_id": "528056",
     "category": "Pok\u00e9mon",
     "clean_name": "Paldean Fates Tin Charizard ex",
-    "previous_price": 204.62,
-    "current_price": 203.22,
-    "percent_change": -0.68
+    "previous_price": 203.22,
+    "current_price": 202.82,
+    "percent_change": -0.2
   },
   {
     "product_id": "528057",
@@ -1812,8 +1812,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Paldean Fates International Tin Charizard ex",
     "previous_price": 150.85,
-    "current_price": 150.85,
-    "percent_change": 0.0
+    "current_price": 151.68,
+    "percent_change": 0.55
   },
   {
     "product_id": "528079",
@@ -1836,8 +1836,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Paldean Fates Premium Collection Quaquaval ex",
     "previous_price": 221.66,
-    "current_price": 221.66,
-    "percent_change": 0.0
+    "current_price": 223.36,
+    "percent_change": 0.77
   },
   {
     "product_id": "528229",
@@ -1859,9 +1859,9 @@
     "product_id": "528771",
     "category": "Pok\u00e9mon",
     "clean_name": "Paldean Fates Booster Bundle",
-    "previous_price": 171.81,
-    "current_price": 171.25,
-    "percent_change": -0.33
+    "previous_price": 171.25,
+    "current_price": 171.92,
+    "percent_change": 0.39
   },
   {
     "product_id": "529039",
@@ -1884,8 +1884,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Paldean Fates Booster Bundle Display",
     "previous_price": 1573.45,
-    "current_price": 1573.45,
-    "percent_change": 0.0
+    "current_price": 1571.45,
+    "percent_change": -0.13
   },
   {
     "product_id": "536266",
@@ -1899,81 +1899,81 @@
     "product_id": "518886",
     "category": "Pok\u00e9mon",
     "clean_name": "Pokemon Trading Card Game Classic",
-    "previous_price": 544.31,
-    "current_price": 544.87,
-    "percent_change": 0.1
+    "previous_price": 544.87,
+    "current_price": 545.0,
+    "percent_change": 0.02
   },
   {
     "product_id": "512801",
     "category": "Pok\u00e9mon",
     "clean_name": "Paradox Rift Pokemon Center Elite Trainer Box Exclusive Iron Valiant",
-    "previous_price": 191.07,
+    "previous_price": 191.47,
     "current_price": 191.47,
-    "percent_change": 0.21
+    "percent_change": 0.0
   },
   {
     "product_id": "512809",
     "category": "Pok\u00e9mon",
     "clean_name": "Paradox Rift Pokemon Center Elite Trainer Box Exclusive Roaring Moon",
-    "previous_price": 221.88,
+    "previous_price": 222.52,
     "current_price": 222.52,
-    "percent_change": 0.29
+    "percent_change": 0.0
   },
   {
     "product_id": "512813",
     "category": "Pok\u00e9mon",
     "clean_name": "Paradox Rift Elite Trainer Box Iron Valiant",
-    "previous_price": 134.74,
+    "previous_price": 135.02,
     "current_price": 135.02,
-    "percent_change": 0.21
+    "percent_change": 0.0
   },
   {
     "product_id": "512815",
     "category": "Pok\u00e9mon",
     "clean_name": "Paradox Rift Elite Trainer Box Roaring Moon",
-    "previous_price": 141.72,
+    "previous_price": 141.12,
     "current_price": 141.12,
-    "percent_change": -0.42
+    "percent_change": 0.0
   },
   {
     "product_id": "512820",
     "category": "Pok\u00e9mon",
     "clean_name": "Paradox Rift Booster Bundle",
     "previous_price": 89.52,
-    "current_price": 89.52,
-    "percent_change": 0.0
+    "current_price": 90.6,
+    "percent_change": 1.21
   },
   {
     "product_id": "512821",
     "category": "Pok\u00e9mon",
     "clean_name": "Paradox Rift Booster Box",
     "previous_price": 281.87,
-    "current_price": 281.87,
-    "percent_change": 0.0
+    "current_price": 282.23,
+    "percent_change": 0.13
   },
   {
     "product_id": "512822",
     "category": "Pok\u00e9mon",
     "clean_name": "Paradox Rift Booster Pack",
-    "previous_price": 8.37,
-    "current_price": 8.45,
-    "percent_change": 0.96
+    "previous_price": 8.45,
+    "current_price": 8.46,
+    "percent_change": 0.12
   },
   {
     "product_id": "512828",
     "category": "Pok\u00e9mon",
     "clean_name": "Paradox Rift Booster Box Case",
-    "previous_price": 1845.48,
+    "previous_price": 1849.68,
     "current_price": 1849.68,
-    "percent_change": 0.23
+    "percent_change": 0.0
   },
   {
     "product_id": "512831",
     "category": "Pok\u00e9mon",
     "clean_name": "Paradox Rift Booster Pack Art Bundle Set of 4",
     "previous_price": 40.43,
-    "current_price": 40.43,
-    "percent_change": 0.0
+    "current_price": 40.31,
+    "percent_change": -0.3
   },
   {
     "product_id": "512834",
@@ -2012,8 +2012,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Paradox Rift Build and Battle Box",
     "previous_price": 43.21,
-    "current_price": 43.21,
-    "percent_change": 0.0
+    "current_price": 43.23,
+    "percent_change": 0.05
   },
   {
     "product_id": "514069",
@@ -2027,9 +2027,9 @@
     "product_id": "514223",
     "category": "Pok\u00e9mon",
     "clean_name": "Paradox Rift Single Pack Blister Sinistea",
-    "previous_price": 10.71,
+    "previous_price": 10.68,
     "current_price": 10.68,
-    "percent_change": -0.28
+    "percent_change": 0.0
   },
   {
     "product_id": "514224",
@@ -2068,8 +2068,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "My First Battle Charmander and Squirtle",
     "previous_price": 67.68,
-    "current_price": 67.68,
-    "percent_change": 0.0
+    "current_price": 67.86,
+    "percent_change": 0.27
   },
   {
     "product_id": "501999",
@@ -2083,17 +2083,17 @@
     "product_id": "502000",
     "category": "Pok\u00e9mon",
     "clean_name": "151 Booster Bundle",
-    "previous_price": 165.73,
-    "current_price": 159.73,
-    "percent_change": -3.62
+    "previous_price": 159.73,
+    "current_price": 156.78,
+    "percent_change": -1.85
   },
   {
     "product_id": "502001",
     "category": "Pok\u00e9mon",
     "clean_name": "151 Poster Collection",
-    "previous_price": 85.59,
-    "current_price": 85.67,
-    "percent_change": 0.09
+    "previous_price": 85.67,
+    "current_price": 85.66,
+    "percent_change": -0.01
   },
   {
     "product_id": "502002",
@@ -2123,9 +2123,9 @@
     "product_id": "502006",
     "category": "Pok\u00e9mon",
     "clean_name": "151 Alakazam ex Collection",
-    "previous_price": 118.39,
+    "previous_price": 118.31,
     "current_price": 118.31,
-    "percent_change": -0.07
+    "percent_change": 0.0
   },
   {
     "product_id": "502007",
@@ -2139,25 +2139,25 @@
     "product_id": "502008",
     "category": "Pok\u00e9mon",
     "clean_name": "151 Mini Tin Display",
-    "previous_price": 539.62,
+    "previous_price": 540.95,
     "current_price": 540.95,
-    "percent_change": 0.25
+    "percent_change": 0.0
   },
   {
     "product_id": "503313",
     "category": "Pok\u00e9mon",
     "clean_name": "151 Elite Trainer Box",
-    "previous_price": 498.22,
-    "current_price": 476.76,
-    "percent_change": -4.31
+    "previous_price": 476.76,
+    "current_price": 470.95,
+    "percent_change": -1.22
   },
   {
     "product_id": "504467",
     "category": "Pok\u00e9mon",
     "clean_name": "151 Booster Pack",
-    "previous_price": 29.63,
+    "previous_price": 29.62,
     "current_price": 29.62,
-    "percent_change": -0.03
+    "percent_change": 0.0
   },
   {
     "product_id": "506640",
@@ -2203,9 +2203,9 @@
     "product_id": "522700",
     "category": "Pok\u00e9mon",
     "clean_name": "151 Mini Tin Dragonite and Vileplume",
-    "previous_price": 57.27,
+    "previous_price": 57.12,
     "current_price": 57.12,
-    "percent_change": -0.26
+    "percent_change": 0.0
   },
   {
     "product_id": "522701",
@@ -2219,9 +2219,9 @@
     "product_id": "522702",
     "category": "Pok\u00e9mon",
     "clean_name": "151 Mini Tin Gengar and Poliwag",
-    "previous_price": 60.56,
+    "previous_price": 60.22,
     "current_price": 60.22,
-    "percent_change": -0.56
+    "percent_change": 0.0
   },
   {
     "product_id": "522703",
@@ -2260,8 +2260,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "151 Mini Tin Weezing and Scyther",
     "previous_price": 52.81,
-    "current_price": 52.81,
-    "percent_change": 0.0
+    "current_price": 52.48,
+    "percent_change": -0.62
   },
   {
     "product_id": "522708",
@@ -2291,25 +2291,25 @@
     "product_id": "516527",
     "category": "Pok\u00e9mon",
     "clean_name": "McDonalds 2023 Match and Battle Pack",
-    "previous_price": 6.35,
+    "previous_price": 6.32,
     "current_price": 6.32,
-    "percent_change": -0.47
+    "percent_change": 0.0
   },
   {
     "product_id": "505942",
     "category": "Pok\u00e9mon",
     "clean_name": "Trick or Trade BOOster Bundle 2023 50 ct",
-    "previous_price": 82.98,
+    "previous_price": 84.03,
     "current_price": 84.03,
-    "percent_change": 1.27
+    "percent_change": 0.0
   },
   {
     "product_id": "505945",
     "category": "Pok\u00e9mon",
     "clean_name": "Trick or Trade BOOster Bundle 2023 Mini Booster Pack",
-    "previous_price": 2.2,
-    "current_price": 2.24,
-    "percent_change": 1.82
+    "previous_price": 2.24,
+    "current_price": 2.25,
+    "percent_change": 0.45
   },
   {
     "product_id": "564134",
@@ -2331,9 +2331,9 @@
     "product_id": "501257",
     "category": "Pok\u00e9mon",
     "clean_name": "Obsidian Flames Booster Box",
-    "previous_price": 373.16,
+    "previous_price": 372.87,
     "current_price": 372.87,
-    "percent_change": -0.08
+    "percent_change": 0.0
   },
   {
     "product_id": "501258",
@@ -2379,17 +2379,17 @@
     "product_id": "501264",
     "category": "Pok\u00e9mon",
     "clean_name": "Obsidian Flames Elite Trainer Box",
-    "previous_price": 276.91,
-    "current_price": 275.52,
-    "percent_change": -0.5
+    "previous_price": 275.52,
+    "current_price": 274.92,
+    "percent_change": -0.22
   },
   {
     "product_id": "501265",
     "category": "Pok\u00e9mon",
     "clean_name": "Obsidian Flames Elite Trainer Box Case",
-    "previous_price": 2519.1,
-    "current_price": 2603.98,
-    "percent_change": 3.37
+    "previous_price": 2603.98,
+    "current_price": 2721.31,
+    "percent_change": 4.51
   },
   {
     "product_id": "501266",
@@ -2428,8 +2428,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Obsidian Flames Sleeved Booster Pack Art Bundle Set of 4",
     "previous_price": 56.8,
-    "current_price": 56.8,
-    "percent_change": 0.0
+    "current_price": 57.34,
+    "percent_change": 0.95
   },
   {
     "product_id": "514193",
@@ -2443,9 +2443,9 @@
     "product_id": "515079",
     "category": "Pok\u00e9mon",
     "clean_name": "Obsidian Flames Booster Pack Art Bundle Set of 4",
-    "previous_price": 52.1,
+    "previous_price": 52.65,
     "current_price": 52.65,
-    "percent_change": 1.06
+    "percent_change": 0.0
   },
   {
     "product_id": "534087",
@@ -2491,41 +2491,41 @@
     "product_id": "493974",
     "category": "Pok\u00e9mon",
     "clean_name": "Paldea Evolved Elite Trainer Box",
-    "previous_price": 217.57,
+    "previous_price": 218.51,
     "current_price": 218.51,
-    "percent_change": 0.43
+    "percent_change": 0.0
   },
   {
     "product_id": "493975",
     "category": "Pok\u00e9mon",
     "clean_name": "Paldea Evolved Booster Box",
-    "previous_price": 477.16,
-    "current_price": 473.61,
-    "percent_change": -0.74
+    "previous_price": 473.61,
+    "current_price": 472.73,
+    "percent_change": -0.19
   },
   {
     "product_id": "493976",
     "category": "Pok\u00e9mon",
     "clean_name": "Paldea Evolved Booster Pack",
-    "previous_price": 15.57,
+    "previous_price": 15.56,
     "current_price": 15.56,
-    "percent_change": -0.06
+    "percent_change": 0.0
   },
   {
     "product_id": "493997",
     "category": "Pok\u00e9mon",
     "clean_name": "Paldea Evolved 3 Pack Blister Tinkatink",
     "previous_price": 47.16,
-    "current_price": 47.16,
-    "percent_change": 0.0
+    "current_price": 47.95,
+    "percent_change": 1.68
   },
   {
     "product_id": "493998",
     "category": "Pok\u00e9mon",
     "clean_name": "Paldea Evolved 3 Pack Blister Varoom",
     "previous_price": 42.9,
-    "current_price": 42.9,
-    "percent_change": 0.0
+    "current_price": 43.37,
+    "percent_change": 1.1
   },
   {
     "product_id": "493999",
@@ -2547,25 +2547,25 @@
     "product_id": "496905",
     "category": "Pok\u00e9mon",
     "clean_name": "Paldea Evolved Booster Box Case",
-    "previous_price": 2823.79,
+    "previous_price": 2824.31,
     "current_price": 2824.31,
-    "percent_change": 0.02
+    "percent_change": 0.0
   },
   {
     "product_id": "496908",
     "category": "Pok\u00e9mon",
     "clean_name": "Paldea Evolved 3 Pack Blister Set of 2",
-    "previous_price": 95.74,
+    "previous_price": 97.7,
     "current_price": 97.7,
-    "percent_change": 2.05
+    "percent_change": 0.0
   },
   {
     "product_id": "496913",
     "category": "Pok\u00e9mon",
     "clean_name": "Paldea Evolved Booster Pack Art Bundle Set of 5",
     "previous_price": 77.07,
-    "current_price": 77.07,
-    "percent_change": 0.0
+    "current_price": 77.86,
+    "percent_change": 1.03
   },
   {
     "product_id": "496914",
@@ -2620,8 +2620,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Paldea Evolved Fun Pack",
     "previous_price": 7.58,
-    "current_price": 7.58,
-    "percent_change": 0.0
+    "current_price": 7.46,
+    "percent_change": -1.58
   },
   {
     "product_id": "617015",
@@ -2643,9 +2643,9 @@
     "product_id": "476451",
     "category": "Pok\u00e9mon",
     "clean_name": "Scarlet and Violet Booster Pack",
-    "previous_price": 9.1,
-    "current_price": 9.09,
-    "percent_change": -0.11
+    "previous_price": 9.09,
+    "current_price": 9.12,
+    "percent_change": 0.33
   },
   {
     "product_id": "476452",
@@ -2667,9 +2667,9 @@
     "product_id": "478253",
     "category": "Pok\u00e9mon",
     "clean_name": "Scarlet and Violet Build and Battle Box",
-    "previous_price": 40.75,
+    "previous_price": 40.81,
     "current_price": 40.81,
-    "percent_change": 0.15
+    "percent_change": 0.0
   },
   {
     "product_id": "478254",
@@ -2699,9 +2699,9 @@
     "product_id": "478273",
     "category": "Pok\u00e9mon",
     "clean_name": "Scarlet and Violet Sleeved Booster Pack",
-    "previous_price": 11.23,
+    "previous_price": 11.19,
     "current_price": 11.19,
-    "percent_change": -0.36
+    "percent_change": 0.0
   },
   {
     "product_id": "478274",
@@ -2715,17 +2715,17 @@
     "product_id": "478335",
     "category": "Pok\u00e9mon",
     "clean_name": "Scarlet and Violet Elite Trainer Box Koraidon",
-    "previous_price": 131.56,
-    "current_price": 131.28,
-    "percent_change": -0.21
+    "previous_price": 131.28,
+    "current_price": 131.88,
+    "percent_change": 0.46
   },
   {
     "product_id": "478336",
     "category": "Pok\u00e9mon",
     "clean_name": "Scarlet and Violet Elite Trainer Box Miraidon",
     "previous_price": 144.74,
-    "current_price": 144.74,
-    "percent_change": 0.0
+    "current_price": 145.15,
+    "percent_change": 0.28
   },
   {
     "product_id": "478756",
@@ -2779,17 +2779,17 @@
     "product_id": "478765",
     "category": "Pok\u00e9mon",
     "clean_name": "Scarlet and Violet Single Pack Blister Spidops",
-    "previous_price": 12.15,
+    "previous_price": 12.33,
     "current_price": 12.33,
-    "percent_change": 1.48
+    "percent_change": 0.0
   },
   {
     "product_id": "478766",
     "category": "Pok\u00e9mon",
     "clean_name": "Scarlet and Violet Single Pack Blister Espathra",
     "previous_price": 13.15,
-    "current_price": 13.15,
-    "percent_change": 0.0
+    "current_price": 13.26,
+    "percent_change": 0.84
   },
   {
     "product_id": "478767",
@@ -2843,9 +2843,9 @@
     "product_id": "453466",
     "category": "Pok\u00e9mon",
     "clean_name": "Crown Zenith Booster Pack",
-    "previous_price": 25.45,
-    "current_price": 25.33,
-    "percent_change": -0.47
+    "previous_price": 25.33,
+    "current_price": 25.41,
+    "percent_change": 0.32
   },
   {
     "product_id": "453467",
@@ -2860,16 +2860,16 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Crown Zenith Collection Regidrago V",
     "previous_price": 101.86,
-    "current_price": 101.86,
-    "percent_change": 0.0
+    "current_price": 102.57,
+    "percent_change": 0.7
   },
   {
     "product_id": "453470",
     "category": "Pok\u00e9mon",
     "clean_name": "Crown Zenith Elite Trainer Box",
-    "previous_price": 309.52,
-    "current_price": 308.72,
-    "percent_change": -0.26
+    "previous_price": 308.72,
+    "current_price": 307.74,
+    "percent_change": -0.32
   },
   {
     "product_id": "453471",
@@ -2948,8 +2948,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Crown Zenith Pokemon Center Elite Trainer Box Plus Case",
     "previous_price": 2449.99,
-    "current_price": 2449.99,
-    "percent_change": 0.0
+    "current_price": 2499.99,
+    "percent_change": 2.04
   },
   {
     "product_id": "454452",
@@ -3004,8 +3004,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Crown Zenith Tin Galarian Moltres",
     "previous_price": 156.68,
-    "current_price": 156.68,
-    "percent_change": 0.0
+    "current_price": 156.64,
+    "percent_change": -0.03
   },
   {
     "product_id": "475630",
@@ -3028,8 +3028,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Crown Zenith Tin Galarian Moltres International Version",
     "previous_price": 122.3,
-    "current_price": 122.3,
-    "percent_change": 0.0
+    "current_price": 123.69,
+    "percent_change": 1.14
   },
   {
     "product_id": "475633",
@@ -3044,8 +3044,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Crown Zenith Tin Set of 3",
     "previous_price": 394.98,
-    "current_price": 394.98,
-    "percent_change": 0.0
+    "current_price": 397.13,
+    "percent_change": 0.54
   },
   {
     "product_id": "475635",
@@ -3059,9 +3059,9 @@
     "product_id": "475644",
     "category": "Pok\u00e9mon",
     "clean_name": "Morpeko V UNION Playmat Premium Collection",
-    "previous_price": 140.38,
+    "previous_price": 140.23,
     "current_price": 140.23,
-    "percent_change": -0.11
+    "percent_change": 0.0
   },
   {
     "product_id": "475646",
@@ -3108,8 +3108,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Crown Zenith Booster Bundle",
     "previous_price": 219.75,
-    "current_price": 219.75,
-    "percent_change": 0.0
+    "current_price": 219.15,
+    "percent_change": -0.27
   },
   {
     "product_id": "527796",
@@ -3123,9 +3123,9 @@
     "product_id": "563307",
     "category": "Pok\u00e9mon",
     "clean_name": "Sea and Sky Premium Collection",
-    "previous_price": 385.64,
-    "current_price": 383.24,
-    "percent_change": -0.62
+    "previous_price": 383.24,
+    "current_price": 381.84,
+    "percent_change": -0.37
   },
   {
     "product_id": "609238",
@@ -3139,17 +3139,17 @@
     "product_id": "283388",
     "category": "Pok\u00e9mon",
     "clean_name": "Silver Tempest Booster Pack",
-    "previous_price": 15.2,
-    "current_price": 15.26,
-    "percent_change": 0.39
+    "previous_price": 15.26,
+    "current_price": 15.27,
+    "percent_change": 0.07
   },
   {
     "product_id": "283389",
     "category": "Pok\u00e9mon",
     "clean_name": "Silver Tempest Booster Box",
     "previous_price": 522.04,
-    "current_price": 522.04,
-    "percent_change": 0.0
+    "current_price": 522.64,
+    "percent_change": 0.11
   },
   {
     "product_id": "283391",
@@ -3203,9 +3203,9 @@
     "product_id": "283401",
     "category": "Pok\u00e9mon",
     "clean_name": "Silver Tempest Elite Trainer Box",
-    "previous_price": 162.77,
-    "current_price": 162.57,
-    "percent_change": -0.12
+    "previous_price": 162.57,
+    "current_price": 162.73,
+    "percent_change": 0.1
   },
   {
     "product_id": "284930",
@@ -3276,8 +3276,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Silver Tempest Single Pack Blister Cranidos",
     "previous_price": 14.54,
-    "current_price": 14.54,
-    "percent_change": 0.0
+    "current_price": 14.67,
+    "percent_change": 0.89
   },
   {
     "product_id": "285784",
@@ -3316,8 +3316,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Lost Origin Booster Box",
     "previous_price": 733.73,
-    "current_price": 733.73,
-    "percent_change": 0.0
+    "current_price": 732.27,
+    "percent_change": -0.2
   },
   {
     "product_id": "277325",
@@ -3331,17 +3331,17 @@
     "product_id": "277326",
     "category": "Pok\u00e9mon",
     "clean_name": "Lost Origin Sleeved Booster Pack",
-    "previous_price": 21.76,
+    "previous_price": 21.84,
     "current_price": 21.84,
-    "percent_change": 0.37
+    "percent_change": 0.0
   },
   {
     "product_id": "277327",
     "category": "Pok\u00e9mon",
     "clean_name": "Lost Origin Single Pack Blister Croagunk",
-    "previous_price": 16.87,
+    "previous_price": 16.96,
     "current_price": 16.96,
-    "percent_change": 0.53
+    "percent_change": 0.0
   },
   {
     "product_id": "277328",
@@ -3355,9 +3355,9 @@
     "product_id": "277329",
     "category": "Pok\u00e9mon",
     "clean_name": "Lost Origin 3 Pack Blister Regigigas",
-    "previous_price": 57.97,
+    "previous_price": 58.97,
     "current_price": 58.97,
-    "percent_change": 1.73
+    "percent_change": 0.0
   },
   {
     "product_id": "277330",
@@ -3380,16 +3380,16 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Lost Origin Premium Checklane Blister Torterra",
     "previous_price": 28.37,
-    "current_price": 28.37,
-    "percent_change": 0.0
+    "current_price": 29.56,
+    "percent_change": 4.19
   },
   {
     "product_id": "277335",
     "category": "Pok\u00e9mon",
     "clean_name": "Lost Origin Elite Trainer Box",
-    "previous_price": 195.03,
+    "previous_price": 195.0,
     "current_price": 195.0,
-    "percent_change": -0.02
+    "percent_change": 0.0
   },
   {
     "product_id": "277336",
@@ -3436,8 +3436,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Lost Origin Booster Pack Art Bundle Set of 4",
     "previous_price": 76.41,
-    "current_price": 76.41,
-    "percent_change": 0.0
+    "current_price": 76.7,
+    "percent_change": 0.38
   },
   {
     "product_id": "278795",
@@ -3499,17 +3499,17 @@
     "product_id": "282401",
     "category": "Pok\u00e9mon",
     "clean_name": "Sword and Shield Ultra Premium Collection Charizard",
-    "previous_price": 561.56,
-    "current_price": 562.08,
-    "percent_change": 0.09
+    "previous_price": 562.08,
+    "current_price": 574.36,
+    "percent_change": 2.18
   },
   {
     "product_id": "282402",
     "category": "Pok\u00e9mon",
     "clean_name": "Hisuian Zoroark VSTAR Premium Collection",
-    "previous_price": 181.58,
+    "previous_price": 179.07,
     "current_price": 179.07,
-    "percent_change": -1.38
+    "percent_change": 0.0
   },
   {
     "product_id": "282404",
@@ -3564,16 +3564,16 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Trick or Trade BOOster Bundle Mini Booster Pack",
     "previous_price": 2.61,
-    "current_price": 2.61,
-    "percent_change": 0.0
+    "current_price": 2.63,
+    "percent_change": 0.77
   },
   {
     "product_id": "280302",
     "category": "Pok\u00e9mon",
     "clean_name": "Trick or Trade BOOster Bundle 40 ct",
-    "previous_price": 66.58,
+    "previous_price": 70.87,
     "current_price": 70.87,
-    "percent_change": 6.44
+    "percent_change": 0.0
   },
   {
     "product_id": "282530",
@@ -3587,9 +3587,9 @@
     "product_id": "270708",
     "category": "Pok\u00e9mon",
     "clean_name": "Pokemon GO Elite Trainer Box",
-    "previous_price": 171.07,
+    "previous_price": 171.11,
     "current_price": 171.11,
-    "percent_change": 0.02
+    "percent_change": 0.0
   },
   {
     "product_id": "270709",
@@ -3611,17 +3611,17 @@
     "product_id": "270711",
     "category": "Pok\u00e9mon",
     "clean_name": "V Battle Deck Melmetal V",
-    "previous_price": 13.94,
+    "previous_price": 13.95,
     "current_price": 13.95,
-    "percent_change": 0.07
+    "percent_change": 0.0
   },
   {
     "product_id": "270712",
     "category": "Pok\u00e9mon",
     "clean_name": "Pokemon GO V Battle Deck Bundle Mewtwo V Melmetal V",
-    "previous_price": 44.59,
+    "previous_price": 44.79,
     "current_price": 44.79,
-    "percent_change": 0.45
+    "percent_change": 0.0
   },
   {
     "product_id": "270713",
@@ -3676,8 +3676,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Pokemon GO Tin Snorlax",
     "previous_price": 70.28,
-    "current_price": 70.28,
-    "percent_change": 0.0
+    "current_price": 71.63,
+    "percent_change": 1.92
   },
   {
     "product_id": "270728",
@@ -3788,16 +3788,16 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Pokemon GO Pin Collection Bulbasaur",
     "previous_price": 51.92,
-    "current_price": 51.92,
-    "percent_change": 0.0
+    "current_price": 52.69,
+    "percent_change": 1.48
   },
   {
     "product_id": "275826",
     "category": "Pok\u00e9mon",
     "clean_name": "Pokemon GO Pin Collection Charmander",
     "previous_price": 72.12,
-    "current_price": 72.12,
-    "percent_change": 0.0
+    "current_price": 73.91,
+    "percent_change": 2.48
   },
   {
     "product_id": "275827",
@@ -3812,8 +3812,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Pokemon GO Premier Deck Holder Collection Dragonite VSTAR",
     "previous_price": 104.82,
-    "current_price": 104.82,
-    "percent_change": 0.0
+    "current_price": 105.01,
+    "percent_change": 0.18
   },
   {
     "product_id": "275845",
@@ -3836,16 +3836,16 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Astral Radiance Build and Battle Stadium",
     "previous_price": 124.29,
-    "current_price": 124.29,
-    "percent_change": 0.0
+    "current_price": 124.73,
+    "percent_change": 0.35
   },
   {
     "product_id": "265519",
     "category": "Pok\u00e9mon",
     "clean_name": "Astral Radiance Booster Box",
-    "previous_price": 411.39,
+    "previous_price": 409.95,
     "current_price": 409.95,
-    "percent_change": -0.35
+    "percent_change": 0.0
   },
   {
     "product_id": "265520",
@@ -3859,9 +3859,9 @@
     "product_id": "265521",
     "category": "Pok\u00e9mon",
     "clean_name": "Astral Radiance Booster Pack",
-    "previous_price": 10.61,
+    "previous_price": 10.63,
     "current_price": 10.63,
-    "percent_change": 0.19
+    "percent_change": 0.0
   },
   {
     "product_id": "265522",
@@ -3907,25 +3907,25 @@
     "product_id": "265527",
     "category": "Pok\u00e9mon",
     "clean_name": "Astral Radiance Elite Trainer Box",
-    "previous_price": 143.29,
-    "current_price": 142.97,
-    "percent_change": -0.22
+    "previous_price": 142.97,
+    "current_price": 141.99,
+    "percent_change": -0.69
   },
   {
     "product_id": "265528",
     "category": "Pok\u00e9mon",
     "clean_name": "Astral Radiance Pokemon Center Elite Trainer Box Exclusive",
     "previous_price": 209.38,
-    "current_price": 209.38,
-    "percent_change": 0.0
+    "current_price": 206.16,
+    "percent_change": -1.54
   },
   {
     "product_id": "265529",
     "category": "Pok\u00e9mon",
     "clean_name": "Astral Radiance Build and Battle Box",
-    "previous_price": 46.29,
+    "previous_price": 46.52,
     "current_price": 46.52,
-    "percent_change": 0.5
+    "percent_change": 0.0
   },
   {
     "product_id": "265542",
@@ -4019,17 +4019,17 @@
     "product_id": "265253",
     "category": "Pok\u00e9mon",
     "clean_name": "Pokemon TCG Battle Academy 2022",
-    "previous_price": 27.39,
+    "previous_price": 27.55,
     "current_price": 27.55,
-    "percent_change": 0.58
+    "percent_change": 0.0
   },
   {
     "product_id": "256124",
     "category": "Pok\u00e9mon",
     "clean_name": "Brilliant Stars Booster Pack",
     "previous_price": 16.65,
-    "current_price": 16.65,
-    "percent_change": 0.0
+    "current_price": 16.63,
+    "percent_change": -0.12
   },
   {
     "product_id": "256125",
@@ -4051,9 +4051,9 @@
     "product_id": "256129",
     "category": "Pok\u00e9mon",
     "clean_name": "Brilliant Stars Single Pack Blister Eevee",
-    "previous_price": 24.84,
+    "previous_price": 25.33,
     "current_price": 25.33,
-    "percent_change": 1.97
+    "percent_change": 0.0
   },
   {
     "product_id": "256130",
@@ -4099,17 +4099,17 @@
     "product_id": "256137",
     "category": "Pok\u00e9mon",
     "clean_name": "Brilliant Stars Build and Battle Box",
-    "previous_price": 64.05,
+    "previous_price": 64.06,
     "current_price": 64.06,
-    "percent_change": 0.02
+    "percent_change": 0.0
   },
   {
     "product_id": "256138",
     "category": "Pok\u00e9mon",
     "clean_name": "Brilliant Stars Elite Trainer Box",
-    "previous_price": 158.69,
+    "previous_price": 158.3,
     "current_price": 158.3,
-    "percent_change": -0.25
+    "percent_change": 0.0
   },
   {
     "product_id": "256139",
@@ -4124,8 +4124,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Brilliant Stars Pokemon Center Elite Trainer Box Exclusive",
     "previous_price": 227.84,
-    "current_price": 227.84,
-    "percent_change": 0.0
+    "current_price": 228.28,
+    "percent_change": 0.19
   },
   {
     "product_id": "256141",
@@ -4195,9 +4195,9 @@
     "product_id": "509881",
     "category": "Pok\u00e9mon",
     "clean_name": "Brilliant Stars Fun Pack",
-    "previous_price": 7.16,
+    "previous_price": 7.14,
     "current_price": 7.14,
-    "percent_change": -0.28
+    "percent_change": 0.0
   },
   {
     "product_id": "599964",
@@ -4219,9 +4219,9 @@
     "product_id": "247646",
     "category": "Pok\u00e9mon",
     "clean_name": "Fusion Strike Booster Pack",
-    "previous_price": 19.09,
-    "current_price": 19.19,
-    "percent_change": 0.52
+    "previous_price": 19.19,
+    "current_price": 19.1,
+    "percent_change": -0.47
   },
   {
     "product_id": "247651",
@@ -4235,9 +4235,9 @@
     "product_id": "247654",
     "category": "Pok\u00e9mon",
     "clean_name": "Fusion Strike Booster Box",
-    "previous_price": 968.97,
+    "previous_price": 971.09,
     "current_price": 971.09,
-    "percent_change": 0.22
+    "percent_change": 0.0
   },
   {
     "product_id": "247655",
@@ -4251,9 +4251,9 @@
     "product_id": "247656",
     "category": "Pok\u00e9mon",
     "clean_name": "Fusion Strike Sleeved Booster Pack",
-    "previous_price": 27.84,
+    "previous_price": 27.49,
     "current_price": 27.49,
-    "percent_change": -1.26
+    "percent_change": 0.0
   },
   {
     "product_id": "247657",
@@ -4315,17 +4315,17 @@
     "product_id": "247670",
     "category": "Pok\u00e9mon",
     "clean_name": "Fusion Strike Single Pack Blister Blitzle",
-    "previous_price": 29.54,
+    "previous_price": 29.39,
     "current_price": 29.39,
-    "percent_change": -0.51
+    "percent_change": 0.0
   },
   {
     "product_id": "247671",
     "category": "Pok\u00e9mon",
     "clean_name": "Fusion Strike Elite Trainer Box",
-    "previous_price": 325.13,
-    "current_price": 327.93,
-    "percent_change": 0.86
+    "previous_price": 327.93,
+    "current_price": 328.58,
+    "percent_change": 0.2
   },
   {
     "product_id": "247673",
@@ -4347,9 +4347,9 @@
     "product_id": "249619",
     "category": "Pok\u00e9mon",
     "clean_name": "Hoopa V Box Dragonite V Box Set of 2",
-    "previous_price": 222.52,
+    "previous_price": 222.72,
     "current_price": 222.72,
-    "percent_change": 0.09
+    "percent_change": 0.0
   },
   {
     "product_id": "253454",
@@ -4395,9 +4395,9 @@
     "product_id": "283599",
     "category": "Pok\u00e9mon",
     "clean_name": "League Battle Deck Mew VMAX",
-    "previous_price": 63.71,
+    "previous_price": 65.12,
     "current_price": 65.12,
-    "percent_change": 2.21
+    "percent_change": 0.0
   },
   {
     "product_id": "283851",
@@ -4540,24 +4540,24 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Celebrations Collector Chest",
     "previous_price": 206.62,
-    "current_price": 206.62,
-    "percent_change": 0.0
+    "current_price": 206.82,
+    "percent_change": 0.1
   },
   {
     "product_id": "245139",
     "category": "Pok\u00e9mon",
     "clean_name": "Celebrations Premium Figure Collection Pikachu VMAX",
     "previous_price": 303.52,
-    "current_price": 303.52,
-    "percent_change": 0.0
+    "current_price": 301.64,
+    "percent_change": -0.62
   },
   {
     "product_id": "245140",
     "category": "Pok\u00e9mon",
     "clean_name": "Celebrations Ultra Premium Collection",
     "previous_price": 1236.93,
-    "current_price": 1236.93,
-    "percent_change": 0.0
+    "current_price": 1237.85,
+    "percent_change": 0.07
   },
   {
     "product_id": "247470",
@@ -4571,17 +4571,17 @@
     "product_id": "248577",
     "category": "Pok\u00e9mon",
     "clean_name": "Celebrations Booster Pack",
-    "previous_price": 34.58,
+    "previous_price": 34.18,
     "current_price": 34.18,
-    "percent_change": -1.16
+    "percent_change": 0.0
   },
   {
     "product_id": "251199",
     "category": "Pok\u00e9mon",
     "clean_name": "Celebrations Pokemon Center Elite Trainer Box Exclusive",
-    "previous_price": 537.9,
+    "previous_price": 536.5,
     "current_price": 536.5,
-    "percent_change": -0.26
+    "percent_change": 0.0
   },
   {
     "product_id": "251217",
@@ -4660,8 +4660,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Evolving Skies Elite Trainer Box Flareon Jolteon Umbreon Leafeon",
     "previous_price": 570.57,
-    "current_price": 570.57,
-    "percent_change": 0.0
+    "current_price": 570.32,
+    "percent_change": -0.04
   },
   {
     "product_id": "242435",
@@ -4675,9 +4675,9 @@
     "product_id": "242436",
     "category": "Pok\u00e9mon",
     "clean_name": "Evolving Skies Booster Box",
-    "previous_price": 2408.12,
-    "current_price": 2376.95,
-    "percent_change": -1.29
+    "previous_price": 2376.95,
+    "current_price": 2356.15,
+    "percent_change": -0.88
   },
   {
     "product_id": "242438",
@@ -4724,8 +4724,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Evolving Skies Build and Battle Box",
     "previous_price": 329.99,
-    "current_price": 329.99,
-    "percent_change": 0.0
+    "current_price": 329.3,
+    "percent_change": -0.21
   },
   {
     "product_id": "243425",
@@ -4740,32 +4740,32 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Evolving Skies Elite Trainer Box Set of 2",
     "previous_price": 1081.61,
-    "current_price": 1081.61,
-    "percent_change": 0.0
+    "current_price": 1084.85,
+    "percent_change": 0.3
   },
   {
     "product_id": "244337",
     "category": "Pok\u00e9mon",
     "clean_name": "Evolving Skies Booster Pack",
-    "previous_price": 46.43,
+    "previous_price": 46.58,
     "current_price": 46.58,
-    "percent_change": 0.32
+    "percent_change": 0.0
   },
   {
     "product_id": "245352",
     "category": "Pok\u00e9mon",
     "clean_name": "Evolving Skies Pokemon Center Elite Trainer Box Glaceon Vaporeon Sylveon Espeon Exclusive",
     "previous_price": 1045.99,
-    "current_price": 1045.99,
-    "percent_change": 0.0
+    "current_price": 1051.08,
+    "percent_change": 0.49
   },
   {
     "product_id": "245376",
     "category": "Pok\u00e9mon",
     "clean_name": "Evolving Skies Pokemon Center Elite Trainer Box Jolteon Flareon Umbreon Leafeon Exclusive",
     "previous_price": 1080.74,
-    "current_price": 1080.74,
-    "percent_change": 0.0
+    "current_price": 1069.53,
+    "percent_change": -1.04
   },
   {
     "product_id": "245855",
@@ -4788,8 +4788,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Zacian V UNION Special Collection",
     "previous_price": 117.2,
-    "current_price": 117.2,
-    "percent_change": 0.0
+    "current_price": 118.02,
+    "percent_change": 0.7
   },
   {
     "product_id": "247497",
@@ -4819,17 +4819,17 @@
     "product_id": "236257",
     "category": "Pok\u00e9mon",
     "clean_name": "Chilling Reign Booster Pack",
-    "previous_price": 12.01,
+    "previous_price": 12.13,
     "current_price": 12.13,
-    "percent_change": 1.0
+    "percent_change": 0.0
   },
   {
     "product_id": "236258",
     "category": "Pok\u00e9mon",
     "clean_name": "Chilling Reign Booster Box",
-    "previous_price": 479.51,
+    "previous_price": 476.95,
     "current_price": 476.95,
-    "percent_change": -0.53
+    "percent_change": 0.0
   },
   {
     "product_id": "236259",
@@ -4843,9 +4843,9 @@
     "product_id": "236260",
     "category": "Pok\u00e9mon",
     "clean_name": "Chilling Reign Elite Trainer Box Ice Rider Calyrex",
-    "previous_price": 144.01,
+    "previous_price": 144.15,
     "current_price": 144.15,
-    "percent_change": 0.1
+    "percent_change": 0.0
   },
   {
     "product_id": "236261",
@@ -4980,24 +4980,24 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Chilling Reign Booster Pack Art Bundle Set of 5",
     "previous_price": 59.98,
-    "current_price": 59.98,
-    "percent_change": 0.0
+    "current_price": 60.28,
+    "percent_change": 0.5
   },
   {
     "product_id": "229276",
     "category": "Pok\u00e9mon",
     "clean_name": "Battle Styles Booster Pack",
-    "previous_price": 9.68,
+    "previous_price": 9.54,
     "current_price": 9.54,
-    "percent_change": -1.45
+    "percent_change": 0.0
   },
   {
     "product_id": "229277",
     "category": "Pok\u00e9mon",
     "clean_name": "Battle Styles Booster Box",
-    "previous_price": 291.51,
-    "current_price": 291.27,
-    "percent_change": -0.08
+    "previous_price": 291.27,
+    "current_price": 290.99,
+    "percent_change": -0.1
   },
   {
     "product_id": "229278",
@@ -5020,8 +5020,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Battle Styles Single Pack Blister Arrokuda",
     "previous_price": 11.08,
-    "current_price": 11.08,
-    "percent_change": 0.0
+    "current_price": 11.05,
+    "percent_change": -0.27
   },
   {
     "product_id": "229282",
@@ -5107,17 +5107,17 @@
     "product_id": "236377",
     "category": "Pok\u00e9mon",
     "clean_name": "V Strikers Tin Tyranitar V",
-    "previous_price": 98.62,
-    "current_price": 98.21,
-    "percent_change": -0.42
+    "previous_price": 98.21,
+    "current_price": 98.19,
+    "percent_change": -0.02
   },
   {
     "product_id": "236378",
     "category": "Pok\u00e9mon",
     "clean_name": "V Strikers Tin Empoleon V",
     "previous_price": 89.46,
-    "current_price": 89.46,
-    "percent_change": 0.0
+    "current_price": 88.98,
+    "percent_change": -0.54
   },
   {
     "product_id": "244414",
@@ -5172,16 +5172,16 @@
     "category": "Pok\u00e9mon",
     "clean_name": "First Partner Pack Kalos",
     "previous_price": 26.36,
-    "current_price": 26.36,
-    "percent_change": 0.0
+    "current_price": 26.7,
+    "percent_change": 1.29
   },
   {
     "product_id": "231302",
     "category": "Pok\u00e9mon",
     "clean_name": "First Partner Pack Unova",
     "previous_price": 22.65,
-    "current_price": 22.65,
-    "percent_change": 0.0
+    "current_price": 22.97,
+    "percent_change": 1.41
   },
   {
     "product_id": "231303",
@@ -5211,9 +5211,9 @@
     "product_id": "231306",
     "category": "Pok\u00e9mon",
     "clean_name": "First Partner Pack Kanto",
-    "previous_price": 68.46,
+    "previous_price": 69.02,
     "current_price": 69.02,
-    "percent_change": 0.82
+    "percent_change": 0.0
   },
   {
     "product_id": "261803",
@@ -5228,8 +5228,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Shining Fates Elite Trainer Box",
     "previous_price": 145.93,
-    "current_price": 145.93,
-    "percent_change": 0.0
+    "current_price": 145.25,
+    "percent_change": -0.47
   },
   {
     "product_id": "228822",
@@ -5244,16 +5244,16 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Shining Fates V Tin Boltund V",
     "previous_price": 72.31,
-    "current_price": 72.31,
-    "percent_change": 0.0
+    "current_price": 70.29,
+    "percent_change": -2.79
   },
   {
     "product_id": "228824",
     "category": "Pok\u00e9mon",
     "clean_name": "Shining Fates V Tin Cramorant V",
     "previous_price": 72.08,
-    "current_price": 72.08,
-    "percent_change": 0.0
+    "current_price": 69.73,
+    "percent_change": -3.26
   },
   {
     "product_id": "228825",
@@ -5292,8 +5292,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Shining Fates Premium Collection Shiny Crobat",
     "previous_price": 106.74,
-    "current_price": 106.74,
-    "percent_change": 0.0
+    "current_price": 105.14,
+    "percent_change": -1.5
   },
   {
     "product_id": "230392",
@@ -5404,16 +5404,16 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Shining Fates Booster Pack Art Bundle Set of 4",
     "previous_price": 59.24,
-    "current_price": 59.24,
-    "percent_change": 0.0
+    "current_price": 59.17,
+    "percent_change": -0.12
   },
   {
     "product_id": "266962",
     "category": "Pok\u00e9mon",
     "clean_name": "Shining Fates Elite Trainer Box Case",
-    "previous_price": 1406.23,
+    "previous_price": 1416.65,
     "current_price": 1416.65,
-    "percent_change": 0.74
+    "percent_change": 0.0
   },
   {
     "product_id": "268484",
@@ -5436,16 +5436,16 @@
     "category": "Pok\u00e9mon",
     "clean_name": "McDonalds 25th Anniversary Booster Pack",
     "previous_price": 8.66,
-    "current_price": 8.66,
-    "percent_change": 0.0
+    "current_price": 8.68,
+    "percent_change": 0.23
   },
   {
     "product_id": "221312",
     "category": "Pok\u00e9mon",
     "clean_name": "Vivid Voltage Booster Pack",
-    "previous_price": 10.99,
-    "current_price": 11.02,
-    "percent_change": 0.27
+    "previous_price": 11.02,
+    "current_price": 11.04,
+    "percent_change": 0.18
   },
   {
     "product_id": "221313",
@@ -5524,16 +5524,16 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Vivid Voltage Elite Trainer Box",
     "previous_price": 137.04,
-    "current_price": 137.04,
-    "percent_change": 0.0
+    "current_price": 136.85,
+    "percent_change": -0.14
   },
   {
     "product_id": "222985",
     "category": "Pok\u00e9mon",
     "clean_name": "Fall 2020 Collectors Chest Tin",
     "previous_price": 85.84,
-    "current_price": 85.84,
-    "percent_change": 0.0
+    "current_price": 86.57,
+    "percent_change": 0.85
   },
   {
     "product_id": "222986",
@@ -5548,16 +5548,16 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Sword and Shield Elite Trainer Box Plus Zacian",
     "previous_price": 250.69,
-    "current_price": 250.69,
-    "percent_change": 0.0
+    "current_price": 243.37,
+    "percent_change": -2.92
   },
   {
     "product_id": "226137",
     "category": "Pok\u00e9mon",
     "clean_name": "Orbeetle V Box",
-    "previous_price": 67.23,
+    "previous_price": 68.34,
     "current_price": 68.34,
-    "percent_change": 1.65
+    "percent_change": 0.0
   },
   {
     "product_id": "228979",
@@ -5587,9 +5587,9 @@
     "product_id": "245143",
     "category": "Pok\u00e9mon",
     "clean_name": "Vivid Voltage Sleeved Booster Pack",
-    "previous_price": 11.65,
+    "previous_price": 11.81,
     "current_price": 11.81,
-    "percent_change": 1.37
+    "percent_change": 0.0
   },
   {
     "product_id": "278642",
@@ -5612,16 +5612,16 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Champions Path Booster Pack",
     "previous_price": 19.65,
-    "current_price": 19.65,
-    "percent_change": 0.0
+    "current_price": 19.54,
+    "percent_change": -0.56
   },
   {
     "product_id": "218791",
     "category": "Pok\u00e9mon",
     "clean_name": "Champions Path Elite Trainer Box",
-    "previous_price": 217.93,
+    "previous_price": 217.88,
     "current_price": 217.88,
-    "percent_change": -0.02
+    "percent_change": 0.0
   },
   {
     "product_id": "218794",
@@ -5716,16 +5716,16 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Darkness Ablaze Booster Box",
     "previous_price": 366.39,
-    "current_price": 366.39,
-    "percent_change": 0.0
+    "current_price": 366.34,
+    "percent_change": -0.01
   },
   {
     "product_id": "216856",
     "category": "Pok\u00e9mon",
     "clean_name": "Darkness Ablaze Elite Trainer Box",
-    "previous_price": 111.53,
-    "current_price": 112.43,
-    "percent_change": 0.81
+    "previous_price": 112.43,
+    "current_price": 113.31,
+    "percent_change": 0.78
   },
   {
     "product_id": "216857",
@@ -5740,8 +5740,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Darkness Ablaze Single Pack Blister Hatenna",
     "previous_price": 13.31,
-    "current_price": 13.31,
-    "percent_change": 0.0
+    "current_price": 13.64,
+    "percent_change": 2.48
   },
   {
     "product_id": "216861",
@@ -5763,9 +5763,9 @@
     "product_id": "216863",
     "category": "Pok\u00e9mon",
     "clean_name": "Darkness Ablaze Premium Checklane Blister",
-    "previous_price": 22.65,
+    "previous_price": 22.7,
     "current_price": 22.7,
-    "percent_change": 0.22
+    "percent_change": 0.0
   },
   {
     "product_id": "216866",
@@ -5781,14 +5781,6 @@
     "clean_name": "True Steel Premium Collection Zacian",
     "previous_price": 323.32,
     "current_price": 323.32,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "220109",
-    "category": "Pok\u00e9mon",
-    "clean_name": "Darkness Ablaze Premium Checklane Blister Grimmsnarl",
-    "previous_price": 20.0,
-    "current_price": 20.0,
     "percent_change": 0.0
   },
   {
@@ -5851,9 +5843,9 @@
     "product_id": "218626",
     "category": "Pok\u00e9mon",
     "clean_name": "Pokemon TCG Battle Academy",
-    "previous_price": 65.2,
+    "previous_price": 65.65,
     "current_price": 65.65,
-    "percent_change": 0.69
+    "percent_change": 0.0
   },
   {
     "product_id": "210561",
@@ -5867,9 +5859,9 @@
     "product_id": "210562",
     "category": "Pok\u00e9mon",
     "clean_name": "Rebel Clash Booster Pack",
-    "previous_price": 11.91,
-    "current_price": 12.15,
-    "percent_change": 2.02
+    "previous_price": 12.15,
+    "current_price": 12.16,
+    "percent_change": 0.08
   },
   {
     "product_id": "210563",
@@ -5979,9 +5971,9 @@
     "product_id": "265316",
     "category": "Pok\u00e9mon",
     "clean_name": "Rebel Clash Booster Pack Art Bundle Set of 4",
-    "previous_price": 36.66,
+    "previous_price": 37.36,
     "current_price": 37.36,
-    "percent_change": 1.91
+    "percent_change": 0.0
   },
   {
     "product_id": "276575",
@@ -6011,9 +6003,9 @@
     "product_id": "206028",
     "category": "Pok\u00e9mon",
     "clean_name": "Sword and Shield Booster Pack",
-    "previous_price": 11.09,
+    "previous_price": 11.11,
     "current_price": 11.11,
-    "percent_change": 0.18
+    "percent_change": 0.0
   },
   {
     "product_id": "206029",
@@ -6076,8 +6068,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Sword and Shield Elite Trainer Box Zamazenta",
     "previous_price": 165.63,
-    "current_price": 165.63,
-    "percent_change": 0.0
+    "current_price": 166.45,
+    "percent_change": 0.5
   },
   {
     "product_id": "206040",
@@ -6163,9 +6155,9 @@
     "product_id": "199263",
     "category": "Pok\u00e9mon",
     "clean_name": "Cosmic Eclipse Booster Pack",
-    "previous_price": 74.33,
+    "previous_price": 73.81,
     "current_price": 73.81,
-    "percent_change": -0.7
+    "percent_change": 0.0
   },
   {
     "product_id": "199306",
@@ -6243,9 +6235,9 @@
     "product_id": "194729",
     "category": "Pok\u00e9mon",
     "clean_name": "Hidden Fates Elite Trainer Box",
-    "previous_price": 559.6,
+    "previous_price": 566.64,
     "current_price": 566.64,
-    "percent_change": 1.26
+    "percent_change": 0.0
   },
   {
     "product_id": "198524",
@@ -6460,8 +6452,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Reshiram and Charizard GX Figure Collection",
     "previous_price": 783.33,
-    "current_price": 783.33,
-    "percent_change": 0.0
+    "current_price": 900.0,
+    "percent_change": 14.89
   },
   {
     "product_id": "185242",
@@ -6584,14 +6576,6 @@
     "percent_change": 0.0
   },
   {
-    "product_id": "181705",
-    "category": "Pok\u00e9mon",
-    "clean_name": "Team Up Theme Deck Relentless Flame Charizard",
-    "previous_price": 76.53,
-    "current_price": 76.53,
-    "percent_change": 0.0
-  },
-  {
     "product_id": "183975",
     "category": "Pok\u00e9mon",
     "clean_name": "Team Up Prerelease Kit",
@@ -6683,25 +6667,25 @@
     "product_id": "179423",
     "category": "Pok\u00e9mon",
     "clean_name": "Lost Thunder Build and Battle Box",
-    "previous_price": 188.51,
+    "previous_price": 189.23,
     "current_price": 189.23,
-    "percent_change": 0.38
+    "percent_change": 0.0
   },
   {
     "product_id": "179376",
     "category": "Pok\u00e9mon",
     "clean_name": "Pikachu and Eevee Poke Ball Collection",
-    "previous_price": 262.62,
+    "previous_price": 259.63,
     "current_price": 259.63,
-    "percent_change": -1.14
+    "percent_change": 0.0
   },
   {
     "product_id": "181267",
     "category": "Pok\u00e9mon",
     "clean_name": "Pokemon Poke Ball Tin Poke Ball",
     "previous_price": 27.09,
-    "current_price": 27.09,
-    "percent_change": 0.0
+    "current_price": 27.41,
+    "percent_change": 1.18
   },
   {
     "product_id": "181268",
@@ -6715,25 +6699,25 @@
     "product_id": "185261",
     "category": "Pok\u00e9mon",
     "clean_name": "Kanto Friends Mini Tin Bulbasaur",
-    "previous_price": 34.89,
+    "previous_price": 35.0,
     "current_price": 35.0,
-    "percent_change": 0.32
+    "percent_change": 0.0
   },
   {
     "product_id": "185262",
     "category": "Pok\u00e9mon",
     "clean_name": "Kanto Friends Mini Tin Pikachu",
-    "previous_price": 29.19,
+    "previous_price": 29.36,
     "current_price": 29.36,
-    "percent_change": 0.58
+    "percent_change": 0.0
   },
   {
     "product_id": "185263",
     "category": "Pok\u00e9mon",
     "clean_name": "Kanto Friends Mini Tin Eevee",
     "previous_price": 29.57,
-    "current_price": 29.57,
-    "percent_change": 0.0
+    "current_price": 30.05,
+    "percent_change": 1.62
   },
   {
     "product_id": "185264",
@@ -6787,17 +6771,17 @@
     "product_id": "198431",
     "category": "Pok\u00e9mon",
     "clean_name": "Kanto Power Mini Tin Charizard",
-    "previous_price": 38.44,
+    "previous_price": 38.92,
     "current_price": 38.92,
-    "percent_change": 1.25
+    "percent_change": 0.0
   },
   {
     "product_id": "198434",
     "category": "Pok\u00e9mon",
     "clean_name": "Kanto Power Mini Tin Dragonite",
-    "previous_price": 36.29,
+    "previous_price": 36.25,
     "current_price": 36.25,
-    "percent_change": -0.11
+    "percent_change": 0.0
   },
   {
     "product_id": "198437",
@@ -6968,14 +6952,6 @@
     "percent_change": 0.0
   },
   {
-    "product_id": "218437",
-    "category": "Pok\u00e9mon",
-    "clean_name": "Dragonite Dragons Tin",
-    "previous_price": 78.39,
-    "current_price": 78.39,
-    "percent_change": 0.0
-  },
-  {
     "product_id": "218438",
     "category": "Pok\u00e9mon",
     "clean_name": "Salamence Dragons Tin",
@@ -7035,9 +7011,9 @@
     "product_id": "220311",
     "category": "Pok\u00e9mon",
     "clean_name": "V Powers Tin Eternatus V",
-    "previous_price": 67.9,
+    "previous_price": 68.63,
     "current_price": 68.63,
-    "percent_change": 1.08
+    "percent_change": 0.0
   },
   {
     "product_id": "221761",
@@ -7068,8 +7044,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Sword and Shield Ultra Premium Collection Zacian and Zamazenta",
     "previous_price": 356.35,
-    "current_price": 356.35,
-    "percent_change": 0.0
+    "current_price": 357.91,
+    "percent_change": 0.44
   },
   {
     "product_id": "226138",
@@ -7092,8 +7068,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Strong Bonds Tin Gardevoir",
     "previous_price": 60.02,
-    "current_price": 60.02,
-    "percent_change": 0.0
+    "current_price": 60.23,
+    "percent_change": 0.35
   },
   {
     "product_id": "229748",
@@ -7115,9 +7091,9 @@
     "product_id": "230394",
     "category": "Pok\u00e9mon",
     "clean_name": "V Battle Deck Bundle Venusaur V Blastoise V",
-    "previous_price": 68.57,
+    "previous_price": 69.39,
     "current_price": 69.39,
-    "percent_change": 1.2
+    "percent_change": 0.0
   },
   {
     "product_id": "230396",
@@ -7252,8 +7228,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Eevee Evolutions Tin Vaporeon V",
     "previous_price": 69.4,
-    "current_price": 69.4,
-    "percent_change": 0.0
+    "current_price": 69.72,
+    "percent_change": 0.46
   },
   {
     "product_id": "243561",
@@ -7267,9 +7243,9 @@
     "product_id": "245728",
     "category": "Pok\u00e9mon",
     "clean_name": "V Battle Deck Bundle Rayquaza V Noivern V",
-    "previous_price": 50.04,
+    "previous_price": 52.18,
     "current_price": 52.18,
-    "percent_change": 4.28
+    "percent_change": 0.0
   },
   {
     "product_id": "245731",
@@ -7339,9 +7315,9 @@
     "product_id": "248073",
     "category": "Pok\u00e9mon",
     "clean_name": "League Battle Deck Rapid Single Strike Urshifu VMAX Set of 2",
-    "previous_price": 49.71,
+    "previous_price": 49.39,
     "current_price": 49.39,
-    "percent_change": -0.64
+    "percent_change": 0.0
   },
   {
     "product_id": "248205",
@@ -7364,16 +7340,16 @@
     "category": "Pok\u00e9mon",
     "clean_name": "2 Pack Blister Snorlax Morpeko and Applin Cards",
     "previous_price": 30.74,
-    "current_price": 30.74,
-    "percent_change": 0.0
+    "current_price": 31.11,
+    "percent_change": 1.2
   },
   {
     "product_id": "249689",
     "category": "Pok\u00e9mon",
     "clean_name": "Vaporeon VMAX Premium Collection",
     "previous_price": 359.41,
-    "current_price": 359.41,
-    "percent_change": 0.0
+    "current_price": 361.25,
+    "percent_change": 0.51
   },
   {
     "product_id": "249693",
@@ -7388,8 +7364,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Flareon VMAX Premium Collection",
     "previous_price": 310.69,
-    "current_price": 310.69,
-    "percent_change": 0.0
+    "current_price": 310.44,
+    "percent_change": -0.08
   },
   {
     "product_id": "249713",
@@ -7404,8 +7380,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Eevee Pokemon Treasure Chest Tin",
     "previous_price": 93.5,
-    "current_price": 93.5,
-    "percent_change": 0.0
+    "current_price": 95.66,
+    "percent_change": 2.31
   },
   {
     "product_id": "253396",
@@ -7419,9 +7395,9 @@
     "product_id": "253839",
     "category": "Pok\u00e9mon",
     "clean_name": "Kanto Friends Mini Tins 5 Pack",
-    "previous_price": 286.5,
+    "previous_price": 298.86,
     "current_price": 298.86,
-    "percent_change": 4.31
+    "percent_change": 0.0
   },
   {
     "product_id": "256408",
@@ -7435,9 +7411,9 @@
     "product_id": "256830",
     "category": "Pok\u00e9mon",
     "clean_name": "V Powers Tin Pikachu V International Version",
-    "previous_price": 55.61,
+    "previous_price": 56.39,
     "current_price": 56.39,
-    "percent_change": 1.4
+    "percent_change": 0.0
   },
   {
     "product_id": "256831",
@@ -7531,9 +7507,9 @@
     "product_id": "262640",
     "category": "Pok\u00e9mon",
     "clean_name": "Sinnoh Star Mini Tin Turtwig",
-    "previous_price": 31.66,
+    "previous_price": 31.79,
     "current_price": 31.79,
-    "percent_change": 0.41
+    "percent_change": 0.0
   },
   {
     "product_id": "262641",
@@ -7555,25 +7531,25 @@
     "product_id": "262646",
     "category": "Pok\u00e9mon",
     "clean_name": "Morpeko V UNION Special Collection",
-    "previous_price": 70.66,
+    "previous_price": 71.47,
     "current_price": 71.47,
-    "percent_change": 1.15
+    "percent_change": 0.0
   },
   {
     "product_id": "262968",
     "category": "Pok\u00e9mon",
     "clean_name": "Boltund V Box",
-    "previous_price": 73.92,
+    "previous_price": 75.19,
     "current_price": 75.19,
-    "percent_change": 1.72
+    "percent_change": 0.0
   },
   {
     "product_id": "262969",
     "category": "Pok\u00e9mon",
     "clean_name": "V Heroes Tin Espeon V",
-    "previous_price": 81.7,
+    "previous_price": 82.23,
     "current_price": 82.23,
-    "percent_change": 0.65
+    "percent_change": 0.0
   },
   {
     "product_id": "262970",
@@ -7604,8 +7580,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Fall 2020 Collectors Chest Tin plus Premier Ball 2 Pack Retail Exclusive",
     "previous_price": 129.98,
-    "current_price": 129.98,
-    "percent_change": 0.0
+    "current_price": 135.0,
+    "percent_change": 3.86
   },
   {
     "product_id": "263034",
@@ -7627,9 +7603,9 @@
     "product_id": "263542",
     "category": "Pok\u00e9mon",
     "clean_name": "V Battle Deck Bundle Lycanroc V Corviknight V",
-    "previous_price": 24.21,
+    "previous_price": 24.22,
     "current_price": 24.22,
-    "percent_change": 0.04
+    "percent_change": 0.0
   },
   {
     "product_id": "264259",
@@ -7668,8 +7644,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "V Battle Deck Corviknight V",
     "previous_price": 10.73,
-    "current_price": 10.73,
-    "percent_change": 0.0
+    "current_price": 10.84,
+    "percent_change": 1.03
   },
   {
     "product_id": "264764",
@@ -7716,8 +7692,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "V Heroes Tin Espeon V International Version",
     "previous_price": 67.03,
-    "current_price": 67.03,
-    "percent_change": 0.0
+    "current_price": 68.49,
+    "percent_change": 2.18
   },
   {
     "product_id": "270478",
@@ -7795,9 +7771,9 @@
     "product_id": "271999",
     "category": "Pok\u00e9mon",
     "clean_name": "Trainer Battle Deck Brock of Pewter City Gym JP Pokemon Center Exclusive",
-    "previous_price": 176.0,
+    "previous_price": 176.25,
     "current_price": 176.25,
-    "percent_change": 0.14
+    "percent_change": 0.0
   },
   {
     "product_id": "272521",
@@ -7812,8 +7788,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Pokemon TCG Trainers Toolkit 2022",
     "previous_price": 69.54,
-    "current_price": 69.54,
-    "percent_change": 0.0
+    "current_price": 69.57,
+    "percent_change": 0.04
   },
   {
     "product_id": "277568",
@@ -7900,8 +7876,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Hidden Potential Tin Set of 3",
     "previous_price": 320.0,
-    "current_price": 320.0,
-    "percent_change": 0.0
+    "current_price": 359.98,
+    "percent_change": 12.49
   },
   {
     "product_id": "282002",
@@ -7948,8 +7924,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Shaymin VSTAR Premium Collection",
     "previous_price": 125.65,
-    "current_price": 125.65,
-    "percent_change": 0.0
+    "current_price": 128.02,
+    "percent_change": 1.89
   },
   {
     "product_id": "451118",
@@ -8028,8 +8004,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Klara Premium Tournament Collection Box",
     "previous_price": 81.61,
-    "current_price": 81.61,
-    "percent_change": 0.0
+    "current_price": 86.24,
+    "percent_change": 5.67
   },
   {
     "product_id": "477286",
@@ -8059,9 +8035,9 @@
     "product_id": "482138",
     "category": "Pok\u00e9mon",
     "clean_name": "Play Pokemon Prize Pack Series One",
-    "previous_price": 66.28,
+    "previous_price": 67.96,
     "current_price": 67.96,
-    "percent_change": 2.53
+    "percent_change": 0.0
   },
   {
     "product_id": "484213",
@@ -8123,9 +8099,9 @@
     "product_id": "484380",
     "category": "Pok\u00e9mon",
     "clean_name": "ex Battle Deck Ampharos ex",
-    "previous_price": 18.01,
+    "previous_price": 17.99,
     "current_price": 17.99,
-    "percent_change": -0.11
+    "percent_change": 0.0
   },
   {
     "product_id": "484382",
@@ -8147,17 +8123,17 @@
     "product_id": "488324",
     "category": "Pok\u00e9mon",
     "clean_name": "Play Pokemon Prize Pack Series Two",
-    "previous_price": 60.83,
+    "previous_price": 61.37,
     "current_price": 61.37,
-    "percent_change": 0.89
+    "percent_change": 0.0
   },
   {
     "product_id": "489632",
     "category": "Pok\u00e9mon",
     "clean_name": "Checklane 2 Pack Pin Blister Celebi",
     "previous_price": 74.92,
-    "current_price": 74.92,
-    "percent_change": 0.0
+    "current_price": 79.41,
+    "percent_change": 5.99
   },
   {
     "product_id": "496018",
@@ -8171,9 +8147,9 @@
     "product_id": "497177",
     "category": "Pok\u00e9mon",
     "clean_name": "Annihilape ex Box",
-    "previous_price": 51.69,
+    "previous_price": 51.76,
     "current_price": 51.76,
-    "percent_change": 0.14
+    "percent_change": 0.0
   },
   {
     "product_id": "497380",
@@ -8244,8 +8220,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Summer 2023 Collectors Chest Tin",
     "previous_price": 89.75,
-    "current_price": 89.75,
-    "percent_change": 0.0
+    "current_price": 89.73,
+    "percent_change": -0.02
   },
   {
     "product_id": "498043",
@@ -8307,8 +8283,8 @@
     "product_id": "504438",
     "category": "Pok\u00e9mon",
     "clean_name": "Paldea Partners Tin Quaquaval ex",
-    "previous_price": 40.61,
-    "current_price": 40.75,
+    "previous_price": 40.75,
+    "current_price": 40.89,
     "percent_change": 0.34
   },
   {
@@ -8323,8 +8299,8 @@
     "product_id": "505939",
     "category": "Pok\u00e9mon",
     "clean_name": "Holiday Calendar 2023",
-    "previous_price": 100.02,
-    "current_price": 100.62,
+    "previous_price": 100.62,
+    "current_price": 101.22,
     "percent_change": 0.6
   },
   {
@@ -8339,9 +8315,9 @@
     "product_id": "516576",
     "category": "Pok\u00e9mon",
     "clean_name": "Charizard ex Premium Collection",
-    "previous_price": 110.99,
-    "current_price": 110.93,
-    "percent_change": -0.05
+    "previous_price": 110.93,
+    "current_price": 110.91,
+    "percent_change": -0.02
   },
   {
     "product_id": "516578",
@@ -8355,9 +8331,9 @@
     "product_id": "516580",
     "category": "Pok\u00e9mon",
     "clean_name": "League Battle Deck Miraidon ex",
-    "previous_price": 21.37,
+    "previous_price": 21.64,
     "current_price": 21.64,
-    "percent_change": 1.26
+    "percent_change": 0.0
   },
   {
     "product_id": "516647",
@@ -8419,25 +8395,25 @@
     "product_id": "526914",
     "category": "Pok\u00e9mon",
     "clean_name": "Gyarados ex Premium Collection",
-    "previous_price": 118.75,
+    "previous_price": 120.35,
     "current_price": 120.35,
-    "percent_change": 1.35
+    "percent_change": 0.0
   },
   {
     "product_id": "527671",
     "category": "Pok\u00e9mon",
     "clean_name": "ex Battle Deck Greninja ex",
     "previous_price": 21.72,
-    "current_price": 21.72,
-    "percent_change": 0.0
+    "current_price": 22.44,
+    "percent_change": 3.31
   },
   {
     "product_id": "527674",
     "category": "Pok\u00e9mon",
     "clean_name": "ex Battle Deck Kangaskhan ex",
-    "previous_price": 15.22,
+    "previous_price": 15.45,
     "current_price": 15.45,
-    "percent_change": 1.51
+    "percent_change": 0.0
   },
   {
     "product_id": "527801",
@@ -8459,9 +8435,9 @@
     "product_id": "530756",
     "category": "Pok\u00e9mon",
     "clean_name": "Yu Nagaba x Pokemon Eevees Special Promo Pack",
-    "previous_price": 132.2,
+    "previous_price": 133.12,
     "current_price": 133.12,
-    "percent_change": 0.7
+    "percent_change": 0.0
   },
   {
     "product_id": "531572",
@@ -8515,9 +8491,9 @@
     "product_id": "532560",
     "category": "Pok\u00e9mon",
     "clean_name": "Kleavor VSTAR Special Collection",
-    "previous_price": 60.72,
-    "current_price": 61.03,
-    "percent_change": 0.51
+    "previous_price": 61.03,
+    "current_price": 62.58,
+    "percent_change": 2.54
   },
   {
     "product_id": "539305",
@@ -8531,9 +8507,9 @@
     "product_id": "539385",
     "category": "Pok\u00e9mon",
     "clean_name": "League Battle Deck Gardevoir ex",
-    "previous_price": 48.62,
+    "previous_price": 48.84,
     "current_price": 48.84,
-    "percent_change": 0.45
+    "percent_change": 0.0
   },
   {
     "product_id": "539428",
@@ -8659,9 +8635,9 @@
     "product_id": "549454",
     "category": "Pok\u00e9mon",
     "clean_name": "Back to School 2024 Collector Chest",
-    "previous_price": 48.68,
+    "previous_price": 49.17,
     "current_price": 49.17,
-    "percent_change": 1.01
+    "percent_change": 0.0
   },
   {
     "product_id": "550688",
@@ -8676,8 +8652,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Play Pokemon Prize Pack Series Four",
     "previous_price": 9.9,
-    "current_price": 9.9,
-    "percent_change": 0.0
+    "current_price": 9.88,
+    "percent_change": -0.2
   },
   {
     "product_id": "554180",
@@ -8700,8 +8676,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "ex Battle Deck Victini ex",
     "previous_price": 17.11,
-    "current_price": 17.11,
-    "percent_change": 0.0
+    "current_price": 17.27,
+    "percent_change": 0.94
   },
   {
     "product_id": "558746",
@@ -8843,17 +8819,17 @@
     "product_id": "575198",
     "category": "Pok\u00e9mon",
     "clean_name": "Terapagos ex Ultra Premium Collection",
-    "previous_price": 251.56,
+    "previous_price": 251.12,
     "current_price": 251.12,
-    "percent_change": -0.17
+    "percent_change": 0.0
   },
   {
     "product_id": "575294",
     "category": "Pok\u00e9mon",
     "clean_name": "League Battle Deck Charizard ex",
-    "previous_price": 128.21,
+    "previous_price": 128.96,
     "current_price": 128.96,
-    "percent_change": 0.58
+    "percent_change": 0.0
   },
   {
     "product_id": "575706",
@@ -8876,16 +8852,16 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Ogerpon ex Premium Collection",
     "previous_price": 60.16,
-    "current_price": 60.16,
-    "percent_change": 0.0
+    "current_price": 60.32,
+    "percent_change": 0.27
   },
   {
     "product_id": "577596",
     "category": "Pok\u00e9mon",
     "clean_name": "Play Pokemon Prize Pack Series Five",
     "previous_price": 10.01,
-    "current_price": 10.01,
-    "percent_change": 0.0
+    "current_price": 10.04,
+    "percent_change": 0.3
   },
   {
     "product_id": "583521",
@@ -8931,9 +8907,9 @@
     "product_id": "587368",
     "category": "Pok\u00e9mon",
     "clean_name": "Pokemon Poke Ball Tin Ultra Ball Q4 2024",
-    "previous_price": 27.4,
+    "previous_price": 27.44,
     "current_price": 27.44,
-    "percent_change": 0.15
+    "percent_change": 0.0
   },
   {
     "product_id": "587369",
@@ -8948,8 +8924,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Costco Pokemon Scarlet and Violet 151 Mini Tin 5 pack Meowth",
     "previous_price": 278.46,
-    "current_price": 278.46,
-    "percent_change": 0.0
+    "current_price": 277.0,
+    "percent_change": -0.52
   },
   {
     "product_id": "587747",
@@ -8963,25 +8939,25 @@
     "product_id": "591145",
     "category": "Pok\u00e9mon",
     "clean_name": "Triple Whammy Tin Tyranitar",
-    "previous_price": 25.48,
+    "previous_price": 25.5,
     "current_price": 25.5,
-    "percent_change": 0.08
+    "percent_change": 0.0
   },
   {
     "product_id": "591146",
     "category": "Pok\u00e9mon",
     "clean_name": "Triple Whammy Tin Darkrai",
-    "previous_price": 25.75,
+    "previous_price": 25.4,
     "current_price": 25.4,
-    "percent_change": -1.36
+    "percent_change": 0.0
   },
   {
     "product_id": "591147",
     "category": "Pok\u00e9mon",
     "clean_name": "Triple Whammy Tin Slaking",
     "previous_price": 23.33,
-    "current_price": 23.33,
-    "percent_change": 0.0
+    "current_price": 23.37,
+    "percent_change": 0.17
   },
   {
     "product_id": "594491",
@@ -9012,16 +8988,16 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Costco Pokemon Scarlet and Violet Paldean Fates Mini Tin 5 pack",
     "previous_price": 387.32,
-    "current_price": 387.32,
-    "percent_change": 0.0
+    "current_price": 388.08,
+    "percent_change": 0.2
   },
   {
     "product_id": "594896",
     "category": "Pok\u00e9mon",
     "clean_name": "Grand Adventure Collection",
-    "previous_price": 45.21,
+    "previous_price": 45.19,
     "current_price": 45.19,
-    "percent_change": -0.04
+    "percent_change": 0.0
   },
   {
     "product_id": "596517",
@@ -9075,9 +9051,9 @@
     "product_id": "609597",
     "category": "Pok\u00e9mon",
     "clean_name": "Blooming Waters Premium Collection",
-    "previous_price": 334.18,
+    "previous_price": 334.54,
     "current_price": 334.54,
-    "percent_change": 0.11
+    "percent_change": 0.0
   },
   {
     "product_id": "610741",
@@ -9092,8 +9068,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Azure Legends Tin Kyogre ex",
     "previous_price": 45.38,
-    "current_price": 45.38,
-    "percent_change": 0.0
+    "current_price": 46.09,
+    "percent_change": 1.56
   },
   {
     "product_id": "616293",
@@ -9139,25 +9115,25 @@
     "product_id": "616303",
     "category": "Pok\u00e9mon",
     "clean_name": "Hops Zacian ex Box",
-    "previous_price": 33.86,
+    "previous_price": 33.9,
     "current_price": 33.9,
-    "percent_change": 0.12
+    "percent_change": 0.0
   },
   {
     "product_id": "616304",
     "category": "Pok\u00e9mon",
     "clean_name": "Ionos Bellibolt ex Premium Collection",
     "previous_price": 57.05,
-    "current_price": 57.05,
-    "percent_change": 0.0
+    "current_price": 57.52,
+    "percent_change": 0.82
   },
   {
     "product_id": "616305",
     "category": "Pok\u00e9mon",
     "clean_name": "Charizard ex Special Collection",
-    "previous_price": 62.01,
-    "current_price": 61.93,
-    "percent_change": -0.13
+    "previous_price": 61.93,
+    "current_price": 61.27,
+    "percent_change": -1.07
   },
   {
     "product_id": "616737",
@@ -9179,9 +9155,9 @@
     "product_id": "623014",
     "category": "Pok\u00e9mon",
     "clean_name": "Rival Battle Deck Marnie",
-    "previous_price": 60.84,
+    "previous_price": 60.55,
     "current_price": 60.55,
-    "percent_change": -0.48
+    "percent_change": 0.0
   },
   {
     "product_id": "623015",
@@ -9235,9 +9211,9 @@
     "product_id": "625050",
     "category": "Pok\u00e9mon",
     "clean_name": "2 Booster Packs and Latias Collectors Pin",
-    "previous_price": 38.66,
+    "previous_price": 39.2,
     "current_price": 39.2,
-    "percent_change": 1.4
+    "percent_change": 0.0
   },
   {
     "product_id": "625051",
@@ -9251,9 +9227,9 @@
     "product_id": "625695",
     "category": "Pok\u00e9mon",
     "clean_name": "Team Rockets Mewtwo ex Box",
-    "previous_price": 56.25,
-    "current_price": 56.13,
-    "percent_change": -0.21
+    "previous_price": 56.13,
+    "current_price": 56.46,
+    "percent_change": 0.59
   },
   {
     "product_id": "625952",
@@ -9267,17 +9243,17 @@
     "product_id": "626605",
     "category": "Pok\u00e9mon",
     "clean_name": "Lillie Premium Tournament Collection Box",
-    "previous_price": 77.51,
-    "current_price": 78.15,
-    "percent_change": 0.83
+    "previous_price": 78.15,
+    "current_price": 78.59,
+    "percent_change": 0.56
   },
   {
     "product_id": "628094",
     "category": "Pok\u00e9mon",
     "clean_name": "Azure Legends Tin Dialga ex International Version",
     "previous_price": 33.38,
-    "current_price": 33.38,
-    "percent_change": 0.0
+    "current_price": 33.55,
+    "percent_change": 0.51
   },
   {
     "product_id": "628493",
@@ -9339,17 +9315,17 @@
     "product_id": "636740",
     "category": "Pok\u00e9mon",
     "clean_name": "Costco Pokemon Prismatic Evolutions 2 Pack Trainer Box and Booster Bundle",
-    "previous_price": 280.1,
-    "current_price": 279.14,
-    "percent_change": -0.34
+    "previous_price": 279.14,
+    "current_price": 280.1,
+    "percent_change": 0.34
   },
   {
     "product_id": "639828",
     "category": "Pok\u00e9mon",
     "clean_name": "Holiday Calendar 2025",
-    "previous_price": 78.48,
+    "previous_price": 79.94,
     "current_price": 79.94,
-    "percent_change": 1.86
+    "percent_change": 0.0
   },
   {
     "product_id": "639830",
@@ -9412,8 +9388,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Celestial Storm Theme Deck Leaf Charge Sceptile",
     "previous_price": 46.99,
-    "current_price": 46.99,
-    "percent_change": 0.0
+    "current_price": 47.15,
+    "percent_change": 0.34
   },
   {
     "product_id": "175555",
@@ -9500,8 +9476,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "2023 World Championship Deck Tord Reklev Psychic Elegance",
     "previous_price": 23.57,
-    "current_price": 23.57,
-    "percent_change": 0.0
+    "current_price": 25.73,
+    "percent_change": 9.16
   },
   {
     "product_id": "532031",
@@ -9739,9 +9715,9 @@
     "product_id": "149377",
     "category": "Pok\u00e9mon",
     "clean_name": "Crimson Invasion Elite Trainer Box",
-    "previous_price": 221.56,
-    "current_price": 221.66,
-    "percent_change": 0.05
+    "previous_price": 221.66,
+    "current_price": 221.75,
+    "percent_change": 0.04
   },
   {
     "product_id": "153081",
@@ -9844,8 +9820,8 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Shining Legends Booster Pack",
     "previous_price": 109.94,
-    "current_price": 109.94,
-    "percent_change": 0.0
+    "current_price": 109.79,
+    "percent_change": -0.14
   },
   {
     "product_id": "600514",
@@ -9867,9 +9843,9 @@
     "product_id": "133774",
     "category": "Pok\u00e9mon",
     "clean_name": "Burning Shadows Booster Pack",
-    "previous_price": 31.42,
-    "current_price": 31.18,
-    "percent_change": -0.76
+    "previous_price": 31.18,
+    "current_price": 31.02,
+    "percent_change": -0.51
   },
   {
     "product_id": "133776",
@@ -10075,9 +10051,9 @@
     "product_id": "126048",
     "category": "Pok\u00e9mon",
     "clean_name": "Sun and Moon Booster Box",
-    "previous_price": 979.41,
+    "previous_price": 983.43,
     "current_price": 983.43,
-    "percent_change": 0.41
+    "percent_change": 0.0
   },
   {
     "product_id": "126052",
@@ -10092,16 +10068,16 @@
     "category": "Pok\u00e9mon",
     "clean_name": "Sun and Moon Elite Trainer Box Solgaleo",
     "previous_price": 249.57,
-    "current_price": 249.57,
-    "percent_change": 0.0
+    "current_price": 251.13,
+    "percent_change": 0.63
   },
   {
     "product_id": "126091",
     "category": "Pok\u00e9mon",
     "clean_name": "Sun and Moon Elite Trainer Box Lunala",
-    "previous_price": 251.66,
-    "current_price": 252.1,
-    "percent_change": 0.17
+    "previous_price": 252.1,
+    "current_price": 250.05,
+    "percent_change": -0.81
   },
   {
     "product_id": "126172",
@@ -10115,9 +10091,9 @@
     "product_id": "126173",
     "category": "Pok\u00e9mon",
     "clean_name": "Sun and Moon Base Set Theme Deck Roaring Heat Incineroar",
-    "previous_price": 22.78,
+    "previous_price": 22.56,
     "current_price": 22.56,
-    "percent_change": -0.97
+    "percent_change": 0.0
   },
   {
     "product_id": "126174",
@@ -10131,9 +10107,9 @@
     "product_id": "129385",
     "category": "Pok\u00e9mon",
     "clean_name": "Sun and Moon Booster Pack",
-    "previous_price": 22.59,
-    "current_price": 22.95,
-    "percent_change": 1.59
+    "previous_price": 22.95,
+    "current_price": 22.97,
+    "percent_change": 0.09
   },
   {
     "product_id": "129895",
@@ -10251,9 +10227,9 @@
     "product_id": "129907",
     "category": "Pok\u00e9mon",
     "clean_name": "Evolutions Booster Pack",
-    "previous_price": 68.55,
+    "previous_price": 68.99,
     "current_price": 68.99,
-    "percent_change": 0.64
+    "percent_change": 0.0
   },
   {
     "product_id": "222988",
@@ -10347,17 +10323,17 @@
     "product_id": "130013",
     "category": "Pok\u00e9mon",
     "clean_name": "Steam Siege Booster Pack",
-    "previous_price": 31.17,
+    "previous_price": 31.5,
     "current_price": 31.5,
-    "percent_change": 1.06
+    "percent_change": 0.0
   },
   {
     "product_id": "268448",
     "category": "Pok\u00e9mon",
     "clean_name": "XY Steam Siege Sleeved Booster Pack",
     "previous_price": 38.96,
-    "current_price": 38.96,
-    "percent_change": 0.0
+    "current_price": 39.45,
+    "percent_change": 1.26
   },
   {
     "product_id": "276599",
@@ -10411,9 +10387,9 @@
     "product_id": "276598",
     "category": "Pok\u00e9mon",
     "clean_name": "Fates Collide Sleeved Booster Pack Art Bundle Set of 4",
-    "previous_price": 200.04,
+    "previous_price": 201.7,
     "current_price": 201.7,
-    "percent_change": 0.83
+    "percent_change": 0.0
   },
   {
     "product_id": "504699",
@@ -10443,9 +10419,9 @@
     "product_id": "115598",
     "category": "Pok\u00e9mon",
     "clean_name": "Red and Blue Collection Charizard EX",
-    "previous_price": 1009.62,
+    "previous_price": 1033.9,
     "current_price": 1033.9,
-    "percent_change": 2.4
+    "percent_change": 0.0
   },
   {
     "product_id": "116999",
@@ -10461,14 +10437,6 @@
     "clean_name": "Mythical Pokemon Collection Box Manaphy",
     "previous_price": 555.0,
     "current_price": 555.0,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "123432",
-    "category": "Pok\u00e9mon",
-    "clean_name": "Red and Blue Collection Pikachu EX",
-    "previous_price": 2995.99,
-    "current_price": 2995.99,
     "percent_change": 0.0
   },
   {
@@ -10547,9 +10515,9 @@
     "product_id": "276597",
     "category": "Pok\u00e9mon",
     "clean_name": "BREAKpoint Sleeved Booster Pack Art Bundle Set of 4",
-    "previous_price": 173.24,
+    "previous_price": 182.15,
     "current_price": 182.15,
-    "percent_change": 5.14
+    "percent_change": 0.0
   },
   {
     "product_id": "542096",
@@ -10587,9 +10555,9 @@
     "product_id": "107666",
     "category": "Pok\u00e9mon",
     "clean_name": "XY BREAKthrough Booster Pack",
-    "previous_price": 64.43,
+    "previous_price": 64.5,
     "current_price": 64.5,
-    "percent_change": 0.11
+    "percent_change": 0.0
   },
   {
     "product_id": "531445",
@@ -10667,9 +10635,9 @@
     "product_id": "97751",
     "category": "Pok\u00e9mon",
     "clean_name": "XY Primal Clash Booster Pack",
-    "previous_price": 64.19,
+    "previous_price": 64.38,
     "current_price": 64.38,
-    "percent_change": 0.3
+    "percent_change": 0.0
   },
   {
     "product_id": "94622",
@@ -10699,9 +10667,9 @@
     "product_id": "92217",
     "category": "Pok\u00e9mon",
     "clean_name": "Furious Fists Theme Deck Dark Hammer Pangoro",
-    "previous_price": 43.3,
+    "previous_price": 42.47,
     "current_price": 42.47,
-    "percent_change": -1.92
+    "percent_change": 0.0
   },
   {
     "product_id": "97778",
@@ -11179,3264 +11147,8 @@
     "product_id": "190536",
     "category": "Pok\u00e9mon",
     "clean_name": "POP Series 8 Pack",
-    "previous_price": 28.49,
+    "previous_price": 28.63,
     "current_price": 28.63,
-    "percent_change": 0.49
-  },
-  {
-    "product_id": "621106",
-    "category": "Magic",
-    "clean_name": "Marvels Spider Man Play Booster Pack",
-    "previous_price": 5.6,
-    "current_price": 5.6,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "621107",
-    "category": "Magic",
-    "clean_name": "Marvels Spider Man Play Booster Display",
-    "previous_price": 120.71,
-    "current_price": 119.41,
-    "percent_change": -1.08
-  },
-  {
-    "product_id": "621108",
-    "category": "Magic",
-    "clean_name": "Marvels Spider Man Play Booster Display Case",
-    "previous_price": 668.05,
-    "current_price": 668.05,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "621109",
-    "category": "Magic",
-    "clean_name": "Marvels Spider Man Collector Booster Pack",
-    "previous_price": 43.88,
-    "current_price": 43.65,
-    "percent_change": -0.52
-  },
-  {
-    "product_id": "621110",
-    "category": "Magic",
-    "clean_name": "Marvels Spider Man Collector Booster Display",
-    "previous_price": 406.46,
-    "current_price": 405.27,
-    "percent_change": -0.29
-  },
-  {
-    "product_id": "621111",
-    "category": "Magic",
-    "clean_name": "Marvels Spider Man Collector Booster Display Case",
-    "previous_price": 2159.53,
-    "current_price": 2159.53,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "621112",
-    "category": "Magic",
-    "clean_name": "Marvels Spider Man Prerelease Pack",
-    "previous_price": 36.62,
-    "current_price": 36.38,
-    "percent_change": -0.66
-  },
-  {
-    "product_id": "621113",
-    "category": "Magic",
-    "clean_name": "Marvels Spider Man Scene Box",
-    "previous_price": 33.84,
-    "current_price": 33.84,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "621115",
-    "category": "Magic",
-    "clean_name": "Marvels Spider Man Bundle",
-    "previous_price": 62.34,
-    "current_price": 62.58,
-    "percent_change": 0.38
-  },
-  {
-    "product_id": "619676",
-    "category": "Magic",
-    "clean_name": "Edge of Eternities Commander Deck World Shaper",
-    "previous_price": 54.29,
-    "current_price": 53.97,
-    "percent_change": -0.59
-  },
-  {
-    "product_id": "619677",
-    "category": "Magic",
-    "clean_name": "Edge of Eternities Commander Deck Counter Intelligence",
-    "previous_price": 43.8,
-    "current_price": 43.41,
-    "percent_change": -0.89
-  },
-  {
-    "product_id": "619691",
-    "category": "Magic",
-    "clean_name": "Edge of Eternities Commander Deck Case",
-    "previous_price": 157.94,
-    "current_price": 157.94,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "636222",
-    "category": "Magic",
-    "clean_name": "Edge of Eternities Commander Decks Set of 2",
-    "previous_price": 88.88,
-    "current_price": 88.87,
-    "percent_change": -0.01
-  },
-  {
-    "product_id": "619672",
-    "category": "Magic",
-    "clean_name": "Edge of Eternities Collector Booster Display",
-    "previous_price": 734.44,
-    "current_price": 734.99,
-    "percent_change": 0.07
-  },
-  {
-    "product_id": "619673",
-    "category": "Magic",
-    "clean_name": "Edge of Eternities Bundle",
-    "previous_price": 98.8,
-    "current_price": 99.22,
-    "percent_change": 0.43
-  },
-  {
-    "product_id": "619674",
-    "category": "Magic",
-    "clean_name": "Edge of Eternities Play Booster Display",
-    "previous_price": 189.0,
-    "current_price": 189.26,
-    "percent_change": 0.14
-  },
-  {
-    "product_id": "619675",
-    "category": "Magic",
-    "clean_name": "Edge of Eternities Prerelease Pack",
-    "previous_price": 50.0,
-    "current_price": 50.0,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "619693",
-    "category": "Magic",
-    "clean_name": "Edge of Eternities Bundle Case",
-    "previous_price": 479.0,
-    "current_price": 479.0,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "619694",
-    "category": "Magic",
-    "clean_name": "Edge of Eternities Collector Booster Display Case",
-    "previous_price": 3781.61,
-    "current_price": 3810.39,
-    "percent_change": 0.76
-  },
-  {
-    "product_id": "619696",
-    "category": "Magic",
-    "clean_name": "Edge of Eternities Collector Booster Pack",
-    "previous_price": 77.22,
-    "current_price": 77.45,
-    "percent_change": 0.3
-  },
-  {
-    "product_id": "619697",
-    "category": "Magic",
-    "clean_name": "Edge of Eternities Play Booster Pack",
-    "previous_price": 6.87,
-    "current_price": 7.15,
-    "percent_change": 4.08
-  },
-  {
-    "product_id": "619699",
-    "category": "Magic",
-    "clean_name": "Edge of Eternities Play Booster Display Case",
-    "previous_price": 1015.63,
-    "current_price": 1015.63,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "618903",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Commander Deck FINAL FANTASY VI Revival Trance",
-    "previous_price": 34.63,
-    "current_price": 33.69,
-    "percent_change": -2.71
-  },
-  {
-    "product_id": "618904",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Commander Deck FINAL FANTASY VII Limit Break",
-    "previous_price": 55.23,
-    "current_price": 53.4,
-    "percent_change": -3.31
-  },
-  {
-    "product_id": "618905",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Commander Deck FINAL FANTASY X Counter Blitz",
-    "previous_price": 51.3,
-    "current_price": 51.86,
-    "percent_change": 1.09
-  },
-  {
-    "product_id": "618906",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Commander Deck FINAL FANTASY XIV Scions and Spellcraft",
-    "previous_price": 63.25,
-    "current_price": 62.96,
-    "percent_change": -0.46
-  },
-  {
-    "product_id": "618907",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Commander Deck Display",
-    "previous_price": 193.19,
-    "current_price": 193.19,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "618908",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Commander Deck FINAL FANTASY VI Revival Trance Collectors Edition",
-    "previous_price": 127.94,
-    "current_price": 127.94,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "618909",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Commander Deck FINAL FANTASY VII Limit Break Collectors Edition",
-    "previous_price": 223.08,
-    "current_price": 223.08,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "618910",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Commander Deck FINAL FANTASY X Counter Blitz Collectors Edition",
-    "previous_price": 172.37,
-    "current_price": 172.37,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "618911",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Commander Deck FINAL FANTASY XIV Scions and Spellcraft Collectors Edition",
-    "previous_price": 230.05,
-    "current_price": 230.05,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "618912",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Commander Deck Display Collectors Edition",
-    "previous_price": 691.05,
-    "current_price": 692.85,
-    "percent_change": 0.26
-  },
-  {
-    "product_id": "618889",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Play Booster Pack",
-    "previous_price": 9.48,
-    "current_price": 9.59,
-    "percent_change": 1.16
-  },
-  {
-    "product_id": "618890",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Play Booster Display",
-    "previous_price": 248.96,
-    "current_price": 248.44,
-    "percent_change": -0.21
-  },
-  {
-    "product_id": "618891",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Play Booster Display Case",
-    "previous_price": 1363.23,
-    "current_price": 1371.19,
-    "percent_change": 0.58
-  },
-  {
-    "product_id": "618892",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Collector Booster Pack",
-    "previous_price": 173.24,
-    "current_price": 174.37,
-    "percent_change": 0.65
-  },
-  {
-    "product_id": "618893",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Collector Booster Display",
-    "previous_price": 1710.31,
-    "current_price": 1707.91,
-    "percent_change": -0.14
-  },
-  {
-    "product_id": "618894",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Collector Booster Display Case",
-    "previous_price": 9080.32,
-    "current_price": 9080.32,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "618895",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Collector Booster Display Master Case",
-    "previous_price": 35498.33,
-    "current_price": 35498.33,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "618896",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Prerelease Pack",
-    "previous_price": 89.22,
-    "current_price": 89.09,
-    "percent_change": -0.15
-  },
-  {
-    "product_id": "618897",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Bundle",
-    "previous_price": 122.26,
-    "current_price": 122.22,
-    "percent_change": -0.03
-  },
-  {
-    "product_id": "618899",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Gift Bundle",
-    "previous_price": 265.87,
-    "current_price": 265.82,
-    "percent_change": -0.02
-  },
-  {
-    "product_id": "618900",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Gift Bundle Case",
-    "previous_price": 1309.26,
-    "current_price": 1309.26,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "618901",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Starter Kit",
-    "previous_price": 17.83,
-    "current_price": 17.79,
-    "percent_change": -0.22
-  },
-  {
-    "product_id": "618902",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Starter Kit Case",
-    "previous_price": 196.46,
-    "current_price": 196.46,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "628315",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Collector Booster Display Japanese",
-    "previous_price": 765.03,
-    "current_price": 770.27,
-    "percent_change": 0.68
-  },
-  {
-    "product_id": "628316",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Collector Booster Pack Japanese",
-    "previous_price": 83.01,
-    "current_price": 83.01,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "637653",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Collector Booster Sample Pack",
-    "previous_price": 11.74,
-    "current_price": 11.66,
-    "percent_change": -0.68
-  },
-  {
-    "product_id": "637663",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Collector Booster Omega Pack",
-    "previous_price": 171.71,
-    "current_price": 171.71,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "638168",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Prerelease Pack Case",
-    "previous_price": 1162.0,
-    "current_price": 1162.0,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "639464",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Collector Booster Pack Minimal Packaging",
-    "previous_price": 148.84,
-    "current_price": 148.84,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "641176",
-    "category": "Magic",
-    "clean_name": "FINAL FANTASY Play Pack",
-    "previous_price": 41.83,
-    "current_price": 41.83,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "619664",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Commander Deck Abzan Armor",
-    "previous_price": 63.64,
-    "current_price": 63.64,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "619665",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Commander Deck Jeskai Striker",
-    "previous_price": 36.76,
-    "current_price": 36.8,
-    "percent_change": 0.11
-  },
-  {
-    "product_id": "619666",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Commander Deck Sultai Arisen",
-    "previous_price": 82.03,
-    "current_price": 82.13,
-    "percent_change": 0.12
-  },
-  {
-    "product_id": "619667",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Commander Deck Mardu Surge",
-    "previous_price": 57.43,
-    "current_price": 57.34,
-    "percent_change": -0.16
-  },
-  {
-    "product_id": "619668",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Commander Deck Temur Roar",
-    "previous_price": 87.7,
-    "current_price": 87.49,
-    "percent_change": -0.24
-  },
-  {
-    "product_id": "619669",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Commander Deck Case",
-    "previous_price": 275.8,
-    "current_price": 275.8,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "619644",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Play Booster Pack",
-    "previous_price": 6.39,
-    "current_price": 6.39,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "619645",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Play Booster Display",
-    "previous_price": 164.35,
-    "current_price": 164.52,
-    "percent_change": 0.1
-  },
-  {
-    "product_id": "619647",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Play Booster Display Case",
-    "previous_price": 837.56,
-    "current_price": 837.56,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "619648",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Collector Booster Pack",
-    "previous_price": 54.53,
-    "current_price": 54.95,
-    "percent_change": 0.77
-  },
-  {
-    "product_id": "619649",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Collector Booster Display",
-    "previous_price": 489.61,
-    "current_price": 489.33,
-    "percent_change": -0.06
-  },
-  {
-    "product_id": "619650",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Collector Booster Display Case",
-    "previous_price": 2729.07,
-    "current_price": 2729.07,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "619653",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Bundle",
-    "previous_price": 88.03,
-    "current_price": 88.03,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "619659",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Abzan Prerelease Pack",
-    "previous_price": 58.22,
-    "current_price": 59.07,
-    "percent_change": 1.46
-  },
-  {
-    "product_id": "619660",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Jeskai Prerelease Pack",
-    "previous_price": 55.45,
-    "current_price": 55.45,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "619661",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Sultai Prerelease Pack",
-    "previous_price": 69.69,
-    "current_price": 69.69,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "619662",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Mardu Prerelease Pack",
-    "previous_price": 76.87,
-    "current_price": 76.87,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "619663",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Temur Prerelease Pack",
-    "previous_price": 77.45,
-    "current_price": 77.45,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "620244",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Prerelease Pack Set of 5",
-    "previous_price": 303.73,
-    "current_price": 303.73,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "628285",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Collector Booster Omega Pack",
-    "previous_price": 49.14,
-    "current_price": 49.14,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "637656",
-    "category": "Magic",
-    "clean_name": "Tarkir Dragonstorm Collector Booster Sample Pack",
-    "previous_price": 5.95,
-    "current_price": 5.95,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "604249",
-    "category": "Magic",
-    "clean_name": "Aetherdrift Play Booster Pack",
-    "previous_price": 4.45,
-    "current_price": 4.44,
-    "percent_change": -0.22
-  },
-  {
-    "product_id": "604250",
-    "category": "Magic",
-    "clean_name": "Aetherdrift Play Booster Display",
-    "previous_price": 106.09,
-    "current_price": 106.09,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "604251",
-    "category": "Magic",
-    "clean_name": "Aetherdrift Play Booster Display Case",
-    "previous_price": 633.08,
-    "current_price": 633.08,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "604252",
-    "category": "Magic",
-    "clean_name": "Aetherdrift Collector Booster Pack",
-    "previous_price": 27.31,
-    "current_price": 27.31,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "604253",
-    "category": "Magic",
-    "clean_name": "Aetherdrift Collector Booster Display",
-    "previous_price": 320.58,
-    "current_price": 321.41,
-    "percent_change": 0.26
-  },
-  {
-    "product_id": "604254",
-    "category": "Magic",
-    "clean_name": "Aetherdrift Collector Booster Display Case",
-    "previous_price": 1526.67,
-    "current_price": 1536.15,
-    "percent_change": 0.62
-  },
-  {
-    "product_id": "604255",
-    "category": "Magic",
-    "clean_name": "Aetherdrift Prerelease Pack",
-    "previous_price": 26.48,
-    "current_price": 26.48,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "604256",
-    "category": "Magic",
-    "clean_name": "Aetherdrift Bundle",
-    "previous_price": 38.56,
-    "current_price": 38.72,
-    "percent_change": 0.41
-  },
-  {
-    "product_id": "604257",
-    "category": "Magic",
-    "clean_name": "Aetherdrift Finish Line Bundle",
-    "previous_price": 84.42,
-    "current_price": 84.42,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "604261",
-    "category": "Magic",
-    "clean_name": "Aetherdrift Finish Line Bundle Case",
-    "previous_price": 487.19,
-    "current_price": 487.19,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "618698",
-    "category": "Magic",
-    "clean_name": "Aetherdrift Box Topper",
-    "previous_price": 17.18,
-    "current_price": 17.18,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "622999",
-    "category": "Magic",
-    "clean_name": "Aetherdrift Collector Booster Sample Pack",
-    "previous_price": 3.76,
-    "current_price": 3.75,
-    "percent_change": -0.27
-  },
-  {
-    "product_id": "638084",
-    "category": "Magic",
-    "clean_name": "Aetherdrift Sleeved Play Booster Pack",
-    "previous_price": 6.4,
-    "current_price": 6.4,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "639950",
-    "category": "Magic",
-    "clean_name": "Aetherdrift Collector Booster Omega Pack",
-    "previous_price": 39.47,
-    "current_price": 39.47,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "604258",
-    "category": "Magic",
-    "clean_name": "Aetherdrift Commander Deck Living Energy",
-    "previous_price": 32.67,
-    "current_price": 32.67,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "604259",
-    "category": "Magic",
-    "clean_name": "Aetherdrift Commander Deck Eternal Might",
-    "previous_price": 38.04,
-    "current_price": 39.56,
-    "percent_change": 4.0
-  },
-  {
-    "product_id": "609612",
-    "category": "Magic",
-    "clean_name": "Aetherdrift Commander Decks Set of 2",
-    "previous_price": 68.53,
-    "current_price": 68.53,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "604409",
-    "category": "Magic",
-    "clean_name": "Aetherdrift Promo Pack",
-    "previous_price": 9.46,
-    "current_price": 9.53,
-    "percent_change": 0.74
-  },
-  {
-    "product_id": "594669",
-    "category": "Magic",
-    "clean_name": "Innistrad Remastered Play Booster Pack",
-    "previous_price": 10.98,
-    "current_price": 10.98,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "594672",
-    "category": "Magic",
-    "clean_name": "Innistrad Remastered Play Booster Display",
-    "previous_price": 294.04,
-    "current_price": 290.84,
-    "percent_change": -1.09
-  },
-  {
-    "product_id": "594676",
-    "category": "Magic",
-    "clean_name": "Innistrad Remastered Play Booster Display Case",
-    "previous_price": 1366.55,
-    "current_price": 1458.19,
-    "percent_change": 6.71
-  },
-  {
-    "product_id": "594678",
-    "category": "Magic",
-    "clean_name": "Innistrad Remastered Collector Booster Pack",
-    "previous_price": 46.96,
-    "current_price": 46.94,
-    "percent_change": -0.04
-  },
-  {
-    "product_id": "594681",
-    "category": "Magic",
-    "clean_name": "Innistrad Remastered Collector Booster Display",
-    "previous_price": 494.07,
-    "current_price": 494.07,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "596262",
-    "category": "Magic",
-    "clean_name": "Innistrad Remastered Collector Booster Display Case",
-    "previous_price": 2397.47,
-    "current_price": 2397.47,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "628284",
-    "category": "Magic",
-    "clean_name": "Innistrad Remastered Collector Booster Omega Pack",
-    "previous_price": 68.9,
-    "current_price": 68.9,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "562116",
-    "category": "Magic",
-    "clean_name": "Magic The Gathering Foundations Play Booster Pack",
-    "previous_price": 6.24,
-    "current_price": 6.25,
-    "percent_change": 0.16
-  },
-  {
-    "product_id": "562118",
-    "category": "Magic",
-    "clean_name": "Magic The Gathering Foundations Play Booster Display",
-    "previous_price": 181.48,
-    "current_price": 180.94,
-    "percent_change": -0.3
-  },
-  {
-    "product_id": "562119",
-    "category": "Magic",
-    "clean_name": "Magic The Gathering Foundations Play Booster Display Case",
-    "previous_price": 923.44,
-    "current_price": 923.44,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "562121",
-    "category": "Magic",
-    "clean_name": "Magic The Gathering Foundations Collector Booster Pack",
-    "previous_price": 95.01,
-    "current_price": 95.01,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "562122",
-    "category": "Magic",
-    "clean_name": "Magic The Gathering Foundations Collector Booster Display",
-    "previous_price": 900.02,
-    "current_price": 900.02,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "562125",
-    "category": "Magic",
-    "clean_name": "Magic The Gathering Foundations Bundle",
-    "previous_price": 115.01,
-    "current_price": 114.61,
-    "percent_change": -0.35
-  },
-  {
-    "product_id": "562127",
-    "category": "Magic",
-    "clean_name": "Magic The Gathering Foundations Prerelease Pack",
-    "previous_price": 55.93,
-    "current_price": 55.93,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "562162",
-    "category": "Magic",
-    "clean_name": "Magic The Gathering Foundations Starter Collection",
-    "previous_price": 45.74,
-    "current_price": 46.08,
-    "percent_change": 0.74
-  },
-  {
-    "product_id": "562163",
-    "category": "Magic",
-    "clean_name": "Magic The Gathering Foundations Starter Collection Case",
-    "previous_price": 267.34,
-    "current_price": 267.34,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "562167",
-    "category": "Magic",
-    "clean_name": "Magic The Gathering Foundations Beginner Box",
-    "previous_price": 57.26,
-    "current_price": 57.26,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "562169",
-    "category": "Magic",
-    "clean_name": "Magic The Gathering Foundations Beginner Box Case",
-    "previous_price": 149.95,
-    "current_price": 149.95,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "599686",
-    "category": "Magic",
-    "clean_name": "Magic The Gathering Foundations Collector Booster Omega Pack",
-    "previous_price": 95.91,
-    "current_price": 95.91,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "562128",
-    "category": "Magic",
-    "clean_name": "Magic The Gathering Foundations Jumpstart Booster Pack",
-    "previous_price": 5.86,
-    "current_price": 5.85,
-    "percent_change": -0.17
-  },
-  {
-    "product_id": "562156",
-    "category": "Magic",
-    "clean_name": "Magic The Gathering Foundations Jumpstart Booster Display",
-    "previous_price": 104.64,
-    "current_price": 105.6,
-    "percent_change": 0.92
-  },
-  {
-    "product_id": "562161",
-    "category": "Magic",
-    "clean_name": "Magic The Gathering Foundations Jumpstart Booster Display Case",
-    "previous_price": 551.63,
-    "current_price": 551.63,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "622998",
-    "category": "Magic",
-    "clean_name": "Magic The Gathering Foundations Jumpstart 2 Pack",
-    "previous_price": 12.99,
-    "current_price": 12.97,
-    "percent_change": -0.15
-  },
-  {
-    "product_id": "563749",
-    "category": "Magic",
-    "clean_name": "Mystery Booster 2 Booster Pack",
-    "previous_price": 14.58,
-    "current_price": 14.66,
-    "percent_change": 0.55
-  },
-  {
-    "product_id": "563752",
-    "category": "Magic",
-    "clean_name": "Mystery Booster 2 Booster Display",
-    "previous_price": 300.67,
-    "current_price": 302.31,
-    "percent_change": 0.55
-  },
-  {
-    "product_id": "557253",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Commander Deck Miracle Worker",
-    "previous_price": 70.02,
-    "current_price": 70.68,
-    "percent_change": 0.94
-  },
-  {
-    "product_id": "557254",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Commander Deck Death Toll",
-    "previous_price": 59.62,
-    "current_price": 59.76,
-    "percent_change": 0.23
-  },
-  {
-    "product_id": "557255",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Commander Deck Jump Scare",
-    "previous_price": 68.18,
-    "current_price": 67.79,
-    "percent_change": -0.57
-  },
-  {
-    "product_id": "557256",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Commander Deck Endless Punishment",
-    "previous_price": 232.67,
-    "current_price": 232.82,
-    "percent_change": 0.06
-  },
-  {
-    "product_id": "557257",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Commander Deck Display",
-    "previous_price": 327.43,
-    "current_price": 327.43,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "557240",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Play Booster Pack",
-    "previous_price": 7.07,
-    "current_price": 7.12,
-    "percent_change": 0.71
-  },
-  {
-    "product_id": "557241",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Play Booster Display",
-    "previous_price": 197.41,
-    "current_price": 198.01,
-    "percent_change": 0.3
-  },
-  {
-    "product_id": "557242",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Play Booster Display Case",
-    "previous_price": 986.29,
-    "current_price": 986.29,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "557243",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Collector Booster Pack",
-    "previous_price": 74.29,
-    "current_price": 74.29,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "557244",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Collector Booster Display",
-    "previous_price": 749.09,
-    "current_price": 747.76,
-    "percent_change": -0.18
-  },
-  {
-    "product_id": "557245",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Collector Booster Display Case",
-    "previous_price": 4799.33,
-    "current_price": 4799.33,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "557249",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Bundle",
-    "previous_price": 108.69,
-    "current_price": 108.69,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "557250",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Bundle Case",
-    "previous_price": 460.27,
-    "current_price": 460.27,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "557251",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Nightmare Bundle",
-    "previous_price": 203.89,
-    "current_price": 203.89,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "557252",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Prerelease Pack",
-    "previous_price": 47.49,
-    "current_price": 47.49,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "564285",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Nightmare Bundle Case",
-    "previous_price": 1049.69,
-    "current_price": 1049.69,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "586669",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Collector Booster Omega Pack",
-    "previous_price": 73.76,
-    "current_price": 73.76,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "598060",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Sleeved Play Booster Pack",
-    "previous_price": 7.82,
-    "current_price": 7.82,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "599693",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Collector Booster Sample Pack",
-    "previous_price": 7.31,
-    "current_price": 7.63,
-    "percent_change": 4.38
-  },
-  {
-    "product_id": "583724",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Promo Pack",
-    "previous_price": 8.84,
-    "current_price": 8.84,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "583725",
-    "category": "Magic",
-    "clean_name": "Duskmourn House of Horror Foil Promo Pack",
-    "previous_price": 11.89,
-    "current_price": 11.89,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541234",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Play Booster Pack",
-    "previous_price": 8.22,
-    "current_price": 8.29,
-    "percent_change": 0.85
-  },
-  {
-    "product_id": "541235",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Play Booster Display",
-    "previous_price": 201.1,
-    "current_price": 201.79,
-    "percent_change": 0.34
-  },
-  {
-    "product_id": "541236",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Play Booster Display Case",
-    "previous_price": 1128.96,
-    "current_price": 1128.96,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541237",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Collector Booster Pack",
-    "previous_price": 122.79,
-    "current_price": 122.79,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541238",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Collector Booster Display",
-    "previous_price": 1303.01,
-    "current_price": 1303.01,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541239",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Collector Booster Display Case",
-    "previous_price": 6969.96,
-    "current_price": 6969.96,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541241",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Bundle",
-    "previous_price": 174.9,
-    "current_price": 174.9,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541242",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Bundle Case",
-    "previous_price": 848.0,
-    "current_price": 848.0,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541243",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Starter Kit",
-    "previous_price": 70.9,
-    "current_price": 70.9,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541245",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Prerelease Pack",
-    "previous_price": 71.05,
-    "current_price": 71.05,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "562369",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Collector Booster Omega Pack",
-    "previous_price": 143.12,
-    "current_price": 143.12,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "564083",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Sleeved Play Booster Pack",
-    "previous_price": 9.83,
-    "current_price": 9.83,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "579916",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Collector Booster Sample Pack",
-    "previous_price": 7.98,
-    "current_price": 8.1,
-    "percent_change": 1.5
-  },
-  {
-    "product_id": "619706",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Prerelease Pack Case",
-    "previous_price": 889.99,
-    "current_price": 889.99,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "622734",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Tin Boat",
-    "previous_price": 119.06,
-    "current_price": 119.06,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "622735",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Tins Set of 3",
-    "previous_price": 319.4,
-    "current_price": 319.4,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "622741",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Tin Mouse",
-    "previous_price": 76.83,
-    "current_price": 76.83,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "622742",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Tin Skunk",
-    "previous_price": 77.16,
-    "current_price": 77.16,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541246",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Commander Deck Animated Army",
-    "previous_price": 78.3,
-    "current_price": 78.08,
-    "percent_change": -0.28
-  },
-  {
-    "product_id": "541247",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Commander Deck Family Matters",
-    "previous_price": 35.73,
-    "current_price": 36.06,
-    "percent_change": 0.92
-  },
-  {
-    "product_id": "541248",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Commander Deck Peace Offering",
-    "previous_price": 99.24,
-    "current_price": 99.43,
-    "percent_change": 0.19
-  },
-  {
-    "product_id": "541249",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Commander Deck Squirreled Away",
-    "previous_price": 87.02,
-    "current_price": 88.26,
-    "percent_change": 1.42
-  },
-  {
-    "product_id": "541250",
-    "category": "Magic",
-    "clean_name": "Bloomburrow Commander Deck Display",
-    "previous_price": 254.14,
-    "current_price": 254.14,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541218",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Assassins Creed Beyond Booster Pack",
-    "previous_price": 7.67,
-    "current_price": 7.72,
-    "percent_change": 0.65
-  },
-  {
-    "product_id": "541220",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Assassins Creed Beyond Booster Display",
-    "previous_price": 150.01,
-    "current_price": 150.61,
-    "percent_change": 0.4
-  },
-  {
-    "product_id": "541222",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Assassins Creed Beyond Booster Display Case",
-    "previous_price": 1332.9,
-    "current_price": 1332.9,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541224",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Assassins Creed Collector Booster Pack",
-    "previous_price": 46.81,
-    "current_price": 46.81,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541225",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Assassins Creed Collector Booster Display",
-    "previous_price": 574.14,
-    "current_price": 574.14,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541226",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Assassins Creed Collector Booster Display Case",
-    "previous_price": 2957.24,
-    "current_price": 2957.24,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541228",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Assassins Creed Bundle",
-    "previous_price": 158.15,
-    "current_price": 160.67,
-    "percent_change": 1.59
-  },
-  {
-    "product_id": "541230",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Assassins Creed Starter Kit",
-    "previous_price": 77.41,
-    "current_price": 76.38,
-    "percent_change": -1.33
-  },
-  {
-    "product_id": "541192",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Commander Deck Graveyard Overdrive",
-    "previous_price": 66.36,
-    "current_price": 66.36,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541193",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Commander Deck Tricky Terrain",
-    "previous_price": 88.63,
-    "current_price": 88.58,
-    "percent_change": -0.06
-  },
-  {
-    "product_id": "541194",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Commander Deck Creative Energy",
-    "previous_price": 49.58,
-    "current_price": 49.82,
-    "percent_change": 0.48
-  },
-  {
-    "product_id": "541195",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Commander Deck Eldrazi Incursion",
-    "previous_price": 214.12,
-    "current_price": 214.67,
-    "percent_change": 0.26
-  },
-  {
-    "product_id": "541196",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Commander Deck Display",
-    "previous_price": 360.67,
-    "current_price": 360.67,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541197",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Commander Deck Graveyard Overdrive Collectors Edition",
-    "previous_price": 155.26,
-    "current_price": 155.26,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541198",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Commander Deck Tricky Terrain Collectors Edition",
-    "previous_price": 254.97,
-    "current_price": 254.97,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541199",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Commander Deck Creative Energy Collectors Edition",
-    "previous_price": 107.07,
-    "current_price": 107.07,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541200",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Commander Deck Eldrazi Incursion Collectors Edition",
-    "previous_price": 401.21,
-    "current_price": 401.21,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541202",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Commander Deck Display Collectors Edition",
-    "previous_price": 773.37,
-    "current_price": 773.37,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541159",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Prerelease Pack",
-    "previous_price": 68.64,
-    "current_price": 68.64,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541163",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Play Booster Pack",
-    "previous_price": 10.47,
-    "current_price": 10.59,
-    "percent_change": 1.15
-  },
-  {
-    "product_id": "541164",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Play Booster Display",
-    "previous_price": 279.54,
-    "current_price": 281.9,
-    "percent_change": 0.84
-  },
-  {
-    "product_id": "541166",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Play Booster Display Case",
-    "previous_price": 1566.52,
-    "current_price": 1584.32,
-    "percent_change": 1.14
-  },
-  {
-    "product_id": "541173",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Collector Booster Pack",
-    "previous_price": 83.56,
-    "current_price": 83.96,
-    "percent_change": 0.48
-  },
-  {
-    "product_id": "541179",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Collector Booster Display",
-    "previous_price": 890.47,
-    "current_price": 890.47,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541182",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Collector Booster Display Case",
-    "previous_price": 4797.0,
-    "current_price": 4797.0,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541185",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Bundle",
-    "previous_price": 130.29,
-    "current_price": 129.94,
-    "percent_change": -0.27
-  },
-  {
-    "product_id": "541190",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Gift Bundle",
-    "previous_price": 209.94,
-    "current_price": 209.94,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "579917",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Collector Booster Sample Pack",
-    "previous_price": 9.4,
-    "current_price": 9.49,
-    "percent_change": 0.96
-  },
-  {
-    "product_id": "602877",
-    "category": "Magic",
-    "clean_name": "Modern Horizons 3 Collector Booster Omega Pack",
-    "previous_price": 109.85,
-    "current_price": 109.85,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541099",
-    "category": "Magic",
-    "clean_name": "Outlaws of Thunder Junction Commander Deck Quick Draw",
-    "previous_price": 189.89,
-    "current_price": 189.89,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541100",
-    "category": "Magic",
-    "clean_name": "Outlaws of Thunder Junction Commander Deck Desert Bloom",
-    "previous_price": 104.23,
-    "current_price": 104.23,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541102",
-    "category": "Magic",
-    "clean_name": "Outlaws of Thunder Junction Commander Deck Grand Larceny",
-    "previous_price": 201.3,
-    "current_price": 201.3,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541103",
-    "category": "Magic",
-    "clean_name": "Outlaws of Thunder Junction Commander Deck Most Wanted",
-    "previous_price": 159.74,
-    "current_price": 159.74,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541105",
-    "category": "Magic",
-    "clean_name": "Outlaws of Thunder Junction Commander Deck Display",
-    "previous_price": 592.55,
-    "current_price": 592.55,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541082",
-    "category": "Magic",
-    "clean_name": "Outlaws of Thunder Junction Prerelease Pack",
-    "previous_price": 39.24,
-    "current_price": 39.4,
-    "percent_change": 0.41
-  },
-  {
-    "product_id": "541083",
-    "category": "Magic",
-    "clean_name": "Outlaws of Thunder Junction Play Booster Pack",
-    "previous_price": 7.04,
-    "current_price": 7.02,
-    "percent_change": -0.28
-  },
-  {
-    "product_id": "541084",
-    "category": "Magic",
-    "clean_name": "Outlaws of Thunder Junction Play Booster Display",
-    "previous_price": 193.39,
-    "current_price": 191.83,
-    "percent_change": -0.81
-  },
-  {
-    "product_id": "541085",
-    "category": "Magic",
-    "clean_name": "Outlaws of Thunder Junction Play Booster Display Case",
-    "previous_price": 973.62,
-    "current_price": 973.62,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541086",
-    "category": "Magic",
-    "clean_name": "Outlaws of Thunder Junction Collector Booster Pack",
-    "previous_price": 45.05,
-    "current_price": 45.05,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541090",
-    "category": "Magic",
-    "clean_name": "Outlaws of Thunder Junction Collector Booster Display",
-    "previous_price": 469.82,
-    "current_price": 470.84,
-    "percent_change": 0.22
-  },
-  {
-    "product_id": "541091",
-    "category": "Magic",
-    "clean_name": "Outlaws of Thunder Junction Collector Booster Display Case",
-    "previous_price": 2392.93,
-    "current_price": 2392.93,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "541094",
-    "category": "Magic",
-    "clean_name": "Outlaws of Thunder Junction Bundle",
-    "previous_price": 116.1,
-    "current_price": 116.1,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "579918",
-    "category": "Magic",
-    "clean_name": "Outlaws of Thunder Junction Collector Booster Sample Pack",
-    "previous_price": 9.64,
-    "current_price": 9.64,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "522899",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Fallout Scrappy Survivors Commander Deck",
-    "previous_price": 94.44,
-    "current_price": 93.46,
-    "percent_change": -1.04
-  },
-  {
-    "product_id": "522902",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Fallout Mutant Menace Commander Deck",
-    "previous_price": 175.06,
-    "current_price": 174.86,
-    "percent_change": -0.11
-  },
-  {
-    "product_id": "522903",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Fallout Hail Caesar Commander Deck",
-    "previous_price": 116.08,
-    "current_price": 114.7,
-    "percent_change": -1.19
-  },
-  {
-    "product_id": "522905",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Fallout Science Commander Deck",
-    "previous_price": 51.22,
-    "current_price": 50.36,
-    "percent_change": -1.68
-  },
-  {
-    "product_id": "523180",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Fallout Collector Booster Pack",
-    "previous_price": 184.39,
-    "current_price": 184.39,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "523185",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Fallout Collector Booster Display",
-    "previous_price": 1807.39,
-    "current_price": 1807.39,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "524616",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Fallout Commander Deck Case",
-    "previous_price": 379.06,
-    "current_price": 379.06,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "543905",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Fallout Collector Booster Omega Pack",
-    "previous_price": 230.63,
-    "current_price": 230.63,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "579919",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Fallout Collector Booster Sample Pack",
-    "previous_price": 19.38,
-    "current_price": 19.38,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "529974",
-    "category": "Magic",
-    "clean_name": "Ravnica Clue Edition",
-    "previous_price": 67.35,
-    "current_price": 67.35,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "529975",
-    "category": "Magic",
-    "clean_name": "Ravnica Clue Edition Case",
-    "previous_price": 378.0,
-    "current_price": 378.0,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "618914",
-    "category": "Magic",
-    "clean_name": "Ravnica Clue Edition Booster Pack",
-    "previous_price": 8.73,
-    "current_price": 8.73,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "618918",
-    "category": "Magic",
-    "clean_name": "Ravnica Clue Edition Shock Land Box Topper",
-    "previous_price": 29.08,
-    "current_price": 29.08,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "529977",
-    "category": "Magic",
-    "clean_name": "Murders at Karlov Manor Commander Deck Deadly Disguise",
-    "previous_price": 94.29,
-    "current_price": 94.29,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "529978",
-    "category": "Magic",
-    "clean_name": "Murders at Karlov Manor Commander Deck Revenant Recon",
-    "previous_price": 88.51,
-    "current_price": 88.51,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "529979",
-    "category": "Magic",
-    "clean_name": "Murders at Karlov Manor Commander Deck Deep Clue Sea",
-    "previous_price": 76.84,
-    "current_price": 76.84,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "529980",
-    "category": "Magic",
-    "clean_name": "Murders at Karlov Manor Commander Deck Blame Game",
-    "previous_price": 137.63,
-    "current_price": 137.63,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "529981",
-    "category": "Magic",
-    "clean_name": "Murders at Karlov Manor Commander Deck Case",
-    "previous_price": 338.45,
-    "current_price": 338.45,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "529962",
-    "category": "Magic",
-    "clean_name": "Murders at Karlov Manor Play Booster Pack",
-    "previous_price": 4.92,
-    "current_price": 4.95,
-    "percent_change": 0.61
-  },
-  {
-    "product_id": "529964",
-    "category": "Magic",
-    "clean_name": "Murders at Karlov Manor Play Booster Display",
-    "previous_price": 136.44,
-    "current_price": 136.72,
-    "percent_change": 0.21
-  },
-  {
-    "product_id": "529967",
-    "category": "Magic",
-    "clean_name": "Murders at Karlov Manor Collector Booster Pack",
-    "previous_price": 33.58,
-    "current_price": 33.58,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "529968",
-    "category": "Magic",
-    "clean_name": "Murders at Karlov Manor Collector Booster Display",
-    "previous_price": 391.51,
-    "current_price": 393.8,
-    "percent_change": 0.58
-  },
-  {
-    "product_id": "529969",
-    "category": "Magic",
-    "clean_name": "Murders at Karlov Manor Collector Booster Display Case",
-    "previous_price": 2106.79,
-    "current_price": 2148.66,
-    "percent_change": 1.99
-  },
-  {
-    "product_id": "529971",
-    "category": "Magic",
-    "clean_name": "Murders at Karlov Manor Bundle",
-    "previous_price": 55.68,
-    "current_price": 55.68,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "531817",
-    "category": "Magic",
-    "clean_name": "Murders at Karlov Manor Prerelease Pack",
-    "previous_price": 32.35,
-    "current_price": 32.35,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "579920",
-    "category": "Magic",
-    "clean_name": "Murders at Karlov Manor Collector Booster Sample Pack",
-    "previous_price": 4.63,
-    "current_price": 4.63,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "517704",
-    "category": "Magic",
-    "clean_name": "Ravnica Remastered Draft Booster Pack",
-    "previous_price": 9.18,
-    "current_price": 9.18,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "517705",
-    "category": "Magic",
-    "clean_name": "Ravnica Remastered Draft Booster Display",
-    "previous_price": 325.65,
-    "current_price": 325.65,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "517707",
-    "category": "Magic",
-    "clean_name": "Ravnica Remastered Collector Booster Pack",
-    "previous_price": 101.09,
-    "current_price": 101.09,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "517708",
-    "category": "Magic",
-    "clean_name": "Ravnica Remastered Collector Booster Display",
-    "previous_price": 1174.66,
-    "current_price": 1174.66,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "606880",
-    "category": "Magic",
-    "clean_name": "Ravnica Remastered Collector Booster Omega Pack",
-    "previous_price": 126.81,
-    "current_price": 126.81,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "517513",
-    "category": "Magic",
-    "clean_name": "The Lost Caverns of Ixalan Commander Deck Ahoy Mateys",
-    "previous_price": 46.6,
-    "current_price": 46.86,
-    "percent_change": 0.56
-  },
-  {
-    "product_id": "517514",
-    "category": "Magic",
-    "clean_name": "The Lost Caverns of Ixalan Commander Deck Blood Rites",
-    "previous_price": 94.78,
-    "current_price": 95.26,
-    "percent_change": 0.51
-  },
-  {
-    "product_id": "517515",
-    "category": "Magic",
-    "clean_name": "The Lost Caverns of Ixalan Commander Deck Explorers of the Deep",
-    "previous_price": 94.45,
-    "current_price": 94.84,
-    "percent_change": 0.41
-  },
-  {
-    "product_id": "517516",
-    "category": "Magic",
-    "clean_name": "The Lost Caverns of Ixalan Commander Deck Veloci Ramp Tor",
-    "previous_price": 132.36,
-    "current_price": 132.08,
-    "percent_change": -0.21
-  },
-  {
-    "product_id": "517517",
-    "category": "Magic",
-    "clean_name": "The Lost Caverns of Ixalan Commander Deck Case",
-    "previous_price": 293.97,
-    "current_price": 293.97,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "516610",
-    "category": "Magic",
-    "clean_name": "The Lost Caverns of Ixalan Bundle",
-    "previous_price": 177.82,
-    "current_price": 179.77,
-    "percent_change": 1.1
-  },
-  {
-    "product_id": "516613",
-    "category": "Magic",
-    "clean_name": "The Lost Caverns of Ixalan Collector Booster Pack",
-    "previous_price": 107.16,
-    "current_price": 107.16,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "516614",
-    "category": "Magic",
-    "clean_name": "The Lost Caverns of Ixalan Collector Booster Display",
-    "previous_price": 1165.72,
-    "current_price": 1165.72,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "516618",
-    "category": "Magic",
-    "clean_name": "The Lost Caverns of Ixalan Draft Booster Pack",
-    "previous_price": 7.01,
-    "current_price": 7.01,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "516619",
-    "category": "Magic",
-    "clean_name": "The Lost Caverns of Ixalan Draft Booster Display",
-    "previous_price": 252.72,
-    "current_price": 252.72,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "516620",
-    "category": "Magic",
-    "clean_name": "The Lost Caverns of Ixalan Draft Booster Display Case",
-    "previous_price": 1359.21,
-    "current_price": 1359.21,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "516621",
-    "category": "Magic",
-    "clean_name": "The Lost Caverns of Ixalan Set Booster Pack",
-    "previous_price": 15.71,
-    "current_price": 15.71,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "516622",
-    "category": "Magic",
-    "clean_name": "The Lost Caverns of Ixalan Set Booster Display",
-    "previous_price": 445.43,
-    "current_price": 445.43,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "516623",
-    "category": "Magic",
-    "clean_name": "The Lost Caverns of Ixalan Set Booster Display Case",
-    "previous_price": 1971.77,
-    "current_price": 1971.77,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "516678",
-    "category": "Magic",
-    "clean_name": "The Lost Caverns of Ixalan Prerelease Pack",
-    "previous_price": 53.2,
-    "current_price": 53.2,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "529640",
-    "category": "Magic",
-    "clean_name": "The Lost Caverns of Ixalan Treasure Trove Box Topper Pack",
-    "previous_price": 24.26,
-    "current_price": 24.68,
-    "percent_change": 1.73
-  },
-  {
-    "product_id": "579921",
-    "category": "Magic",
-    "clean_name": "The Lost Caverns of Ixalan Collector Booster Sample Pack",
-    "previous_price": 9.11,
-    "current_price": 9.11,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "496070",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Doctor Who Masters of Evil Commander Deck",
-    "previous_price": 122.83,
-    "current_price": 123.25,
-    "percent_change": 0.34
-  },
-  {
-    "product_id": "496071",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Doctor Who Blast From the Past Commander Deck",
-    "previous_price": 58.16,
-    "current_price": 58.16,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "496072",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Doctor Who Timey Wimey Commander Deck",
-    "previous_price": 156.42,
-    "current_price": 156.42,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "496073",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Doctor Who Paradox Power Commander Deck",
-    "previous_price": 59.49,
-    "current_price": 59.49,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "496074",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Doctor Who Commander Deck Display",
-    "previous_price": 345.81,
-    "current_price": 345.81,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "496075",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Doctor Who Collector Booster Pack",
-    "previous_price": 71.75,
-    "current_price": 71.75,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "496076",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Doctor Who Collector Booster Display",
-    "previous_price": 694.88,
-    "current_price": 694.88,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "496077",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Doctor Who Collector Booster Display Case",
-    "previous_price": 5000.0,
-    "current_price": 5000.0,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "579922",
-    "category": "Magic",
-    "clean_name": "Universes Beyond Doctor Who Collector Booster Sample Pack",
-    "previous_price": 8.18,
-    "current_price": 8.18,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "496044",
-    "category": "Magic",
-    "clean_name": "Wilds of Eldraine Commander Deck Virtue and Valor",
-    "previous_price": 98.75,
-    "current_price": 98.75,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "496045",
-    "category": "Magic",
-    "clean_name": "Wilds of Eldraine Commander Decks Set of 2",
-    "previous_price": 329.32,
-    "current_price": 329.32,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "496034",
-    "category": "Magic",
-    "clean_name": "Wilds of Eldraine Draft Booster Pack",
-    "previous_price": 11.05,
-    "current_price": 11.05,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "496035",
-    "category": "Magic",
-    "clean_name": "Wilds of Eldraine Draft Booster Display",
-    "previous_price": 321.06,
-    "current_price": 321.25,
-    "percent_change": 0.06
-  },
-  {
-    "product_id": "496037",
-    "category": "Magic",
-    "clean_name": "Wilds of Eldraine Set Booster Pack",
-    "previous_price": 15.75,
-    "current_price": 15.99,
-    "percent_change": 1.52
-  },
-  {
-    "product_id": "496038",
-    "category": "Magic",
-    "clean_name": "Wilds of Eldraine Set Booster Display",
-    "previous_price": 372.65,
-    "current_price": 371.13,
-    "percent_change": -0.41
-  },
-  {
-    "product_id": "496039",
-    "category": "Magic",
-    "clean_name": "Wilds of Eldraine Set Booster Display Case",
-    "previous_price": 2378.75,
-    "current_price": 2378.75,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "496040",
-    "category": "Magic",
-    "clean_name": "Wilds of Eldraine Collector Booster Pack",
-    "previous_price": 92.02,
-    "current_price": 92.02,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "496041",
-    "category": "Magic",
-    "clean_name": "Wilds of Eldraine Collector Booster Display",
-    "previous_price": 850.33,
-    "current_price": 850.33,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "496046",
-    "category": "Magic",
-    "clean_name": "Wilds of Eldraine Bundle",
-    "previous_price": 226.7,
-    "current_price": 225.85,
-    "percent_change": -0.37
-  },
-  {
-    "product_id": "496048",
-    "category": "Magic",
-    "clean_name": "Wilds of Eldraine Prerelease Pack",
-    "previous_price": 74.07,
-    "current_price": 74.07,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "548307",
-    "category": "Magic",
-    "clean_name": "Wilds of Eldraine Collector Booster Omega Pack",
-    "previous_price": 314.99,
-    "current_price": 314.99,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "579965",
-    "category": "Magic",
-    "clean_name": "Wilds of Eldraine Collector Booster Sample Pack",
-    "previous_price": 20.49,
-    "current_price": 20.78,
-    "percent_change": 1.42
-  },
-  {
-    "product_id": "484923",
-    "category": "Magic",
-    "clean_name": "Commander Masters Draft Booster Pack",
-    "previous_price": 29.19,
-    "current_price": 29.19,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "484924",
-    "category": "Magic",
-    "clean_name": "Commander Masters Draft Booster Box",
-    "previous_price": 547.19,
-    "current_price": 546.87,
-    "percent_change": -0.06
-  },
-  {
-    "product_id": "484926",
-    "category": "Magic",
-    "clean_name": "Commander Masters Set Booster Pack",
-    "previous_price": 36.73,
-    "current_price": 36.89,
-    "percent_change": 0.44
-  },
-  {
-    "product_id": "484927",
-    "category": "Magic",
-    "clean_name": "Commander Masters Set Booster Box",
-    "previous_price": 674.79,
-    "current_price": 674.79,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "484928",
-    "category": "Magic",
-    "clean_name": "Commander Masters Collector Booster Pack",
-    "previous_price": 129.59,
-    "current_price": 129.59,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "484929",
-    "category": "Magic",
-    "clean_name": "Commander Masters Collector Booster Box",
-    "previous_price": 551.94,
-    "current_price": 553.19,
-    "percent_change": 0.23
-  },
-  {
-    "product_id": "484930",
-    "category": "Magic",
-    "clean_name": "Commander Masters Commander Deck Planeswalker Party",
-    "previous_price": 183.22,
-    "current_price": 183.22,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "484931",
-    "category": "Magic",
-    "clean_name": "Commander Masters Commander Deck Eldrazi Unbound",
-    "previous_price": 426.82,
-    "current_price": 426.82,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "484932",
-    "category": "Magic",
-    "clean_name": "Commander Masters Commander Deck Enduring Enchantments",
-    "previous_price": 148.77,
-    "current_price": 147.91,
-    "percent_change": -0.58
-  },
-  {
-    "product_id": "484933",
-    "category": "Magic",
-    "clean_name": "Commander Masters Commander Deck Sliver Swarm",
-    "previous_price": 328.87,
-    "current_price": 328.87,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "484934",
-    "category": "Magic",
-    "clean_name": "Commander Masters Commander Decks Set of 4",
-    "previous_price": 853.64,
-    "current_price": 853.64,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "490553",
-    "category": "Magic",
-    "clean_name": "Commander Masters Set Booster Box Case",
-    "previous_price": 3889.29,
-    "current_price": 3889.29,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "579968",
-    "category": "Magic",
-    "clean_name": "Commander Masters Collector Booster Sample Pack",
-    "previous_price": 31.42,
-    "current_price": 31.42,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "488293",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Commander Deck The Hosts of Mordor",
-    "previous_price": 129.09,
-    "current_price": 129.09,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "488294",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Commander Deck Food and Fellowship",
-    "previous_price": 107.91,
-    "current_price": 106.38,
-    "percent_change": -1.42
-  },
-  {
-    "product_id": "488295",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Commander Deck Elven Council",
-    "previous_price": 70.45,
-    "current_price": 69.67,
-    "percent_change": -1.11
-  },
-  {
-    "product_id": "488296",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Commander Deck Riders of Rohan",
-    "previous_price": 82.17,
-    "current_price": 82.09,
-    "percent_change": -0.1
-  },
-  {
-    "product_id": "488297",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Commander Decks Set of 4",
-    "previous_price": 321.64,
-    "current_price": 321.58,
-    "percent_change": -0.02
-  },
-  {
-    "product_id": "595039",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Deluxe Commander Kit The Hosts of Mordor",
-    "previous_price": 222.6,
-    "current_price": 222.6,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "599992",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Deluxe Commander Kit Food and Fellowship",
-    "previous_price": 173.02,
-    "current_price": 173.02,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "604831",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Deluxe Commander Kit Riders of Rohan",
-    "previous_price": 138.69,
-    "current_price": 138.69,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "604832",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Deluxe Commander Kit Elven Council",
-    "previous_price": 108.45,
-    "current_price": 108.45,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "484905",
-    "category": "Magic",
-    "clean_name": "Universes Beyond The Lord of the Rings Tales of Middle earth Draft Booster Pack",
-    "previous_price": 11.81,
-    "current_price": 11.71,
-    "percent_change": -0.85
-  },
-  {
-    "product_id": "484906",
-    "category": "Magic",
-    "clean_name": "Universes Beyond The Lord of the Rings Tales of Middle earth Draft Booster Box",
-    "previous_price": 435.42,
-    "current_price": 435.42,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "484908",
-    "category": "Magic",
-    "clean_name": "Universes Beyond The Lord of the Rings Tales of Middle earth Set Booster Pack",
-    "previous_price": 14.05,
-    "current_price": 13.9,
-    "percent_change": -1.07
-  },
-  {
-    "product_id": "484909",
-    "category": "Magic",
-    "clean_name": "Universes Beyond The Lord of the Rings Tales of Middle earth Set Booster Box",
-    "previous_price": 334.13,
-    "current_price": 335.23,
-    "percent_change": 0.33
-  },
-  {
-    "product_id": "484910",
-    "category": "Magic",
-    "clean_name": "Universes Beyond The Lord of the Rings Tales of Middle earth Set Booster Box Case",
-    "previous_price": 2129.1,
-    "current_price": 2037.28,
-    "percent_change": -4.31
-  },
-  {
-    "product_id": "484911",
-    "category": "Magic",
-    "clean_name": "Universes Beyond The Lord of the Rings Tales of Middle earth Collector Booster Pack",
-    "previous_price": 199.88,
-    "current_price": 199.8,
-    "percent_change": -0.04
-  },
-  {
-    "product_id": "484912",
-    "category": "Magic",
-    "clean_name": "Universes Beyond The Lord of the Rings Tales of Middle earth Collector Booster Display",
-    "previous_price": 2084.7,
-    "current_price": 2084.7,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "484913",
-    "category": "Magic",
-    "clean_name": "Universes Beyond The Lord of the Rings Tales of Middle earth Collector Booster Display Case",
-    "previous_price": 9999.99,
-    "current_price": 9999.99,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "484914",
-    "category": "Magic",
-    "clean_name": "Universes Beyond The Lord of the Rings Tales of Middle earth Jumpstart Booster Pack",
-    "previous_price": 21.35,
-    "current_price": 21.35,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "484915",
-    "category": "Magic",
-    "clean_name": "Universes Beyond The Lord of the Rings Tales of Middle earth Jumpstart Booster Box",
-    "previous_price": 243.97,
-    "current_price": 243.97,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "484917",
-    "category": "Magic",
-    "clean_name": "Universes Beyond The Lord of the Rings Tales of Middle earth Bundle",
-    "previous_price": 401.41,
-    "current_price": 401.41,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "484919",
-    "category": "Magic",
-    "clean_name": "Universes Beyond The Lord of the Rings Tales of Middle earth Gift Bundle",
-    "previous_price": 586.41,
-    "current_price": 587.01,
-    "percent_change": 0.1
-  },
-  {
-    "product_id": "484921",
-    "category": "Magic",
-    "clean_name": "Universes Beyond The Lord of the Rings Tales of Middle earth Starter Kit",
-    "previous_price": 83.09,
-    "current_price": 82.69,
-    "percent_change": -0.48
-  },
-  {
-    "product_id": "484922",
-    "category": "Magic",
-    "clean_name": "Universes Beyond The Lord of the Rings Tales of Middle earth Prerelease Pack",
-    "previous_price": 136.99,
-    "current_price": 136.49,
-    "percent_change": -0.36
-  },
-  {
-    "product_id": "502062",
-    "category": "Magic",
-    "clean_name": "Universes Beyond The Lord of the Rings Tales of Middle earth Jumpstart Booster Pack 2 Pack",
-    "previous_price": 47.14,
-    "current_price": 47.14,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "502987",
-    "category": "Magic",
-    "clean_name": "Universes Beyond The Lord of the Rings Tales of Middle earth Collector Booster Omega Pack",
-    "previous_price": 308.35,
-    "current_price": 308.35,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "514876",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Retail Tin The One Ring",
-    "previous_price": 64.56,
-    "current_price": 64.56,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "514877",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Retail Tin Gandalf Friend of the Shire",
-    "previous_price": 54.49,
-    "current_price": 54.49,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "514879",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Retail Tins Set of 3",
-    "previous_price": 196.67,
-    "current_price": 196.67,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "515905",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Special Edition Collector Booster Pack",
-    "previous_price": 564.69,
-    "current_price": 567.51,
-    "percent_change": 0.5
-  },
-  {
-    "product_id": "515906",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Special Edition Collector Booster Display",
-    "previous_price": 6826.4,
-    "current_price": 6826.4,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "515907",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Scene Box Flight of the Witch King",
-    "previous_price": 72.06,
-    "current_price": 72.06,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "515908",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Scene Box Aragorn at Helms Deep",
-    "previous_price": 68.12,
-    "current_price": 68.1,
-    "percent_change": -0.03
-  },
-  {
-    "product_id": "515909",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Scene Box The Might of Galadriel",
-    "previous_price": 69.09,
-    "current_price": 69.09,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "515910",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Scene Box Gandalf in the Pelennor Fields",
-    "previous_price": 58.05,
-    "current_price": 58.05,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "515911",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Scene Boxes Set of 4",
-    "previous_price": 204.43,
-    "current_price": 205.46,
-    "percent_change": 0.5
-  },
-  {
-    "product_id": "515920",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Jumpstart Vol 2 Booster Pack",
-    "previous_price": 24.71,
-    "current_price": 24.71,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "515921",
-    "category": "Magic",
-    "clean_name": "The Lord of the Rings Tales of Middle earth Jumpstart Vol 2 Booster Display",
-    "previous_price": 306.78,
-    "current_price": 306.78,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "522644",
-    "category": "Magic",
-    "clean_name": "Universes Beyond The Lord of the Rings Tales of Middle earth Realms and Relics Box Topper Pack",
-    "previous_price": 46.92,
-    "current_price": 46.55,
-    "percent_change": -0.79
-  },
-  {
-    "product_id": "553330",
-    "category": "Magic",
-    "clean_name": "Universes Beyond The Lord of the Rings Tales of Middle earth Special Edition Collector Booster Omega Pack",
-    "previous_price": 559.52,
-    "current_price": 559.52,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "579970",
-    "category": "Magic",
-    "clean_name": "Universes Beyond The Lord of the Rings Tales of Middle earth Collector Booster Sample Pack",
-    "previous_price": 19.57,
-    "current_price": 19.56,
-    "percent_change": -0.05
-  },
-  {
-    "product_id": "489204",
-    "category": "Magic",
-    "clean_name": "March of the Machine The Aftermath Collector Booster Pack",
-    "previous_price": 29.78,
-    "current_price": 29.78,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "489207",
-    "category": "Magic",
-    "clean_name": "March of the Machine The Aftermath Collector Booster Display",
-    "previous_price": 282.89,
-    "current_price": 285.33,
-    "percent_change": 0.86
-  },
-  {
-    "product_id": "489214",
-    "category": "Magic",
-    "clean_name": "March of the Machine The Aftermath Bundle",
-    "previous_price": 72.29,
-    "current_price": 72.29,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "489274",
-    "category": "Magic",
-    "clean_name": "March of the Machine The Aftermath Epilogue Booster Pack",
-    "previous_price": 5.95,
-    "current_price": 6.1,
-    "percent_change": 2.52
-  },
-  {
-    "product_id": "489276",
-    "category": "Magic",
-    "clean_name": "March of the Machine The Aftermath Epilogue Booster Display",
-    "previous_price": 101.45,
-    "current_price": 101.45,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "484587",
-    "category": "Magic",
-    "clean_name": "March of the Machine Commander Deck Call For Backup",
-    "previous_price": 82.87,
-    "current_price": 82.87,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "484588",
-    "category": "Magic",
-    "clean_name": "March of the Machine Commander Deck Divine Convocation",
-    "previous_price": 76.06,
-    "current_price": 76.06,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "484589",
-    "category": "Magic",
-    "clean_name": "March of the Machine Commander Deck Cavalry Charge",
-    "previous_price": 148.82,
-    "current_price": 148.26,
-    "percent_change": -0.38
-  },
-  {
-    "product_id": "484590",
-    "category": "Magic",
-    "clean_name": "March of the Machine Commander Deck Growing Threat",
-    "previous_price": 86.86,
-    "current_price": 87.26,
-    "percent_change": 0.46
-  },
-  {
-    "product_id": "484591",
-    "category": "Magic",
-    "clean_name": "March of the Machine Commander Deck Tinker Time",
-    "previous_price": 52.66,
-    "current_price": 52.78,
-    "percent_change": 0.23
-  },
-  {
-    "product_id": "484593",
-    "category": "Magic",
-    "clean_name": "March of the Machine Commander Decks Set of 5",
-    "previous_price": 413.56,
-    "current_price": 413.56,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "602880",
-    "category": "Magic",
-    "clean_name": "March of the Machine Deluxe Commander Kit Growing Threat",
-    "previous_price": 155.96,
-    "current_price": 155.96,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "602881",
-    "category": "Magic",
-    "clean_name": "March of the Machine Deluxe Commander Kit Cavalry Charge",
-    "previous_price": 204.49,
-    "current_price": 204.49,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "602883",
-    "category": "Magic",
-    "clean_name": "March of the Machine Deluxe Commander Kit Call For Backup",
-    "previous_price": 151.59,
-    "current_price": 151.59,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "602884",
-    "category": "Magic",
-    "clean_name": "March of the Machine Deluxe Commander Kit Tinker Time",
-    "previous_price": 109.95,
-    "current_price": 109.95,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "475575",
-    "category": "Magic",
-    "clean_name": "March of the Machine Draft Booster Box",
-    "previous_price": 183.97,
-    "current_price": 185.25,
-    "percent_change": 0.7
-  },
-  {
-    "product_id": "475576",
-    "category": "Magic",
-    "clean_name": "March of the Machine Draft Booster Box Case",
-    "previous_price": 1039.0,
-    "current_price": 1039.0,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "475577",
-    "category": "Magic",
-    "clean_name": "March of the Machine Draft Booster Pack",
-    "previous_price": 5.73,
-    "current_price": 5.73,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "475578",
-    "category": "Magic",
-    "clean_name": "March of the Machine Set Booster Pack",
-    "previous_price": 9.21,
-    "current_price": 9.21,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "475579",
-    "category": "Magic",
-    "clean_name": "March of the Machine Set Booster Display",
-    "previous_price": 304.81,
-    "current_price": 304.23,
-    "percent_change": -0.19
-  },
-  {
-    "product_id": "475580",
-    "category": "Magic",
-    "clean_name": "March of the Machine Set Booster Display Case",
-    "previous_price": 1115.45,
-    "current_price": 1126.72,
-    "percent_change": 1.01
-  },
-  {
-    "product_id": "475581",
-    "category": "Magic",
-    "clean_name": "March of the Machine Jumpstart Booster Pack",
-    "previous_price": 12.2,
-    "current_price": 12.2,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "475582",
-    "category": "Magic",
-    "clean_name": "March of the Machine Jumpstart Booster Display",
-    "previous_price": 136.19,
-    "current_price": 141.26,
-    "percent_change": 3.72
-  },
-  {
-    "product_id": "475583",
-    "category": "Magic",
-    "clean_name": "March of the Machine Collector Booster Pack",
-    "previous_price": 92.67,
-    "current_price": 92.67,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "475584",
-    "category": "Magic",
-    "clean_name": "March of the Machine Collector Booster Display",
-    "previous_price": 957.18,
-    "current_price": 957.18,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "475586",
-    "category": "Magic",
-    "clean_name": "March of the Machine Bundle",
-    "previous_price": 82.84,
-    "current_price": 82.84,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "475588",
-    "category": "Magic",
-    "clean_name": "March of the Machine Prerelease Pack",
-    "previous_price": 48.91,
-    "current_price": 48.91,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "579974",
-    "category": "Magic",
-    "clean_name": "March of the Machine Collector Booster Sample Pack",
-    "previous_price": 8.11,
-    "current_price": 8.11,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "475566",
-    "category": "Magic",
-    "clean_name": "Phyrexia All Will Be One Commander Deck Corrupting Influence",
-    "previous_price": 294.35,
-    "current_price": 296.87,
-    "percent_change": 0.86
-  },
-  {
-    "product_id": "475567",
-    "category": "Magic",
-    "clean_name": "Phyrexia All Will Be One Commander Deck Rebellion Rising",
-    "previous_price": 93.94,
-    "current_price": 93.94,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "475568",
-    "category": "Magic",
-    "clean_name": "Phyrexia All Will Be One Commander Decks Set of 2",
-    "previous_price": 339.46,
-    "current_price": 339.46,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "451868",
-    "category": "Magic",
-    "clean_name": "Phyrexia All Will Be One Draft Booster Pack",
-    "previous_price": 9.56,
-    "current_price": 9.56,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "451869",
-    "category": "Magic",
-    "clean_name": "Phyrexia All Will Be One Draft Booster Box",
-    "previous_price": 243.45,
-    "current_price": 243.18,
-    "percent_change": -0.11
-  },
-  {
-    "product_id": "451871",
-    "category": "Magic",
-    "clean_name": "Phyrexia All Will Be One Set Booster Pack",
-    "previous_price": 12.24,
-    "current_price": 12.34,
-    "percent_change": 0.82
-  },
-  {
-    "product_id": "451872",
-    "category": "Magic",
-    "clean_name": "Phyrexia All Will Be One Set Booster Display",
-    "previous_price": 291.4,
-    "current_price": 291.48,
-    "percent_change": 0.03
-  },
-  {
-    "product_id": "451873",
-    "category": "Magic",
-    "clean_name": "Phyrexia All Will Be One Set Booster Display Case",
-    "previous_price": 1397.6,
-    "current_price": 1414.2,
-    "percent_change": 1.19
-  },
-  {
-    "product_id": "451874",
-    "category": "Magic",
-    "clean_name": "Phyrexia All Will Be One Compleat Bundle",
-    "previous_price": 439.15,
-    "current_price": 439.15,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "451875",
-    "category": "Magic",
-    "clean_name": "Phyrexia All Will Be One Jumpstart Booster Pack",
-    "previous_price": 9.25,
-    "current_price": 9.25,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "451876",
-    "category": "Magic",
-    "clean_name": "Phyrexia All Will Be One Jumpstart Booster Display",
-    "previous_price": 153.45,
-    "current_price": 153.45,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "451877",
-    "category": "Magic",
-    "clean_name": "Phyrexia All Will Be One Bundle",
-    "previous_price": 185.61,
-    "current_price": 185.61,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "451879",
-    "category": "Magic",
-    "clean_name": "Phyrexia All Will Be One Collector Booster Pack",
-    "previous_price": 108.21,
-    "current_price": 108.21,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "451880",
-    "category": "Magic",
-    "clean_name": "Phyrexia All Will Be One Collector Booster Display",
-    "previous_price": 1089.17,
-    "current_price": 1089.17,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "475570",
-    "category": "Magic",
-    "clean_name": "Phyrexia All Will Be One Prerelease Pack",
-    "previous_price": 92.64,
-    "current_price": 92.64,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "478805",
-    "category": "Magic",
-    "clean_name": "Phyrexia All Will Be One Compleat Bundle Case",
-    "previous_price": 2100.07,
-    "current_price": 2100.07,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "579976",
-    "category": "Magic",
-    "clean_name": "Phyrexia All Will Be One Collector Booster Sample Pack",
-    "previous_price": 27.62,
-    "current_price": 27.62,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "449558",
-    "category": "Magic",
-    "clean_name": "Dominaria Remastered Draft Booster Box",
-    "previous_price": 276.27,
-    "current_price": 276.54,
-    "percent_change": 0.1
-  },
-  {
-    "product_id": "449559",
-    "category": "Magic",
-    "clean_name": "Dominaria Remastered Collector Booster Display",
-    "previous_price": 573.4,
-    "current_price": 573.4,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "449570",
-    "category": "Magic",
-    "clean_name": "Dominaria Remastered Collector Booster Pack",
-    "previous_price": 52.64,
-    "current_price": 52.64,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "449571",
-    "category": "Magic",
-    "clean_name": "Dominaria Remastered Draft Booster Pack",
-    "previous_price": 9.33,
-    "current_price": 9.43,
-    "percent_change": 1.07
-  },
-  {
-    "product_id": "455797",
-    "category": "Magic",
-    "clean_name": "Dominaria Remastered Collector Booster Display Case",
-    "previous_price": 3100.98,
-    "current_price": 3100.98,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "455798",
-    "category": "Magic",
-    "clean_name": "Dominaria Remastered Draft Booster Case",
-    "previous_price": 1490.62,
-    "current_price": 1490.62,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "287814",
-    "category": "Magic",
-    "clean_name": "Jumpstart 2022 Booster Pack",
-    "previous_price": 9.54,
-    "current_price": 9.54,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "287815",
-    "category": "Magic",
-    "clean_name": "Jumpstart 2022 Booster Display",
-    "previous_price": 204.87,
-    "current_price": 204.87,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "451256",
-    "category": "Magic",
-    "clean_name": "Jumpstart 2022 Booster Display Case",
-    "previous_price": 1234.45,
-    "current_price": 1234.45,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "448432",
-    "category": "Magic",
-    "clean_name": "Starter Commander Deck Grave Danger",
-    "previous_price": 34.63,
-    "current_price": 35.15,
-    "percent_change": 1.5
-  },
-  {
-    "product_id": "448433",
-    "category": "Magic",
-    "clean_name": "Starter Commander Deck Token Triumph",
-    "previous_price": 32.11,
-    "current_price": 32.11,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "448434",
-    "category": "Magic",
-    "clean_name": "Starter Commander Deck First Flight",
-    "previous_price": 27.94,
-    "current_price": 27.93,
-    "percent_change": -0.04
-  },
-  {
-    "product_id": "448435",
-    "category": "Magic",
-    "clean_name": "Starter Commander Deck Chaos Incarnate",
-    "previous_price": 39.4,
-    "current_price": 38.96,
-    "percent_change": -1.12
-  },
-  {
-    "product_id": "448436",
-    "category": "Magic",
-    "clean_name": "Starter Commander Deck Draconic Destruction",
-    "previous_price": 49.09,
-    "current_price": 49.07,
-    "percent_change": -0.04
-  },
-  {
-    "product_id": "448437",
-    "category": "Magic",
-    "clean_name": "Starter Commander Deck Set of 5",
-    "previous_price": 122.19,
-    "current_price": 122.37,
-    "percent_change": 0.15
-  },
-  {
-    "product_id": "454314",
-    "category": "Magic",
-    "clean_name": "Secret Lair 30th Anniversary Countdown Kit",
-    "previous_price": 397.54,
-    "current_price": 397.54,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "448872",
-    "category": "Magic",
-    "clean_name": "30th Anniversary Edition Display",
-    "previous_price": 1425.3,
-    "current_price": 1425.3,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "448873",
-    "category": "Magic",
-    "clean_name": "30th Anniversary Edition Pack",
-    "previous_price": 374.72,
-    "current_price": 374.72,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "449722",
-    "category": "Magic",
-    "clean_name": "The Brothers War Commander Deck Urzas Iron Alliance",
-    "previous_price": 157.32,
-    "current_price": 157.32,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "449723",
-    "category": "Magic",
-    "clean_name": "The Brothers War Commander Deck Mishras Burnished Banner",
-    "previous_price": 104.72,
-    "current_price": 104.72,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "449724",
-    "category": "Magic",
-    "clean_name": "The Brothers War Commander Deck Set of 2",
-    "previous_price": 253.99,
-    "current_price": 253.99,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "450084",
-    "category": "Magic",
-    "clean_name": "The Brothers War Commander Deck Display",
-    "previous_price": 434.2,
-    "current_price": 434.2,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "282221",
-    "category": "Magic",
-    "clean_name": "The Brothers War Bundle",
-    "previous_price": 98.46,
-    "current_price": 98.46,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "282223",
-    "category": "Magic",
-    "clean_name": "The Brothers War Collector Booster Pack",
-    "previous_price": 76.56,
-    "current_price": 76.56,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "282224",
-    "category": "Magic",
-    "clean_name": "The Brothers War Collector Booster Display",
-    "previous_price": 841.37,
-    "current_price": 841.37,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "282225",
-    "category": "Magic",
-    "clean_name": "The Brothers War Collector Booster Display Case",
-    "previous_price": 3776.25,
-    "current_price": 3776.25,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "282226",
-    "category": "Magic",
-    "clean_name": "The Brothers War Draft Booster Box",
-    "previous_price": 229.81,
-    "current_price": 228.09,
-    "percent_change": -0.75
-  },
-  {
-    "product_id": "282227",
-    "category": "Magic",
-    "clean_name": "The Brothers War Draft Booster Pack",
-    "previous_price": 7.12,
-    "current_price": 7.12,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "282230",
-    "category": "Magic",
-    "clean_name": "The Brothers War Set Booster Display",
-    "previous_price": 384.51,
-    "current_price": 384.51,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "282231",
-    "category": "Magic",
-    "clean_name": "The Brothers War Set Booster Pack",
-    "previous_price": 14.03,
-    "current_price": 14.03,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "282232",
-    "category": "Magic",
-    "clean_name": "The Brothers War Prerelease Pack Urzas Iron Alliance",
-    "previous_price": 45.03,
-    "current_price": 45.03,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "285179",
-    "category": "Magic",
-    "clean_name": "The Brothers War Prerelease Pack Mishras Burnished Banner",
-    "previous_price": 41.26,
-    "current_price": 40.76,
-    "percent_change": -1.21
-  },
-  {
-    "product_id": "448633",
-    "category": "Magic",
-    "clean_name": "The Brothers War Gift Bundle",
-    "previous_price": 175.32,
-    "current_price": 180.27,
-    "percent_change": 2.82
-  },
-  {
-    "product_id": "449719",
-    "category": "Magic",
-    "clean_name": "The Brothers War Jumpstart Booster Display",
-    "previous_price": 92.3,
-    "current_price": 91.9,
-    "percent_change": -0.43
-  },
-  {
-    "product_id": "449720",
-    "category": "Magic",
-    "clean_name": "The Brothers War Jumpstart Booster Pack",
-    "previous_price": 7.42,
-    "current_price": 7.42,
-    "percent_change": 0.0
-  },
-  {
-    "product_id": "579978",
-    "category": "Magic",
-    "clean_name": "The Brothers War Collector Booster Sample Pack",
-    "previous_price": 12.96,
-    "current_price": 12.96,
     "percent_change": 0.0
   }
 ]
